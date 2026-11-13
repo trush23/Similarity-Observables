@@ -1,0 +1,151 @@
+motif,condition,method,top1,low95,high95
+bar,clean,early GAP,0.5,0.5,0.5
+bar,clean,early GAP · phase bank,0.5,0.5,0.5
+bar,clean,isolated Q,0.5,0.5,0.5
+bar,clean,isolated alignment,1.0,1.0,1.0
+bar,clean,isolated mean,0.5,0.5,0.5
+bar,clean,isolated pair,0.5,0.5,0.5
+bar,clean,isolated triple,1.0,1.0,1.0
+bar,clean,late GAP,0.53125,0.5,0.59375
+bar,clean,late GAP · phase bank,0.5,0.5,0.5
+bar,noise 0.35,early GAP,0.46875,0.40625,0.5
+bar,noise 0.35,early GAP · phase bank,0.46875,0.40625,0.5
+bar,noise 0.35,isolated Q,0.5,0.5,0.5
+bar,noise 0.35,isolated alignment,1.0,1.0,1.0
+bar,noise 0.35,isolated mean,0.5,0.5,0.5
+bar,noise 0.35,isolated pair,0.5,0.5,0.5
+bar,noise 0.35,isolated triple,1.0,1.0,1.0
+bar,noise 0.35,late GAP,0.5,0.5,0.5
+bar,noise 0.35,late GAP · phase bank,0.46875,0.3125,0.65625
+bar,noise 1.0,early GAP,0.5,0.5,0.5
+bar,noise 1.0,early GAP · phase bank,0.5,0.5,0.5
+bar,noise 1.0,isolated Q,0.5,0.5,0.5
+bar,noise 1.0,isolated alignment,0.625,0.46875,0.78125
+bar,noise 1.0,isolated mean,0.5,0.5,0.5
+bar,noise 1.0,isolated pair,0.5,0.5,0.5
+bar,noise 1.0,isolated triple,0.53125,0.375,0.6875
+bar,noise 1.0,late GAP,0.71875,0.5625,0.875
+bar,noise 1.0,late GAP · phase bank,0.5625,0.5,0.65625
+bar,noise 2.0,early GAP,0.5,0.5,0.5
+bar,noise 2.0,early GAP · phase bank,0.5,0.5,0.5
+bar,noise 2.0,isolated Q,0.5,0.5,0.5
+bar,noise 2.0,isolated alignment,0.375,0.21875,0.5625
+bar,noise 2.0,isolated mean,0.5,0.5,0.5
+bar,noise 2.0,isolated pair,0.5,0.5,0.5
+bar,noise 2.0,isolated triple,0.34375,0.1875,0.5
+bar,noise 2.0,late GAP,0.5,0.375,0.625
+bar,noise 2.0,late GAP · phase bank,0.59375,0.46875,0.71875
+bar,tile sign,early GAP,0.5,0.5,0.5
+bar,tile sign,early GAP · phase bank,0.5,0.5,0.5
+bar,tile sign,isolated Q,0.5,0.5,0.5
+bar,tile sign,isolated alignment,1.0,1.0,1.0
+bar,tile sign,isolated mean,0.5,0.5,0.5
+bar,tile sign,isolated pair,0.5,0.5,0.5
+bar,tile sign,isolated triple,1.0,1.0,1.0
+bar,tile sign,late GAP,0.46875,0.40625,0.5
+bar,tile sign,late GAP · phase bank,0.4375,0.34375,0.5
+ridge,clean,early GAP,0.5,0.5,0.5
+ridge,clean,early GAP · phase bank,0.5,0.5,0.5
+ridge,clean,isolated Q,0.5,0.5,0.5
+ridge,clean,isolated alignment,1.0,1.0,1.0
+ridge,clean,isolated mean,0.5,0.5,0.5
+ridge,clean,isolated pair,0.5,0.5,0.5
+ridge,clean,isolated triple,1.0,1.0,1.0
+ridge,clean,late GAP,0.59375,0.5,0.6875
+ridge,clean,late GAP · phase bank,0.46875,0.3125,0.59375
+ridge,noise 0.35,early GAP,0.46875,0.40625,0.5
+ridge,noise 0.35,early GAP · phase bank,0.46875,0.40625,0.5
+ridge,noise 0.35,isolated Q,0.5,0.5,0.5
+ridge,noise 0.35,isolated alignment,1.0,1.0,1.0
+ridge,noise 0.35,isolated mean,0.5,0.5,0.5
+ridge,noise 0.35,isolated pair,0.5,0.5,0.5
+ridge,noise 0.35,isolated triple,1.0,1.0,1.0
+ridge,noise 0.35,late GAP,0.5,0.5,0.5
+ridge,noise 0.35,late GAP · phase bank,0.5625,0.40625,0.71875
+ridge,noise 1.0,early GAP,0.5,0.5,0.5
+ridge,noise 1.0,early GAP · phase bank,0.5,0.5,0.5
+ridge,noise 1.0,isolated Q,0.5,0.5,0.5
+ridge,noise 1.0,isolated alignment,0.59375,0.4375,0.75
+ridge,noise 1.0,isolated mean,0.5,0.5,0.5
+ridge,noise 1.0,isolated pair,0.5,0.5,0.5
+ridge,noise 1.0,isolated triple,0.5625,0.375,0.71875
+ridge,noise 1.0,late GAP,0.6875,0.5625,0.8125
+ridge,noise 1.0,late GAP · phase bank,0.59375,0.5,0.6875
+ridge,noise 2.0,early GAP,0.5,0.5,0.5
+ridge,noise 2.0,early GAP · phase bank,0.5,0.5,0.5
+ridge,noise 2.0,isolated Q,0.5,0.5,0.5
+ridge,noise 2.0,isolated alignment,0.40625,0.25,0.59375
+ridge,noise 2.0,isolated mean,0.5,0.5,0.5
+ridge,noise 2.0,isolated pair,0.5,0.5,0.5
+ridge,noise 2.0,isolated triple,0.3125,0.15625,0.46875
+ridge,noise 2.0,late GAP,0.5,0.375,0.625
+ridge,noise 2.0,late GAP · phase bank,0.5625,0.4375,0.6875
+ridge,tile sign,early GAP,0.5,0.5,0.5
+ridge,tile sign,early GAP · phase bank,0.5,0.5,0.5
+ridge,tile sign,isolated Q,0.5,0.5,0.5
+ridge,tile sign,isolated alignment,1.0,1.0,1.0
+ridge,tile sign,isolated mean,0.5,0.5,0.5
+ridge,tile sign,isolated pair,0.5,0.5,0.5
+ridge,tile sign,isolated triple,1.0,1.0,1.0
+ridge,tile sign,late GAP,0.46875,0.40625,0.5
+ridge,tile sign,late GAP · phase bank,0.4375,0.3125,0.5320312500000028
+windowed wave,clean,early GAP,0.65625,0.53125,0.78125
+windowed wave,clean,early GAP · phase bank,1.0,1.0,1.0
+windowed wave,clean,isolated Q,0.5,0.5,0.5
+windowed wave,clean,isolated alignment,1.0,1.0,1.0
+windowed wave,clean,isolated mean,0.5,0.5,0.5
+windowed wave,clean,isolated pair,0.5,0.5,0.5
+windowed wave,clean,isolated triple,1.0,1.0,1.0
+windowed wave,clean,late GAP,0.5,0.3125,0.65625
+windowed wave,clean,late GAP · phase bank,1.0,1.0,1.0
+windowed wave,noise 0.35,early GAP,0.5625,0.5,0.65625
+windowed wave,noise 0.35,early GAP · phase bank,0.40625,0.25,0.5632812500000028
+windowed wave,noise 0.35,isolated Q,0.5,0.5,0.5
+windowed wave,noise 0.35,isolated alignment,1.0,1.0,1.0
+windowed wave,noise 0.35,isolated mean,0.5,0.5,0.5
+windowed wave,noise 0.35,isolated pair,0.5,0.5,0.5
+windowed wave,noise 0.35,isolated triple,1.0,1.0,1.0
+windowed wave,noise 0.35,late GAP,0.40625,0.25,0.59375
+windowed wave,noise 0.35,late GAP · phase bank,0.78125,0.625,0.90625
+windowed wave,noise 1.0,early GAP,0.53125,0.4375,0.625
+windowed wave,noise 1.0,early GAP · phase bank,0.46875,0.34375,0.625
+windowed wave,noise 1.0,isolated Q,0.5,0.5,0.5
+windowed wave,noise 1.0,isolated alignment,0.96875,0.90625,1.0
+windowed wave,noise 1.0,isolated mean,0.5,0.5,0.5
+windowed wave,noise 1.0,isolated pair,0.5,0.5,0.5
+windowed wave,noise 1.0,isolated triple,0.96875,0.90625,1.0
+windowed wave,noise 1.0,late GAP,0.53125,0.375,0.71875
+windowed wave,noise 1.0,late GAP · phase bank,0.5625,0.40625,0.71875
+windowed wave,noise 2.0,early GAP,0.5,0.5,0.5
+windowed wave,noise 2.0,early GAP · phase bank,0.5,0.5,0.5
+windowed wave,noise 2.0,isolated Q,0.5,0.5,0.5
+windowed wave,noise 2.0,isolated alignment,0.625,0.46875,0.78125
+windowed wave,noise 2.0,isolated mean,0.5,0.5,0.5
+windowed wave,noise 2.0,isolated pair,0.5,0.5,0.5
+windowed wave,noise 2.0,isolated triple,0.5,0.34375,0.65625
+windowed wave,noise 2.0,late GAP,0.46875,0.3125,0.625
+windowed wave,noise 2.0,late GAP · phase bank,0.59375,0.5,0.6875
+windowed wave,tile sign,early GAP,0.5,0.5,0.5
+windowed wave,tile sign,early GAP · phase bank,0.46875,0.40625,0.5
+windowed wave,tile sign,isolated Q,0.5,0.5,0.5
+windowed wave,tile sign,isolated alignment,1.0,1.0,1.0
+windowed wave,tile sign,isolated mean,0.5,0.5,0.5
+windowed wave,tile sign,isolated pair,0.5,0.5,0.5
+windowed wave,tile sign,isolated triple,1.0,1.0,1.0
+windowed wave,tile sign,late GAP,0.4375,0.3125,0.5625
+windowed wave,tile sign,late GAP · phase bank,0.71875,0.59375,0.84375
+bar,clean,aligned sign-free patches,1.0,1.0,1.0
+bar,noise 0.35,aligned sign-free patches,1.0,1.0,1.0
+bar,noise 1.0,aligned sign-free patches,1.0,1.0,1.0
+bar,noise 2.0,aligned sign-free patches,1.0,1.0,1.0
+bar,tile sign,aligned sign-free patches,1.0,1.0,1.0
+ridge,clean,aligned sign-free patches,1.0,1.0,1.0
+ridge,noise 0.35,aligned sign-free patches,1.0,1.0,1.0
+ridge,noise 1.0,aligned sign-free patches,1.0,1.0,1.0
+ridge,noise 2.0,aligned sign-free patches,0.96875,0.90625,1.0
+ridge,tile sign,aligned sign-free patches,1.0,1.0,1.0
+windowed wave,clean,aligned sign-free patches,1.0,1.0,1.0
+windowed wave,noise 0.35,aligned sign-free patches,1.0,1.0,1.0
+windowed wave,noise 1.0,aligned sign-free patches,1.0,1.0,1.0
+windowed wave,noise 2.0,aligned sign-free patches,1.0,1.0,1.0
+windowed wave,tile sign,aligned sign-free patches,1.0,1.0,1.0

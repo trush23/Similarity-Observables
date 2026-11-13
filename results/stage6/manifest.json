@@ -1,0 +1,13 @@
+{
+  "seed": 6028,
+  "sha256": "731c5ac602752760c8e48fbffcf8c3b850d9dc2a2aedcf2cc48468fc17b673d1",
+  "development_galleries": 6,
+  "test_galleries": 16,
+  "sources_per_gallery": 20,
+  "radius": 3,
+  "min_coverage": 0.65,
+  "development_selected": {
+    "identity": "aligned local Q",
+    "class": "local Q"
+  }
+}

@@ -1,0 +1,4 @@
+left,right,difference,low95,high95
+Q_correlation,local_Q_8,0.75,0.6666666666666666,0.8333333333333334
+registered_Q,local_Q_8,0.75,0.6666666666666666,0.8333333333333334
+registered_Q,registered_pixels,0.0,0.0,0.0

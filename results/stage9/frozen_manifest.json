@@ -1,0 +1,17 @@
+{
+  "models": {
+    "ResNet-50": {
+      "weights": "https://download.pytorch.org/models/resnet50-0676ba61.pth",
+      "sha256": "0676ba61b6795bbe1773cffd859882e5e297624d384b6993f7c9e683e722fb8a",
+      "seconds": 109.3619148710277
+    },
+    "EfficientNet-B0": {
+      "weights": "https://download.pytorch.org/models/efficientnet_b0_rwightman-7f5810bc.pth",
+      "sha256": "7f5810bc96def8f7552d5b7e68d53c4786f81167d28291b21c0d90e1fca14934",
+      "seconds": 45.21495600277558
+    }
+  },
+  "torch": "2.5.1",
+  "torchvision": "0.20.1",
+  "input_size": 56
+}

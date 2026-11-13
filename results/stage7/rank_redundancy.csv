@@ -1,0 +1,1522 @@
+condition,left,right,mean_rho,defined_queries,queries
+clean,pixels,pixels,1.0,320,320
+clean,pixels,polar m1,0.14438450710653242,277,320
+clean,pixels,global Q,0.11844298245614034,320,320
+clean,pixels,angular m4,0.07772478070175437,320,320
+clean,pixels,HOG,0.4592489035087718,320,320
+clean,pixels,local Q,0.4357236842105262,320,320
+clean,pixels,open Q pairs,0.26419407894736835,320,320
+clean,pixels,open Q triplets,0.05485197368421052,320,320
+clean,pixels,DCT power,0.4141611842105263,320,320
+clean,pixels,aligned pixels,0.6779276315789472,320,320
+clean,pixels,aligned local Q,0.3449506578947368,320,320
+clean,pixels,aligned Q magnitude,0.6115241228070174,320,320
+clean,pixels,aligned gradient strength,0.6704879385964911,320,320
+clean,polar m1,pixels,0.14438450710653242,277,320
+clean,polar m1,polar m1,1.0,277,320
+clean,polar m1,global Q,-0.03948616230969655,277,320
+clean,polar m1,angular m4,-0.03837231071566304,277,320
+clean,polar m1,HOG,0.14902279408316327,277,320
+clean,polar m1,local Q,0.09806924541263208,277,320
+clean,polar m1,open Q pairs,-0.06937562920337784,277,320
+clean,polar m1,open Q triplets,-0.021360355622389,277,320
+clean,polar m1,DCT power,0.03752942991788048,277,320
+clean,polar m1,aligned pixels,0.05239719056966054,277,320
+clean,polar m1,aligned local Q,0.04379844490068576,277,320
+clean,polar m1,aligned Q magnitude,0.04549840883108732,277,320
+clean,polar m1,aligned gradient strength,0.1143106813323543,277,320
+clean,global Q,pixels,0.11844298245614034,320,320
+clean,global Q,polar m1,-0.03948616230969655,277,320
+clean,global Q,global Q,1.0,320,320
+clean,global Q,angular m4,0.17632675438596487,320,320
+clean,global Q,HOG,0.35370614035087716,320,320
+clean,global Q,local Q,0.48729714912280697,320,320
+clean,global Q,open Q pairs,0.13024671052631578,320,320
+clean,global Q,open Q triplets,0.5561567982456139,320,320
+clean,global Q,DCT power,0.12013706140350874,320,320
+clean,global Q,aligned pixels,0.2250986842105263,320,320
+clean,global Q,aligned local Q,0.5469956140350877,320,320
+clean,global Q,aligned Q magnitude,0.2714912280701754,320,320
+clean,global Q,aligned gradient strength,0.2218475877192982,320,320
+clean,angular m4,pixels,0.07772478070175437,320,320
+clean,angular m4,polar m1,-0.03837231071566304,277,320
+clean,angular m4,global Q,0.17632675438596487,320,320
+clean,angular m4,angular m4,1.0,320,320
+clean,angular m4,HOG,0.22398574561403506,320,320
+clean,angular m4,local Q,0.15672149122807016,320,320
+clean,angular m4,open Q pairs,0.10649122807017544,320,320
+clean,angular m4,open Q triplets,0.1839583333333333,320,320
+clean,angular m4,DCT power,0.10032346491228068,320,320
+clean,angular m4,aligned pixels,0.17816337719298242,320,320
+clean,angular m4,aligned local Q,0.20273026315789472,320,320
+clean,angular m4,aligned Q magnitude,0.14788925438596487,320,320
+clean,angular m4,aligned gradient strength,0.12734100877192983,320,320
+clean,HOG,pixels,0.4592489035087718,320,320
+clean,HOG,polar m1,0.14902279408316327,277,320
+clean,HOG,global Q,0.35370614035087716,320,320
+clean,HOG,angular m4,0.22398574561403506,320,320
+clean,HOG,HOG,1.0,320,320
+clean,HOG,local Q,0.7383442982456139,320,320
+clean,HOG,open Q pairs,0.21531798245614028,320,320
+clean,HOG,open Q triplets,0.2781743421052631,320,320
+clean,HOG,DCT power,0.25144188596491224,320,320
+clean,HOG,aligned pixels,0.5739418859649122,320,320
+clean,HOG,aligned local Q,0.6825438596491227,320,320
+clean,HOG,aligned Q magnitude,0.5688322368421053,320,320
+clean,HOG,aligned gradient strength,0.6405866228070174,320,320
+clean,local Q,pixels,0.4357236842105262,320,320
+clean,local Q,polar m1,0.09806924541263208,277,320
+clean,local Q,global Q,0.48729714912280697,320,320
+clean,local Q,angular m4,0.15672149122807016,320,320
+clean,local Q,HOG,0.7383442982456139,320,320
+clean,local Q,local Q,1.0,320,320
+clean,local Q,open Q pairs,0.22519188596491224,320,320
+clean,local Q,open Q triplets,0.31646381578947363,320,320
+clean,local Q,DCT power,0.19218201754385963,320,320
+clean,local Q,aligned pixels,0.5466008771929823,320,320
+clean,local Q,aligned local Q,0.8442872807017542,320,320
+clean,local Q,aligned Q magnitude,0.5310471491228068,320,320
+clean,local Q,aligned gradient strength,0.5280866228070175,320,320
+clean,open Q pairs,pixels,0.26419407894736835,320,320
+clean,open Q pairs,polar m1,-0.06937562920337784,277,320
+clean,open Q pairs,global Q,0.13024671052631578,320,320
+clean,open Q pairs,angular m4,0.10649122807017544,320,320
+clean,open Q pairs,HOG,0.21531798245614028,320,320
+clean,open Q pairs,local Q,0.22519188596491224,320,320
+clean,open Q pairs,open Q pairs,1.0,320,320
+clean,open Q pairs,open Q triplets,0.14465460526315788,320,320
+clean,open Q pairs,DCT power,0.22672149122807012,320,320
+clean,open Q pairs,aligned pixels,0.3375383771929824,320,320
+clean,open Q pairs,aligned local Q,0.2414473684210526,320,320
+clean,open Q pairs,aligned Q magnitude,0.3820888157894736,320,320
+clean,open Q pairs,aligned gradient strength,0.28314692982456136,320,320
+clean,open Q triplets,pixels,0.05485197368421052,320,320
+clean,open Q triplets,polar m1,-0.021360355622389,277,320
+clean,open Q triplets,global Q,0.5561567982456139,320,320
+clean,open Q triplets,angular m4,0.1839583333333333,320,320
+clean,open Q triplets,HOG,0.2781743421052631,320,320
+clean,open Q triplets,local Q,0.31646381578947363,320,320
+clean,open Q triplets,open Q pairs,0.14465460526315788,320,320
+clean,open Q triplets,open Q triplets,1.0,320,320
+clean,open Q triplets,DCT power,0.11098684210526313,320,320
+clean,open Q triplets,aligned pixels,0.16671052631578945,320,320
+clean,open Q triplets,aligned local Q,0.3827138157894736,320,320
+clean,open Q triplets,aligned Q magnitude,0.16689144736842104,320,320
+clean,open Q triplets,aligned gradient strength,0.14468201754385962,320,320
+clean,DCT power,pixels,0.4141611842105263,320,320
+clean,DCT power,polar m1,0.03752942991788048,277,320
+clean,DCT power,global Q,0.12013706140350874,320,320
+clean,DCT power,angular m4,0.10032346491228068,320,320
+clean,DCT power,HOG,0.25144188596491224,320,320
+clean,DCT power,local Q,0.19218201754385963,320,320
+clean,DCT power,open Q pairs,0.22672149122807012,320,320
+clean,DCT power,open Q triplets,0.11098684210526313,320,320
+clean,DCT power,DCT power,1.0,320,320
+clean,DCT power,aligned pixels,0.4951699561403508,320,320
+clean,DCT power,aligned local Q,0.20320175438596486,320,320
+clean,DCT power,aligned Q magnitude,0.37803728070175435,320,320
+clean,DCT power,aligned gradient strength,0.3904989035087719,320,320
+clean,aligned pixels,pixels,0.6779276315789472,320,320
+clean,aligned pixels,polar m1,0.05239719056966054,277,320
+clean,aligned pixels,global Q,0.2250986842105263,320,320
+clean,aligned pixels,angular m4,0.17816337719298242,320,320
+clean,aligned pixels,HOG,0.5739418859649122,320,320
+clean,aligned pixels,local Q,0.5466008771929823,320,320
+clean,aligned pixels,open Q pairs,0.3375383771929824,320,320
+clean,aligned pixels,open Q triplets,0.16671052631578945,320,320
+clean,aligned pixels,DCT power,0.4951699561403508,320,320
+clean,aligned pixels,aligned pixels,1.0,320,320
+clean,aligned pixels,aligned local Q,0.5712883771929824,320,320
+clean,aligned pixels,aligned Q magnitude,0.6604879385964911,320,320
+clean,aligned pixels,aligned gradient strength,0.7021546052631578,320,320
+clean,aligned local Q,pixels,0.3449506578947368,320,320
+clean,aligned local Q,polar m1,0.04379844490068576,277,320
+clean,aligned local Q,global Q,0.5469956140350877,320,320
+clean,aligned local Q,angular m4,0.20273026315789472,320,320
+clean,aligned local Q,HOG,0.6825438596491227,320,320
+clean,aligned local Q,local Q,0.8442872807017542,320,320
+clean,aligned local Q,open Q pairs,0.2414473684210526,320,320
+clean,aligned local Q,open Q triplets,0.3827138157894736,320,320
+clean,aligned local Q,DCT power,0.20320175438596486,320,320
+clean,aligned local Q,aligned pixels,0.5712883771929824,320,320
+clean,aligned local Q,aligned local Q,1.0,320,320
+clean,aligned local Q,aligned Q magnitude,0.5315076754385963,320,320
+clean,aligned local Q,aligned gradient strength,0.5038267543859648,320,320
+clean,aligned Q magnitude,pixels,0.6115241228070174,320,320
+clean,aligned Q magnitude,polar m1,0.04549840883108732,277,320
+clean,aligned Q magnitude,global Q,0.2714912280701754,320,320
+clean,aligned Q magnitude,angular m4,0.14788925438596487,320,320
+clean,aligned Q magnitude,HOG,0.5688322368421053,320,320
+clean,aligned Q magnitude,local Q,0.5310471491228068,320,320
+clean,aligned Q magnitude,open Q pairs,0.3820888157894736,320,320
+clean,aligned Q magnitude,open Q triplets,0.16689144736842104,320,320
+clean,aligned Q magnitude,DCT power,0.37803728070175435,320,320
+clean,aligned Q magnitude,aligned pixels,0.6604879385964911,320,320
+clean,aligned Q magnitude,aligned local Q,0.5315076754385963,320,320
+clean,aligned Q magnitude,aligned Q magnitude,1.0,320,320
+clean,aligned Q magnitude,aligned gradient strength,0.8320230263157893,320,320
+clean,aligned gradient strength,pixels,0.6704879385964911,320,320
+clean,aligned gradient strength,polar m1,0.1143106813323543,277,320
+clean,aligned gradient strength,global Q,0.2218475877192982,320,320
+clean,aligned gradient strength,angular m4,0.12734100877192983,320,320
+clean,aligned gradient strength,HOG,0.6405866228070174,320,320
+clean,aligned gradient strength,local Q,0.5280866228070175,320,320
+clean,aligned gradient strength,open Q pairs,0.28314692982456136,320,320
+clean,aligned gradient strength,open Q triplets,0.14468201754385962,320,320
+clean,aligned gradient strength,DCT power,0.3904989035087719,320,320
+clean,aligned gradient strength,aligned pixels,0.7021546052631578,320,320
+clean,aligned gradient strength,aligned local Q,0.5038267543859648,320,320
+clean,aligned gradient strength,aligned Q magnitude,0.8320230263157893,320,320
+clean,aligned gradient strength,aligned gradient strength,1.0,320,320
+shift,pixels,pixels,1.0,320,320
+shift,pixels,polar m1,0.038996274160497446,256,320
+shift,pixels,global Q,0.05894736842105264,320,320
+shift,pixels,angular m4,0.020471491228070172,320,320
+shift,pixels,HOG,0.33731359649122805,320,320
+shift,pixels,local Q,0.32146381578947364,320,320
+shift,pixels,open Q pairs,0.19213267543859644,320,320
+shift,pixels,open Q triplets,0.0400109649122807,320,320
+shift,pixels,DCT power,0.15514802631578944,320,320
+shift,pixels,aligned pixels,0.5234978070175437,320,320
+shift,pixels,aligned local Q,0.2224506578947368,320,320
+shift,pixels,aligned Q magnitude,0.33273026315789467,320,320
+shift,pixels,aligned gradient strength,0.37637061403508765,320,320
+shift,polar m1,pixels,0.038996274160497446,256,320
+shift,polar m1,polar m1,1.0,256,320
+shift,polar m1,global Q,0.0028050022228309534,256,320
+shift,polar m1,angular m4,0.010665528347619937,256,320
+shift,polar m1,HOG,0.05748866804486516,256,320
+shift,polar m1,local Q,0.043874643588515436,256,320
+shift,polar m1,open Q pairs,-0.01578095361742414,256,320
+shift,polar m1,open Q triplets,-0.003117491736017783,256,320
+shift,polar m1,DCT power,0.024855958073796636,256,320
+shift,polar m1,aligned pixels,-0.0004708508297365157,256,320
+shift,polar m1,aligned local Q,0.01722702638894395,256,320
+shift,polar m1,aligned Q magnitude,-0.022862656418765403,256,320
+shift,polar m1,aligned gradient strength,-0.026953509260938337,256,320
+shift,global Q,pixels,0.05894736842105264,320,320
+shift,global Q,polar m1,0.0028050022228309534,256,320
+shift,global Q,global Q,1.0,320,320
+shift,global Q,angular m4,0.16995614035087717,320,320
+shift,global Q,HOG,0.3652631578947368,320,320
+shift,global Q,local Q,0.4677741228070175,320,320
+shift,global Q,open Q pairs,0.10091557017543859,320,320
+shift,global Q,open Q triplets,0.5566282894736841,320,320
+shift,global Q,DCT power,0.11956688596491227,320,320
+shift,global Q,aligned pixels,0.2033059210526315,320,320
+shift,global Q,aligned local Q,0.5308936403508772,320,320
+shift,global Q,aligned Q magnitude,0.2533771929824561,320,320
+shift,global Q,aligned gradient strength,0.21721491228070172,320,320
+shift,angular m4,pixels,0.020471491228070172,320,320
+shift,angular m4,polar m1,0.010665528347619937,256,320
+shift,angular m4,global Q,0.16995614035087717,320,320
+shift,angular m4,angular m4,1.0,320,320
+shift,angular m4,HOG,0.22591557017543856,320,320
+shift,angular m4,local Q,0.11592105263157895,320,320
+shift,angular m4,open Q pairs,0.06213815789473683,320,320
+shift,angular m4,open Q triplets,0.18152960526315787,320,320
+shift,angular m4,DCT power,0.09181469298245612,320,320
+shift,angular m4,aligned pixels,0.15050438596491228,320,320
+shift,angular m4,aligned local Q,0.17972587719298244,320,320
+shift,angular m4,aligned Q magnitude,0.12043859649122805,320,320
+shift,angular m4,aligned gradient strength,0.11557565789473682,320,320
+shift,HOG,pixels,0.33731359649122805,320,320
+shift,HOG,polar m1,0.05748866804486516,256,320
+shift,HOG,global Q,0.3652631578947368,320,320
+shift,HOG,angular m4,0.22591557017543856,320,320
+shift,HOG,HOG,1.0,320,320
+shift,HOG,local Q,0.7203179824561403,320,320
+shift,HOG,open Q pairs,0.1548410087719298,320,320
+shift,HOG,open Q triplets,0.27060307017543855,320,320
+shift,HOG,DCT power,0.13714364035087717,320,320
+shift,HOG,aligned pixels,0.531173245614035,320,320
+shift,HOG,aligned local Q,0.6661567982456139,320,320
+shift,HOG,aligned Q magnitude,0.4479057017543859,320,320
+shift,HOG,aligned gradient strength,0.5134100877192982,320,320
+shift,local Q,pixels,0.32146381578947364,320,320
+shift,local Q,polar m1,0.043874643588515436,256,320
+shift,local Q,global Q,0.4677741228070175,320,320
+shift,local Q,angular m4,0.11592105263157895,320,320
+shift,local Q,HOG,0.7203179824561403,320,320
+shift,local Q,local Q,1.0,320,320
+shift,local Q,open Q pairs,0.1639144736842105,320,320
+shift,local Q,open Q triplets,0.3022752192982455,320,320
+shift,local Q,DCT power,0.11764802631578945,320,320
+shift,local Q,aligned pixels,0.48796052631578934,320,320
+shift,local Q,aligned local Q,0.8097752192982455,320,320
+shift,local Q,aligned Q magnitude,0.40084978070175425,320,320
+shift,local Q,aligned gradient strength,0.39655153508771923,320,320
+shift,open Q pairs,pixels,0.19213267543859644,320,320
+shift,open Q pairs,polar m1,-0.01578095361742414,256,320
+shift,open Q pairs,global Q,0.10091557017543859,320,320
+shift,open Q pairs,angular m4,0.06213815789473683,320,320
+shift,open Q pairs,HOG,0.1548410087719298,320,320
+shift,open Q pairs,local Q,0.1639144736842105,320,320
+shift,open Q pairs,open Q pairs,1.0,320,320
+shift,open Q pairs,open Q triplets,0.09390899122807017,320,320
+shift,open Q pairs,DCT power,0.08775767543859649,320,320
+shift,open Q pairs,aligned pixels,0.27514802631578944,320,320
+shift,open Q pairs,aligned local Q,0.2119517543859649,320,320
+shift,open Q pairs,aligned Q magnitude,0.3895833333333333,320,320
+shift,open Q pairs,aligned gradient strength,0.28232456140350876,320,320
+shift,open Q triplets,pixels,0.0400109649122807,320,320
+shift,open Q triplets,polar m1,-0.003117491736017783,256,320
+shift,open Q triplets,global Q,0.5566282894736841,320,320
+shift,open Q triplets,angular m4,0.18152960526315787,320,320
+shift,open Q triplets,HOG,0.27060307017543855,320,320
+shift,open Q triplets,local Q,0.3022752192982455,320,320
+shift,open Q triplets,open Q pairs,0.09390899122807017,320,320
+shift,open Q triplets,open Q triplets,1.0,320,320
+shift,open Q triplets,DCT power,0.10483552631578945,320,320
+shift,open Q triplets,aligned pixels,0.14368969298245612,320,320
+shift,open Q triplets,aligned local Q,0.362719298245614,320,320
+shift,open Q triplets,aligned Q magnitude,0.14150767543859646,320,320
+shift,open Q triplets,aligned gradient strength,0.13660087719298245,320,320
+shift,DCT power,pixels,0.15514802631578944,320,320
+shift,DCT power,polar m1,0.024855958073796636,256,320
+shift,DCT power,global Q,0.11956688596491227,320,320
+shift,DCT power,angular m4,0.09181469298245612,320,320
+shift,DCT power,HOG,0.13714364035087717,320,320
+shift,DCT power,local Q,0.11764802631578945,320,320
+shift,DCT power,open Q pairs,0.08775767543859649,320,320
+shift,DCT power,open Q triplets,0.10483552631578945,320,320
+shift,DCT power,DCT power,1.0,320,320
+shift,DCT power,aligned pixels,0.27945175438596487,320,320
+shift,DCT power,aligned local Q,0.1482017543859649,320,320
+shift,DCT power,aligned Q magnitude,0.21129934210526313,320,320
+shift,DCT power,aligned gradient strength,0.18188048245614033,320,320
+shift,aligned pixels,pixels,0.5234978070175437,320,320
+shift,aligned pixels,polar m1,-0.0004708508297365157,256,320
+shift,aligned pixels,global Q,0.2033059210526315,320,320
+shift,aligned pixels,angular m4,0.15050438596491228,320,320
+shift,aligned pixels,HOG,0.531173245614035,320,320
+shift,aligned pixels,local Q,0.48796052631578934,320,320
+shift,aligned pixels,open Q pairs,0.27514802631578944,320,320
+shift,aligned pixels,open Q triplets,0.14368969298245612,320,320
+shift,aligned pixels,DCT power,0.27945175438596487,320,320
+shift,aligned pixels,aligned pixels,1.0,320,320
+shift,aligned pixels,aligned local Q,0.5281633771929825,320,320
+shift,aligned pixels,aligned Q magnitude,0.6341228070175438,320,320
+shift,aligned pixels,aligned gradient strength,0.6792214912280701,320,320
+shift,aligned local Q,pixels,0.2224506578947368,320,320
+shift,aligned local Q,polar m1,0.01722702638894395,256,320
+shift,aligned local Q,global Q,0.5308936403508772,320,320
+shift,aligned local Q,angular m4,0.17972587719298244,320,320
+shift,aligned local Q,HOG,0.6661567982456139,320,320
+shift,aligned local Q,local Q,0.8097752192982455,320,320
+shift,aligned local Q,open Q pairs,0.2119517543859649,320,320
+shift,aligned local Q,open Q triplets,0.362719298245614,320,320
+shift,aligned local Q,DCT power,0.1482017543859649,320,320
+shift,aligned local Q,aligned pixels,0.5281633771929825,320,320
+shift,aligned local Q,aligned local Q,1.0,320,320
+shift,aligned local Q,aligned Q magnitude,0.48287828947368416,320,320
+shift,aligned local Q,aligned gradient strength,0.4644846491228069,320,320
+shift,aligned Q magnitude,pixels,0.33273026315789467,320,320
+shift,aligned Q magnitude,polar m1,-0.022862656418765403,256,320
+shift,aligned Q magnitude,global Q,0.2533771929824561,320,320
+shift,aligned Q magnitude,angular m4,0.12043859649122805,320,320
+shift,aligned Q magnitude,HOG,0.4479057017543859,320,320
+shift,aligned Q magnitude,local Q,0.40084978070175425,320,320
+shift,aligned Q magnitude,open Q pairs,0.3895833333333333,320,320
+shift,aligned Q magnitude,open Q triplets,0.14150767543859646,320,320
+shift,aligned Q magnitude,DCT power,0.21129934210526313,320,320
+shift,aligned Q magnitude,aligned pixels,0.6341228070175438,320,320
+shift,aligned Q magnitude,aligned local Q,0.48287828947368416,320,320
+shift,aligned Q magnitude,aligned Q magnitude,1.0,320,320
+shift,aligned Q magnitude,aligned gradient strength,0.8308662280701752,320,320
+shift,aligned gradient strength,pixels,0.37637061403508765,320,320
+shift,aligned gradient strength,polar m1,-0.026953509260938337,256,320
+shift,aligned gradient strength,global Q,0.21721491228070172,320,320
+shift,aligned gradient strength,angular m4,0.11557565789473682,320,320
+shift,aligned gradient strength,HOG,0.5134100877192982,320,320
+shift,aligned gradient strength,local Q,0.39655153508771923,320,320
+shift,aligned gradient strength,open Q pairs,0.28232456140350876,320,320
+shift,aligned gradient strength,open Q triplets,0.13660087719298245,320,320
+shift,aligned gradient strength,DCT power,0.18188048245614033,320,320
+shift,aligned gradient strength,aligned pixels,0.6792214912280701,320,320
+shift,aligned gradient strength,aligned local Q,0.4644846491228069,320,320
+shift,aligned gradient strength,aligned Q magnitude,0.8308662280701752,320,320
+shift,aligned gradient strength,aligned gradient strength,1.0,320,320
+gain,pixels,pixels,1.0,320,320
+gain,pixels,polar m1,0.05850432500108086,277,320
+gain,pixels,global Q,0.11606359649122806,320,320
+gain,pixels,angular m4,0.09248355263157894,320,320
+gain,pixels,HOG,0.35858552631578944,320,320
+gain,pixels,local Q,0.4066228070175438,320,320
+gain,pixels,open Q pairs,0.35800438596491224,320,320
+gain,pixels,open Q triplets,0.03274671052631578,320,320
+gain,pixels,DCT power,0.3052631578947368,320,320
+gain,pixels,aligned pixels,0.6666392543859648,320,320
+gain,pixels,aligned local Q,0.31796600877192976,320,320
+gain,pixels,aligned Q magnitude,0.6107785087719299,320,320
+gain,pixels,aligned gradient strength,0.611831140350877,320,320
+gain,polar m1,pixels,0.05850432500108086,277,320
+gain,polar m1,polar m1,1.0,277,320
+gain,polar m1,global Q,-0.03948616230969655,277,320
+gain,polar m1,angular m4,-0.03837231071566304,277,320
+gain,polar m1,HOG,0.14802093488558832,277,320
+gain,polar m1,local Q,0.09102117919515937,277,320
+gain,polar m1,open Q pairs,-0.013451429231433592,277,320
+gain,polar m1,open Q triplets,-0.025338119548751828,277,320
+gain,polar m1,DCT power,-0.16352426490132152,277,320
+gain,polar m1,aligned pixels,-0.04645370082332419,277,320
+gain,polar m1,aligned local Q,0.042918525481992244,277,320
+gain,polar m1,aligned Q magnitude,0.03446123972916778,277,320
+gain,polar m1,aligned gradient strength,0.09220641288996431,277,320
+gain,global Q,pixels,0.11606359649122806,320,320
+gain,global Q,polar m1,-0.03948616230969655,277,320
+gain,global Q,global Q,1.0,320,320
+gain,global Q,angular m4,0.17632675438596487,320,320
+gain,global Q,HOG,0.3556524122807017,320,320
+gain,global Q,local Q,0.4911184210526315,320,320
+gain,global Q,open Q pairs,0.04927631578947368,320,320
+gain,global Q,open Q triplets,0.5521600877192981,320,320
+gain,global Q,DCT power,0.09874999999999998,320,320
+gain,global Q,aligned pixels,0.20426535087719294,320,320
+gain,global Q,aligned local Q,0.5512280701754385,320,320
+gain,global Q,aligned Q magnitude,0.25903508771929823,320,320
+gain,global Q,aligned gradient strength,0.22769736842105265,320,320
+gain,angular m4,pixels,0.09248355263157894,320,320
+gain,angular m4,polar m1,-0.03837231071566304,277,320
+gain,angular m4,global Q,0.17632675438596487,320,320
+gain,angular m4,angular m4,1.0,320,320
+gain,angular m4,HOG,0.2263103070175438,320,320
+gain,angular m4,local Q,0.161875,320,320
+gain,angular m4,open Q pairs,0.08868421052631577,320,320
+gain,angular m4,open Q triplets,0.17189144736842102,320,320
+gain,angular m4,DCT power,0.04620614035087719,320,320
+gain,angular m4,aligned pixels,0.1666228070175438,320,320
+gain,angular m4,aligned local Q,0.20855263157894735,320,320
+gain,angular m4,aligned Q magnitude,0.156578947368421,320,320
+gain,angular m4,aligned gradient strength,0.14595394736842102,320,320
+gain,HOG,pixels,0.35858552631578944,320,320
+gain,HOG,polar m1,0.14802093488558832,277,320
+gain,HOG,global Q,0.3556524122807017,320,320
+gain,HOG,angular m4,0.2263103070175438,320,320
+gain,HOG,HOG,1.0,320,320
+gain,HOG,local Q,0.7362554824561403,320,320
+gain,HOG,open Q pairs,0.0729331140350877,320,320
+gain,HOG,open Q triplets,0.2729331140350877,320,320
+gain,HOG,DCT power,-0.0584265350877193,320,320
+gain,HOG,aligned pixels,0.3928234649122807,320,320
+gain,HOG,aligned local Q,0.6838651315789472,320,320
+gain,HOG,aligned Q magnitude,0.524797149122807,320,320
+gain,HOG,aligned gradient strength,0.6153947368421052,320,320
+gain,local Q,pixels,0.4066228070175438,320,320
+gain,local Q,polar m1,0.09102117919515937,277,320
+gain,local Q,global Q,0.4911184210526315,320,320
+gain,local Q,angular m4,0.161875,320,320
+gain,local Q,HOG,0.7362554824561403,320,320
+gain,local Q,local Q,1.0,320,320
+gain,local Q,open Q pairs,0.09582785087719298,320,320
+gain,local Q,open Q triplets,0.31266447368421046,320,320
+gain,local Q,DCT power,0.03325109649122806,320,320
+gain,local Q,aligned pixels,0.4622149122807017,320,320
+gain,local Q,aligned local Q,0.8445778508771931,320,320
+gain,local Q,aligned Q magnitude,0.49812499999999993,320,320
+gain,local Q,aligned gradient strength,0.5215899122807016,320,320
+gain,open Q pairs,pixels,0.35800438596491224,320,320
+gain,open Q pairs,polar m1,-0.013451429231433592,277,320
+gain,open Q pairs,global Q,0.04927631578947368,320,320
+gain,open Q pairs,angular m4,0.08868421052631577,320,320
+gain,open Q pairs,HOG,0.0729331140350877,320,320
+gain,open Q pairs,local Q,0.09582785087719298,320,320
+gain,open Q pairs,open Q pairs,1.0,320,320
+gain,open Q pairs,open Q triplets,0.07808114035087718,320,320
+gain,open Q pairs,DCT power,0.3534649122807017,320,320
+gain,open Q pairs,aligned pixels,0.4423519736842104,320,320
+gain,open Q pairs,aligned local Q,0.11883223684210524,320,320
+gain,open Q pairs,aligned Q magnitude,0.32514802631578943,320,320
+gain,open Q pairs,aligned gradient strength,0.22936403508771924,320,320
+gain,open Q triplets,pixels,0.03274671052631578,320,320
+gain,open Q triplets,polar m1,-0.025338119548751828,277,320
+gain,open Q triplets,global Q,0.5521600877192981,320,320
+gain,open Q triplets,angular m4,0.17189144736842102,320,320
+gain,open Q triplets,HOG,0.2729331140350877,320,320
+gain,open Q triplets,local Q,0.31266447368421046,320,320
+gain,open Q triplets,open Q pairs,0.07808114035087718,320,320
+gain,open Q triplets,open Q triplets,1.0,320,320
+gain,open Q triplets,DCT power,0.04390899122807017,320,320
+gain,open Q triplets,aligned pixels,0.11548245614035087,320,320
+gain,open Q triplets,aligned local Q,0.378360745614035,320,320
+gain,open Q triplets,aligned Q magnitude,0.16126644736842102,320,320
+gain,open Q triplets,aligned gradient strength,0.14512609649122804,320,320
+gain,DCT power,pixels,0.3052631578947368,320,320
+gain,DCT power,polar m1,-0.16352426490132152,277,320
+gain,DCT power,global Q,0.09874999999999998,320,320
+gain,DCT power,angular m4,0.04620614035087719,320,320
+gain,DCT power,HOG,-0.0584265350877193,320,320
+gain,DCT power,local Q,0.03325109649122806,320,320
+gain,DCT power,open Q pairs,0.3534649122807017,320,320
+gain,DCT power,open Q triplets,0.04390899122807017,320,320
+gain,DCT power,DCT power,1.0,320,320
+gain,DCT power,aligned pixels,0.4804166666666666,320,320
+gain,DCT power,aligned local Q,0.06337719298245613,320,320
+gain,DCT power,aligned Q magnitude,0.13662280701754384,320,320
+gain,DCT power,aligned gradient strength,0.05310307017543858,320,320
+gain,aligned pixels,pixels,0.6666392543859648,320,320
+gain,aligned pixels,polar m1,-0.04645370082332419,277,320
+gain,aligned pixels,global Q,0.20426535087719294,320,320
+gain,aligned pixels,angular m4,0.1666228070175438,320,320
+gain,aligned pixels,HOG,0.3928234649122807,320,320
+gain,aligned pixels,local Q,0.4622149122807017,320,320
+gain,aligned pixels,open Q pairs,0.4423519736842104,320,320
+gain,aligned pixels,open Q triplets,0.11548245614035087,320,320
+gain,aligned pixels,DCT power,0.4804166666666666,320,320
+gain,aligned pixels,aligned pixels,1.0,320,320
+gain,aligned pixels,aligned local Q,0.4971162280701753,320,320
+gain,aligned pixels,aligned Q magnitude,0.5779276315789472,320,320
+gain,aligned pixels,aligned gradient strength,0.5627576754385963,320,320
+gain,aligned local Q,pixels,0.31796600877192976,320,320
+gain,aligned local Q,polar m1,0.042918525481992244,277,320
+gain,aligned local Q,global Q,0.5512280701754385,320,320
+gain,aligned local Q,angular m4,0.20855263157894735,320,320
+gain,aligned local Q,HOG,0.6838651315789472,320,320
+gain,aligned local Q,local Q,0.8445778508771931,320,320
+gain,aligned local Q,open Q pairs,0.11883223684210524,320,320
+gain,aligned local Q,open Q triplets,0.378360745614035,320,320
+gain,aligned local Q,DCT power,0.06337719298245613,320,320
+gain,aligned local Q,aligned pixels,0.4971162280701753,320,320
+gain,aligned local Q,aligned local Q,1.0,320,320
+gain,aligned local Q,aligned Q magnitude,0.5073848684210527,320,320
+gain,aligned local Q,aligned gradient strength,0.5129989035087718,320,320
+gain,aligned Q magnitude,pixels,0.6107785087719299,320,320
+gain,aligned Q magnitude,polar m1,0.03446123972916778,277,320
+gain,aligned Q magnitude,global Q,0.25903508771929823,320,320
+gain,aligned Q magnitude,angular m4,0.156578947368421,320,320
+gain,aligned Q magnitude,HOG,0.524797149122807,320,320
+gain,aligned Q magnitude,local Q,0.49812499999999993,320,320
+gain,aligned Q magnitude,open Q pairs,0.32514802631578943,320,320
+gain,aligned Q magnitude,open Q triplets,0.16126644736842102,320,320
+gain,aligned Q magnitude,DCT power,0.13662280701754384,320,320
+gain,aligned Q magnitude,aligned pixels,0.5779276315789472,320,320
+gain,aligned Q magnitude,aligned local Q,0.5073848684210527,320,320
+gain,aligned Q magnitude,aligned Q magnitude,1.0,320,320
+gain,aligned Q magnitude,aligned gradient strength,0.8367817982456138,320,320
+gain,aligned gradient strength,pixels,0.611831140350877,320,320
+gain,aligned gradient strength,polar m1,0.09220641288996431,277,320
+gain,aligned gradient strength,global Q,0.22769736842105265,320,320
+gain,aligned gradient strength,angular m4,0.14595394736842102,320,320
+gain,aligned gradient strength,HOG,0.6153947368421052,320,320
+gain,aligned gradient strength,local Q,0.5215899122807016,320,320
+gain,aligned gradient strength,open Q pairs,0.22936403508771924,320,320
+gain,aligned gradient strength,open Q triplets,0.14512609649122804,320,320
+gain,aligned gradient strength,DCT power,0.05310307017543858,320,320
+gain,aligned gradient strength,aligned pixels,0.5627576754385963,320,320
+gain,aligned gradient strength,aligned local Q,0.5129989035087718,320,320
+gain,aligned gradient strength,aligned Q magnitude,0.8367817982456138,320,320
+gain,aligned gradient strength,aligned gradient strength,1.0,320,320
+noise,pixels,pixels,1.0,320,320
+noise,pixels,polar m1,-0.13935775413148133,279,320
+noise,pixels,global Q,0.14686951754385963,320,320
+noise,pixels,angular m4,0.08212171052631578,320,320
+noise,pixels,HOG,0.386063596491228,320,320
+noise,pixels,local Q,0.37765350877192977,320,320
+noise,pixels,open Q pairs,-0.17435307017543858,320,320
+noise,pixels,open Q triplets,0.060109649122807016,320,320
+noise,pixels,DCT power,0.07709978070175436,320,320
+noise,pixels,aligned pixels,0.7084923245614034,320,320
+noise,pixels,aligned local Q,0.29537828947368416,320,320
+noise,pixels,aligned Q magnitude,0.4528453947368421,320,320
+noise,pixels,aligned gradient strength,0.37023574561403505,320,320
+noise,polar m1,pixels,-0.13935775413148133,279,320
+noise,polar m1,polar m1,1.0,279,320
+noise,polar m1,global Q,0.05993267675555516,279,320
+noise,polar m1,angular m4,0.09383980012458203,279,320
+noise,polar m1,HOG,-0.1685041620402793,279,320
+noise,polar m1,local Q,-0.05820423742394876,279,320
+noise,polar m1,open Q pairs,-0.018866261998767488,279,320
+noise,polar m1,open Q triplets,0.05376449310111314,279,320
+noise,polar m1,DCT power,0.08848361136596618,279,320
+noise,polar m1,aligned pixels,-0.08505430353763938,279,320
+noise,polar m1,aligned local Q,-0.015895018883978384,279,320
+noise,polar m1,aligned Q magnitude,-0.09936098783645002,279,320
+noise,polar m1,aligned gradient strength,-0.22235732424661087,279,320
+noise,global Q,pixels,0.14686951754385963,320,320
+noise,global Q,polar m1,0.05993267675555516,279,320
+noise,global Q,global Q,1.0,320,320
+noise,global Q,angular m4,-0.048755482456140344,320,320
+noise,global Q,HOG,0.24670504385964911,320,320
+noise,global Q,local Q,0.40158442982456133,320,320
+noise,global Q,open Q pairs,-0.027428728070175427,320,320
+noise,global Q,open Q triplets,0.5528015350877192,320,320
+noise,global Q,DCT power,0.06535635964912281,320,320
+noise,global Q,aligned pixels,0.2372916666666666,320,320
+noise,global Q,aligned local Q,0.46904057017543843,320,320
+noise,global Q,aligned Q magnitude,0.1822094298245614,320,320
+noise,global Q,aligned gradient strength,0.09377741228070173,320,320
+noise,angular m4,pixels,0.08212171052631578,320,320
+noise,angular m4,polar m1,0.09383980012458203,279,320
+noise,angular m4,global Q,-0.048755482456140344,320,320
+noise,angular m4,angular m4,1.0,320,320
+noise,angular m4,HOG,0.07809210526315788,320,320
+noise,angular m4,local Q,-0.03111842105263158,320,320
+noise,angular m4,open Q pairs,0.0701973684210526,320,320
+noise,angular m4,open Q triplets,-0.11552083333333332,320,320
+noise,angular m4,DCT power,-0.007176535087719304,320,320
+noise,angular m4,aligned pixels,0.11274122807017542,320,320
+noise,angular m4,aligned local Q,-0.01378289473684211,320,320
+noise,angular m4,aligned Q magnitude,0.07267543859649121,320,320
+noise,angular m4,aligned gradient strength,-0.004742324561403502,320,320
+noise,HOG,pixels,0.386063596491228,320,320
+noise,HOG,polar m1,-0.1685041620402793,279,320
+noise,HOG,global Q,0.24670504385964911,320,320
+noise,HOG,angular m4,0.07809210526315788,320,320
+noise,HOG,HOG,1.0,320,320
+noise,HOG,local Q,0.3324616228070175,320,320
+noise,HOG,open Q pairs,-0.44592653508771923,320,320
+noise,HOG,open Q triplets,0.1288157894736842,320,320
+noise,HOG,DCT power,-0.15136513157894735,320,320
+noise,HOG,aligned pixels,0.4016995614035087,320,320
+noise,HOG,aligned local Q,0.2636129385964912,320,320
+noise,HOG,aligned Q magnitude,0.2503782894736842,320,320
+noise,HOG,aligned gradient strength,0.7341721491228069,320,320
+noise,local Q,pixels,0.37765350877192977,320,320
+noise,local Q,polar m1,-0.05820423742394876,279,320
+noise,local Q,global Q,0.40158442982456133,320,320
+noise,local Q,angular m4,-0.03111842105263158,320,320
+noise,local Q,HOG,0.3324616228070175,320,320
+noise,local Q,local Q,1.0,320,320
+noise,local Q,open Q pairs,0.002790570175438601,320,320
+noise,local Q,open Q triplets,0.28772478070175433,320,320
+noise,local Q,DCT power,0.15649671052631575,320,320
+noise,local Q,aligned pixels,0.485345394736842,320,320
+noise,local Q,aligned local Q,0.8319353070175438,320,320
+noise,local Q,aligned Q magnitude,0.36970942982456134,320,320
+noise,local Q,aligned gradient strength,0.03930921052631579,320,320
+noise,open Q pairs,pixels,-0.17435307017543858,320,320
+noise,open Q pairs,polar m1,-0.018866261998767488,279,320
+noise,open Q pairs,global Q,-0.027428728070175427,320,320
+noise,open Q pairs,angular m4,0.0701973684210526,320,320
+noise,open Q pairs,HOG,-0.44592653508771923,320,320
+noise,open Q pairs,local Q,0.002790570175438601,320,320
+noise,open Q pairs,open Q pairs,1.0,320,320
+noise,open Q pairs,open Q triplets,0.04984649122807017,320,320
+noise,open Q pairs,DCT power,0.28959978070175435,320,320
+noise,open Q pairs,aligned pixels,-0.1461677631578947,320,320
+noise,open Q pairs,aligned local Q,0.037774122807017536,320,320
+noise,open Q pairs,aligned Q magnitude,0.21343749999999995,320,320
+noise,open Q pairs,aligned gradient strength,-0.7124835526315789,320,320
+noise,open Q triplets,pixels,0.060109649122807016,320,320
+noise,open Q triplets,polar m1,0.05376449310111314,279,320
+noise,open Q triplets,global Q,0.5528015350877192,320,320
+noise,open Q triplets,angular m4,-0.11552083333333332,320,320
+noise,open Q triplets,HOG,0.1288157894736842,320,320
+noise,open Q triplets,local Q,0.28772478070175433,320,320
+noise,open Q triplets,open Q pairs,0.04984649122807017,320,320
+noise,open Q triplets,open Q triplets,1.0,320,320
+noise,open Q triplets,DCT power,0.08700657894736841,320,320
+noise,open Q triplets,aligned pixels,0.14414473684210524,320,320
+noise,open Q triplets,aligned local Q,0.35588815789473677,320,320
+noise,open Q triplets,aligned Q magnitude,0.15675986842105263,320,320
+noise,open Q triplets,aligned gradient strength,-0.002203947368421054,320,320
+noise,DCT power,pixels,0.07709978070175436,320,320
+noise,DCT power,polar m1,0.08848361136596618,279,320
+noise,DCT power,global Q,0.06535635964912281,320,320
+noise,DCT power,angular m4,-0.007176535087719304,320,320
+noise,DCT power,HOG,-0.15136513157894735,320,320
+noise,DCT power,local Q,0.15649671052631575,320,320
+noise,DCT power,open Q pairs,0.28959978070175435,320,320
+noise,DCT power,open Q triplets,0.08700657894736841,320,320
+noise,DCT power,DCT power,1.0,320,320
+noise,DCT power,aligned pixels,0.1461787280701754,320,320
+noise,DCT power,aligned local Q,0.18380482456140348,320,320
+noise,DCT power,aligned Q magnitude,0.2662116228070175,320,320
+noise,DCT power,aligned gradient strength,-0.2959649122807017,320,320
+noise,aligned pixels,pixels,0.7084923245614034,320,320
+noise,aligned pixels,polar m1,-0.08505430353763938,279,320
+noise,aligned pixels,global Q,0.2372916666666666,320,320
+noise,aligned pixels,angular m4,0.11274122807017542,320,320
+noise,aligned pixels,HOG,0.4016995614035087,320,320
+noise,aligned pixels,local Q,0.485345394736842,320,320
+noise,aligned pixels,open Q pairs,-0.1461677631578947,320,320
+noise,aligned pixels,open Q triplets,0.14414473684210524,320,320
+noise,aligned pixels,DCT power,0.1461787280701754,320,320
+noise,aligned pixels,aligned pixels,1.0,320,320
+noise,aligned pixels,aligned local Q,0.501781798245614,320,320
+noise,aligned pixels,aligned Q magnitude,0.4875767543859649,320,320
+noise,aligned pixels,aligned gradient strength,0.30283991228070173,320,320
+noise,aligned local Q,pixels,0.29537828947368416,320,320
+noise,aligned local Q,polar m1,-0.015895018883978384,279,320
+noise,aligned local Q,global Q,0.46904057017543843,320,320
+noise,aligned local Q,angular m4,-0.01378289473684211,320,320
+noise,aligned local Q,HOG,0.2636129385964912,320,320
+noise,aligned local Q,local Q,0.8319353070175438,320,320
+noise,aligned local Q,open Q pairs,0.037774122807017536,320,320
+noise,aligned local Q,open Q triplets,0.35588815789473677,320,320
+noise,aligned local Q,DCT power,0.18380482456140348,320,320
+noise,aligned local Q,aligned pixels,0.501781798245614,320,320
+noise,aligned local Q,aligned local Q,1.0,320,320
+noise,aligned local Q,aligned Q magnitude,0.3743530701754385,320,320
+noise,aligned local Q,aligned gradient strength,-0.008662280701754378,320,320
+noise,aligned Q magnitude,pixels,0.4528453947368421,320,320
+noise,aligned Q magnitude,polar m1,-0.09936098783645002,279,320
+noise,aligned Q magnitude,global Q,0.1822094298245614,320,320
+noise,aligned Q magnitude,angular m4,0.07267543859649121,320,320
+noise,aligned Q magnitude,HOG,0.2503782894736842,320,320
+noise,aligned Q magnitude,local Q,0.36970942982456134,320,320
+noise,aligned Q magnitude,open Q pairs,0.21343749999999995,320,320
+noise,aligned Q magnitude,open Q triplets,0.15675986842105263,320,320
+noise,aligned Q magnitude,DCT power,0.2662116228070175,320,320
+noise,aligned Q magnitude,aligned pixels,0.4875767543859649,320,320
+noise,aligned Q magnitude,aligned local Q,0.3743530701754385,320,320
+noise,aligned Q magnitude,aligned Q magnitude,1.0,320,320
+noise,aligned Q magnitude,aligned gradient strength,0.08418311403508771,320,320
+noise,aligned gradient strength,pixels,0.37023574561403505,320,320
+noise,aligned gradient strength,polar m1,-0.22235732424661087,279,320
+noise,aligned gradient strength,global Q,0.09377741228070173,320,320
+noise,aligned gradient strength,angular m4,-0.004742324561403502,320,320
+noise,aligned gradient strength,HOG,0.7341721491228069,320,320
+noise,aligned gradient strength,local Q,0.03930921052631579,320,320
+noise,aligned gradient strength,open Q pairs,-0.7124835526315789,320,320
+noise,aligned gradient strength,open Q triplets,-0.002203947368421054,320,320
+noise,aligned gradient strength,DCT power,-0.2959649122807017,320,320
+noise,aligned gradient strength,aligned pixels,0.30283991228070173,320,320
+noise,aligned gradient strength,aligned local Q,-0.008662280701754378,320,320
+noise,aligned gradient strength,aligned Q magnitude,0.08418311403508771,320,320
+noise,aligned gradient strength,aligned gradient strength,1.0,320,320
+blur,pixels,pixels,1.0,320,320
+blur,pixels,polar m1,-0.06696471435533823,264,320
+blur,pixels,global Q,0.15540570175438595,320,320
+blur,pixels,angular m4,0.10358552631578946,320,320
+blur,pixels,HOG,0.39458881578947363,320,320
+blur,pixels,local Q,0.46537828947368415,320,320
+blur,pixels,open Q pairs,0.32490679824561397,320,320
+blur,pixels,open Q triplets,0.09067434210526314,320,320
+blur,pixels,DCT power,0.4485197368421051,320,320
+blur,pixels,aligned pixels,0.7808662280701754,320,320
+blur,pixels,aligned local Q,0.3883771929824561,320,320
+blur,pixels,aligned Q magnitude,0.5962554824561404,320,320
+blur,pixels,aligned gradient strength,0.6589967105263156,320,320
+blur,polar m1,pixels,-0.06696471435533823,264,320
+blur,polar m1,polar m1,1.0,264,320
+blur,polar m1,global Q,0.03123215599308334,264,320
+blur,polar m1,angular m4,0.04291611072004224,264,320
+blur,polar m1,HOG,-0.16964943965549195,264,320
+blur,polar m1,local Q,-0.0818877418036218,264,320
+blur,polar m1,open Q pairs,0.09389322670719415,264,320
+blur,polar m1,open Q triplets,0.020097838805629185,264,320
+blur,polar m1,DCT power,0.03005404928270188,264,320
+blur,polar m1,aligned pixels,-0.0088654569832696,264,320
+blur,polar m1,aligned local Q,-0.022858697363385486,264,320
+blur,polar m1,aligned Q magnitude,-0.06011209196719136,264,320
+blur,polar m1,aligned gradient strength,-0.1180998810789155,264,320
+blur,global Q,pixels,0.15540570175438595,320,320
+blur,global Q,polar m1,0.03123215599308334,264,320
+blur,global Q,global Q,1.0,320,320
+blur,global Q,angular m4,0.17507127192982455,320,320
+blur,global Q,HOG,0.31264254385964907,320,320
+blur,global Q,local Q,0.4465131578947368,320,320
+blur,global Q,open Q pairs,0.1197752192982456,320,320
+blur,global Q,open Q triplets,0.5877467105263158,320,320
+blur,global Q,DCT power,0.11687499999999998,320,320
+blur,global Q,aligned pixels,0.23259868421052626,320,320
+blur,global Q,aligned local Q,0.510219298245614,320,320
+blur,global Q,aligned Q magnitude,0.23405153508771925,320,320
+blur,global Q,aligned gradient strength,0.22457785087719295,320,320
+blur,angular m4,pixels,0.10358552631578946,320,320
+blur,angular m4,polar m1,0.04291611072004224,264,320
+blur,angular m4,global Q,0.17507127192982455,320,320
+blur,angular m4,angular m4,1.0,320,320
+blur,angular m4,HOG,0.19657894736842102,320,320
+blur,angular m4,local Q,0.14720942982456137,320,320
+blur,angular m4,open Q pairs,0.09617872807017541,320,320
+blur,angular m4,open Q triplets,0.14899671052631577,320,320
+blur,angular m4,DCT power,0.0805208333333333,320,320
+blur,angular m4,aligned pixels,0.17912828947368417,320,320
+blur,angular m4,aligned local Q,0.20308114035087715,320,320
+blur,angular m4,aligned Q magnitude,0.12247807017543857,320,320
+blur,angular m4,aligned gradient strength,0.12417214912280698,320,320
+blur,HOG,pixels,0.39458881578947363,320,320
+blur,HOG,polar m1,-0.16964943965549195,264,320
+blur,HOG,global Q,0.31264254385964907,320,320
+blur,HOG,angular m4,0.19657894736842102,320,320
+blur,HOG,HOG,1.0,320,320
+blur,HOG,local Q,0.7397752192982455,320,320
+blur,HOG,open Q pairs,0.1341831140350877,320,320
+blur,HOG,open Q triplets,0.24252192982456142,320,320
+blur,HOG,DCT power,0.10575109649122805,320,320
+blur,HOG,aligned pixels,0.4254221491228069,320,320
+blur,HOG,aligned local Q,0.6598903508771928,320,320
+blur,HOG,aligned Q magnitude,0.5991611842105262,320,320
+blur,HOG,aligned gradient strength,0.6533881578947367,320,320
+blur,local Q,pixels,0.46537828947368415,320,320
+blur,local Q,polar m1,-0.0818877418036218,264,320
+blur,local Q,global Q,0.4465131578947368,320,320
+blur,local Q,angular m4,0.14720942982456137,320,320
+blur,local Q,HOG,0.7397752192982455,320,320
+blur,local Q,local Q,1.0,320,320
+blur,local Q,open Q pairs,0.1807017543859649,320,320
+blur,local Q,open Q triplets,0.3033388157894737,320,320
+blur,local Q,DCT power,0.14576754385964913,320,320
+blur,local Q,aligned pixels,0.5112828947368421,320,320
+blur,local Q,aligned local Q,0.8437554824561403,320,320
+blur,local Q,aligned Q magnitude,0.5569462719298246,320,320
+blur,local Q,aligned gradient strength,0.5676535087719297,320,320
+blur,open Q pairs,pixels,0.32490679824561397,320,320
+blur,open Q pairs,polar m1,0.09389322670719415,264,320
+blur,open Q pairs,global Q,0.1197752192982456,320,320
+blur,open Q pairs,angular m4,0.09617872807017541,320,320
+blur,open Q pairs,HOG,0.1341831140350877,320,320
+blur,open Q pairs,local Q,0.1807017543859649,320,320
+blur,open Q pairs,open Q pairs,1.0,320,320
+blur,open Q pairs,open Q triplets,0.12801535087719296,320,320
+blur,open Q pairs,DCT power,0.22450109649122804,320,320
+blur,open Q pairs,aligned pixels,0.3678125,320,320
+blur,open Q pairs,aligned local Q,0.2072861842105263,320,320
+blur,open Q pairs,aligned Q magnitude,0.335328947368421,320,320
+blur,open Q pairs,aligned gradient strength,0.26329495614035087,320,320
+blur,open Q triplets,pixels,0.09067434210526314,320,320
+blur,open Q triplets,polar m1,0.020097838805629185,264,320
+blur,open Q triplets,global Q,0.5877467105263158,320,320
+blur,open Q triplets,angular m4,0.14899671052631577,320,320
+blur,open Q triplets,HOG,0.24252192982456142,320,320
+blur,open Q triplets,local Q,0.3033388157894737,320,320
+blur,open Q triplets,open Q pairs,0.12801535087719296,320,320
+blur,open Q triplets,open Q triplets,1.0,320,320
+blur,open Q triplets,DCT power,0.0932017543859649,320,320
+blur,open Q triplets,aligned pixels,0.16040021929824558,320,320
+blur,open Q triplets,aligned local Q,0.36694078947368414,320,320
+blur,open Q triplets,aligned Q magnitude,0.14954495614035085,320,320
+blur,open Q triplets,aligned gradient strength,0.1498739035087719,320,320
+blur,DCT power,pixels,0.4485197368421051,320,320
+blur,DCT power,polar m1,0.03005404928270188,264,320
+blur,DCT power,global Q,0.11687499999999998,320,320
+blur,DCT power,angular m4,0.0805208333333333,320,320
+blur,DCT power,HOG,0.10575109649122805,320,320
+blur,DCT power,local Q,0.14576754385964913,320,320
+blur,DCT power,open Q pairs,0.22450109649122804,320,320
+blur,DCT power,open Q triplets,0.0932017543859649,320,320
+blur,DCT power,DCT power,1.0,320,320
+blur,DCT power,aligned pixels,0.4973300438596491,320,320
+blur,DCT power,aligned local Q,0.1563486842105263,320,320
+blur,DCT power,aligned Q magnitude,0.24351425438596488,320,320
+blur,DCT power,aligned gradient strength,0.27652960526315784,320,320
+blur,aligned pixels,pixels,0.7808662280701754,320,320
+blur,aligned pixels,polar m1,-0.0088654569832696,264,320
+blur,aligned pixels,global Q,0.23259868421052626,320,320
+blur,aligned pixels,angular m4,0.17912828947368417,320,320
+blur,aligned pixels,HOG,0.4254221491228069,320,320
+blur,aligned pixels,local Q,0.5112828947368421,320,320
+blur,aligned pixels,open Q pairs,0.3678125,320,320
+blur,aligned pixels,open Q triplets,0.16040021929824558,320,320
+blur,aligned pixels,DCT power,0.4973300438596491,320,320
+blur,aligned pixels,aligned pixels,1.0,320,320
+blur,aligned pixels,aligned local Q,0.5328234649122806,320,320
+blur,aligned pixels,aligned Q magnitude,0.5508168859649121,320,320
+blur,aligned pixels,aligned gradient strength,0.6037006578947368,320,320
+blur,aligned local Q,pixels,0.3883771929824561,320,320
+blur,aligned local Q,polar m1,-0.022858697363385486,264,320
+blur,aligned local Q,global Q,0.510219298245614,320,320
+blur,aligned local Q,angular m4,0.20308114035087715,320,320
+blur,aligned local Q,HOG,0.6598903508771928,320,320
+blur,aligned local Q,local Q,0.8437554824561403,320,320
+blur,aligned local Q,open Q pairs,0.2072861842105263,320,320
+blur,aligned local Q,open Q triplets,0.36694078947368414,320,320
+blur,aligned local Q,DCT power,0.1563486842105263,320,320
+blur,aligned local Q,aligned pixels,0.5328234649122806,320,320
+blur,aligned local Q,aligned local Q,1.0,320,320
+blur,aligned local Q,aligned Q magnitude,0.5311622807017542,320,320
+blur,aligned local Q,aligned gradient strength,0.5226864035087718,320,320
+blur,aligned Q magnitude,pixels,0.5962554824561404,320,320
+blur,aligned Q magnitude,polar m1,-0.06011209196719136,264,320
+blur,aligned Q magnitude,global Q,0.23405153508771925,320,320
+blur,aligned Q magnitude,angular m4,0.12247807017543857,320,320
+blur,aligned Q magnitude,HOG,0.5991611842105262,320,320
+blur,aligned Q magnitude,local Q,0.5569462719298246,320,320
+blur,aligned Q magnitude,open Q pairs,0.335328947368421,320,320
+blur,aligned Q magnitude,open Q triplets,0.14954495614035085,320,320
+blur,aligned Q magnitude,DCT power,0.24351425438596488,320,320
+blur,aligned Q magnitude,aligned pixels,0.5508168859649121,320,320
+blur,aligned Q magnitude,aligned local Q,0.5311622807017542,320,320
+blur,aligned Q magnitude,aligned Q magnitude,1.0,320,320
+blur,aligned Q magnitude,aligned gradient strength,0.8561842105263157,320,320
+blur,aligned gradient strength,pixels,0.6589967105263156,320,320
+blur,aligned gradient strength,polar m1,-0.1180998810789155,264,320
+blur,aligned gradient strength,global Q,0.22457785087719295,320,320
+blur,aligned gradient strength,angular m4,0.12417214912280698,320,320
+blur,aligned gradient strength,HOG,0.6533881578947367,320,320
+blur,aligned gradient strength,local Q,0.5676535087719297,320,320
+blur,aligned gradient strength,open Q pairs,0.26329495614035087,320,320
+blur,aligned gradient strength,open Q triplets,0.1498739035087719,320,320
+blur,aligned gradient strength,DCT power,0.27652960526315784,320,320
+blur,aligned gradient strength,aligned pixels,0.6037006578947368,320,320
+blur,aligned gradient strength,aligned local Q,0.5226864035087718,320,320
+blur,aligned gradient strength,aligned Q magnitude,0.8561842105263157,320,320
+blur,aligned gradient strength,aligned gradient strength,1.0,320,320
+rotation,pixels,pixels,1.0,320,320
+rotation,pixels,polar m1,0.04474963333595442,263,320
+rotation,pixels,global Q,0.10654605263157894,320,320
+rotation,pixels,angular m4,0.07302083333333334,320,320
+rotation,pixels,HOG,0.44108552631578946,320,320
+rotation,pixels,local Q,0.4175986842105262,320,320
+rotation,pixels,open Q pairs,0.25358004385964905,320,320
+rotation,pixels,open Q triplets,0.045827850877192974,320,320
+rotation,pixels,DCT power,0.3108826754385964,320,320
+rotation,pixels,aligned pixels,0.7087499999999999,320,320
+rotation,pixels,aligned local Q,0.33292214912280693,320,320
+rotation,pixels,aligned Q magnitude,0.6120997807017543,320,320
+rotation,pixels,aligned gradient strength,0.6424945175438596,320,320
+rotation,polar m1,pixels,0.04474963333595442,263,320
+rotation,polar m1,polar m1,1.0,263,320
+rotation,polar m1,global Q,-0.027601996866931447,263,320
+rotation,polar m1,angular m4,-0.003535766614189859,263,320
+rotation,polar m1,HOG,0.04809492140228773,263,320
+rotation,polar m1,local Q,0.06821247880926343,263,320
+rotation,polar m1,open Q pairs,0.01713454303765148,263,320
+rotation,polar m1,open Q triplets,0.005727177047211541,263,320
+rotation,polar m1,DCT power,-0.012056668320651323,263,320
+rotation,polar m1,aligned pixels,-0.005885864142553661,263,320
+rotation,polar m1,aligned local Q,0.028548631101427586,263,320
+rotation,polar m1,aligned Q magnitude,-0.005875559885069189,263,320
+rotation,polar m1,aligned gradient strength,0.009946411242907023,263,320
+rotation,global Q,pixels,0.10654605263157894,320,320
+rotation,global Q,polar m1,-0.027601996866931447,263,320
+rotation,global Q,global Q,1.0,320,320
+rotation,global Q,angular m4,0.16327850877192981,320,320
+rotation,global Q,HOG,0.34520833333333323,320,320
+rotation,global Q,local Q,0.4781798245614034,320,320
+rotation,global Q,open Q pairs,0.08143640350877193,320,320
+rotation,global Q,open Q triplets,0.5690515350877192,320,320
+rotation,global Q,DCT power,0.1369517543859649,320,320
+rotation,global Q,aligned pixels,0.1935252192982456,320,320
+rotation,global Q,aligned local Q,0.5315624999999999,320,320
+rotation,global Q,aligned Q magnitude,0.20415570175438594,320,320
+rotation,global Q,aligned gradient strength,0.1744627192982456,320,320
+rotation,angular m4,pixels,0.07302083333333334,320,320
+rotation,angular m4,polar m1,-0.003535766614189859,263,320
+rotation,angular m4,global Q,0.16327850877192981,320,320
+rotation,angular m4,angular m4,1.0,320,320
+rotation,angular m4,HOG,0.2293585526315789,320,320
+rotation,angular m4,local Q,0.14999451754385962,320,320
+rotation,angular m4,open Q pairs,0.0524671052631579,320,320
+rotation,angular m4,open Q triplets,0.14800438596491225,320,320
+rotation,angular m4,DCT power,0.06956688596491227,320,320
+rotation,angular m4,aligned pixels,0.16451754385964912,320,320
+rotation,angular m4,aligned local Q,0.20005482456140347,320,320
+rotation,angular m4,aligned Q magnitude,0.10821271929824561,320,320
+rotation,angular m4,aligned gradient strength,0.11329495614035086,320,320
+rotation,HOG,pixels,0.44108552631578946,320,320
+rotation,HOG,polar m1,0.04809492140228773,263,320
+rotation,HOG,global Q,0.34520833333333323,320,320
+rotation,HOG,angular m4,0.2293585526315789,320,320
+rotation,HOG,HOG,1.0,320,320
+rotation,HOG,local Q,0.728766447368421,320,320
+rotation,HOG,open Q pairs,0.17393092105263158,320,320
+rotation,HOG,open Q triplets,0.2837116228070175,320,320
+rotation,HOG,DCT power,0.13577850877192982,320,320
+rotation,HOG,aligned pixels,0.5304769736842104,320,320
+rotation,HOG,aligned local Q,0.6678673245614035,320,320
+rotation,HOG,aligned Q magnitude,0.5236184210526315,320,320
+rotation,HOG,aligned gradient strength,0.6162938596491226,320,320
+rotation,local Q,pixels,0.4175986842105262,320,320
+rotation,local Q,polar m1,0.06821247880926343,263,320
+rotation,local Q,global Q,0.4781798245614034,320,320
+rotation,local Q,angular m4,0.14999451754385962,320,320
+rotation,local Q,HOG,0.728766447368421,320,320
+rotation,local Q,local Q,1.0,320,320
+rotation,local Q,open Q pairs,0.1881907894736842,320,320
+rotation,local Q,open Q triplets,0.3292543859649122,320,320
+rotation,local Q,DCT power,0.14799342105263158,320,320
+rotation,local Q,aligned pixels,0.5100383771929824,320,320
+rotation,local Q,aligned local Q,0.8388596491228067,320,320
+rotation,local Q,aligned Q magnitude,0.4771875,320,320
+rotation,local Q,aligned gradient strength,0.4859046052631578,320,320
+rotation,open Q pairs,pixels,0.25358004385964905,320,320
+rotation,open Q pairs,polar m1,0.01713454303765148,263,320
+rotation,open Q pairs,global Q,0.08143640350877193,320,320
+rotation,open Q pairs,angular m4,0.0524671052631579,320,320
+rotation,open Q pairs,HOG,0.17393092105263158,320,320
+rotation,open Q pairs,local Q,0.1881907894736842,320,320
+rotation,open Q pairs,open Q pairs,1.0,320,320
+rotation,open Q pairs,open Q triplets,0.06939692982456139,320,320
+rotation,open Q pairs,DCT power,0.049265350877192964,320,320
+rotation,open Q pairs,aligned pixels,0.2792489035087719,320,320
+rotation,open Q pairs,aligned local Q,0.20731359649122805,320,320
+rotation,open Q pairs,aligned Q magnitude,0.3910855263157894,320,320
+rotation,open Q pairs,aligned gradient strength,0.28089364035087716,320,320
+rotation,open Q triplets,pixels,0.045827850877192974,320,320
+rotation,open Q triplets,polar m1,0.005727177047211541,263,320
+rotation,open Q triplets,global Q,0.5690515350877192,320,320
+rotation,open Q triplets,angular m4,0.14800438596491225,320,320
+rotation,open Q triplets,HOG,0.2837116228070175,320,320
+rotation,open Q triplets,local Q,0.3292543859649122,320,320
+rotation,open Q triplets,open Q pairs,0.06939692982456139,320,320
+rotation,open Q triplets,open Q triplets,1.0,320,320
+rotation,open Q triplets,DCT power,0.10876644736842103,320,320
+rotation,open Q triplets,aligned pixels,0.13263706140350875,320,320
+rotation,open Q triplets,aligned local Q,0.3818969298245613,320,320
+rotation,open Q triplets,aligned Q magnitude,0.1203125,320,320
+rotation,open Q triplets,aligned gradient strength,0.1164473684210526,320,320
+rotation,DCT power,pixels,0.3108826754385964,320,320
+rotation,DCT power,polar m1,-0.012056668320651323,263,320
+rotation,DCT power,global Q,0.1369517543859649,320,320
+rotation,DCT power,angular m4,0.06956688596491227,320,320
+rotation,DCT power,HOG,0.13577850877192982,320,320
+rotation,DCT power,local Q,0.14799342105263158,320,320
+rotation,DCT power,open Q pairs,0.049265350877192964,320,320
+rotation,DCT power,open Q triplets,0.10876644736842103,320,320
+rotation,DCT power,DCT power,1.0,320,320
+rotation,DCT power,aligned pixels,0.39702850877192974,320,320
+rotation,DCT power,aligned local Q,0.15843749999999998,320,320
+rotation,DCT power,aligned Q magnitude,0.23521381578947365,320,320
+rotation,DCT power,aligned gradient strength,0.23343201754385962,320,320
+rotation,aligned pixels,pixels,0.7087499999999999,320,320
+rotation,aligned pixels,polar m1,-0.005885864142553661,263,320
+rotation,aligned pixels,global Q,0.1935252192982456,320,320
+rotation,aligned pixels,angular m4,0.16451754385964912,320,320
+rotation,aligned pixels,HOG,0.5304769736842104,320,320
+rotation,aligned pixels,local Q,0.5100383771929824,320,320
+rotation,aligned pixels,open Q pairs,0.2792489035087719,320,320
+rotation,aligned pixels,open Q triplets,0.13263706140350875,320,320
+rotation,aligned pixels,DCT power,0.39702850877192974,320,320
+rotation,aligned pixels,aligned pixels,1.0,320,320
+rotation,aligned pixels,aligned local Q,0.5176260964912279,320,320
+rotation,aligned pixels,aligned Q magnitude,0.6219736842105262,320,320
+rotation,aligned pixels,aligned gradient strength,0.6615296052631578,320,320
+rotation,aligned local Q,pixels,0.33292214912280693,320,320
+rotation,aligned local Q,polar m1,0.028548631101427586,263,320
+rotation,aligned local Q,global Q,0.5315624999999999,320,320
+rotation,aligned local Q,angular m4,0.20005482456140347,320,320
+rotation,aligned local Q,HOG,0.6678673245614035,320,320
+rotation,aligned local Q,local Q,0.8388596491228067,320,320
+rotation,aligned local Q,open Q pairs,0.20731359649122805,320,320
+rotation,aligned local Q,open Q triplets,0.3818969298245613,320,320
+rotation,aligned local Q,DCT power,0.15843749999999998,320,320
+rotation,aligned local Q,aligned pixels,0.5176260964912279,320,320
+rotation,aligned local Q,aligned local Q,1.0,320,320
+rotation,aligned local Q,aligned Q magnitude,0.4801535087719298,320,320
+rotation,aligned local Q,aligned gradient strength,0.46401315789473685,320,320
+rotation,aligned Q magnitude,pixels,0.6120997807017543,320,320
+rotation,aligned Q magnitude,polar m1,-0.005875559885069189,263,320
+rotation,aligned Q magnitude,global Q,0.20415570175438594,320,320
+rotation,aligned Q magnitude,angular m4,0.10821271929824561,320,320
+rotation,aligned Q magnitude,HOG,0.5236184210526315,320,320
+rotation,aligned Q magnitude,local Q,0.4771875,320,320
+rotation,aligned Q magnitude,open Q pairs,0.3910855263157894,320,320
+rotation,aligned Q magnitude,open Q triplets,0.1203125,320,320
+rotation,aligned Q magnitude,DCT power,0.23521381578947365,320,320
+rotation,aligned Q magnitude,aligned pixels,0.6219736842105262,320,320
+rotation,aligned Q magnitude,aligned local Q,0.4801535087719298,320,320
+rotation,aligned Q magnitude,aligned Q magnitude,1.0,320,320
+rotation,aligned Q magnitude,aligned gradient strength,0.8290844298245613,320,320
+rotation,aligned gradient strength,pixels,0.6424945175438596,320,320
+rotation,aligned gradient strength,polar m1,0.009946411242907023,263,320
+rotation,aligned gradient strength,global Q,0.1744627192982456,320,320
+rotation,aligned gradient strength,angular m4,0.11329495614035086,320,320
+rotation,aligned gradient strength,HOG,0.6162938596491226,320,320
+rotation,aligned gradient strength,local Q,0.4859046052631578,320,320
+rotation,aligned gradient strength,open Q pairs,0.28089364035087716,320,320
+rotation,aligned gradient strength,open Q triplets,0.1164473684210526,320,320
+rotation,aligned gradient strength,DCT power,0.23343201754385962,320,320
+rotation,aligned gradient strength,aligned pixels,0.6615296052631578,320,320
+rotation,aligned gradient strength,aligned local Q,0.46401315789473685,320,320
+rotation,aligned gradient strength,aligned Q magnitude,0.8290844298245613,320,320
+rotation,aligned gradient strength,aligned gradient strength,1.0,320,320
+crop,pixels,pixels,1.0,320,320
+crop,pixels,polar m1,-0.04953086355518233,247,320
+crop,pixels,global Q,0.10456140350877192,320,320
+crop,pixels,angular m4,0.07798793859649122,320,320
+crop,pixels,HOG,0.43075109649122806,320,320
+crop,pixels,local Q,0.4091940789473683,320,320
+crop,pixels,open Q pairs,0.24947368421052624,320,320
+crop,pixels,open Q triplets,0.0525657894736842,320,320
+crop,pixels,DCT power,0.2635032894736841,320,320
+crop,pixels,aligned pixels,0.6799506578947367,320,320
+crop,pixels,aligned local Q,0.3382785087719298,320,320
+crop,pixels,aligned Q magnitude,0.5783662280701753,320,320
+crop,pixels,aligned gradient strength,0.6318969298245614,320,320
+crop,polar m1,pixels,-0.04953086355518233,247,320
+crop,polar m1,polar m1,1.0,247,320
+crop,polar m1,global Q,0.010015849834893287,247,320
+crop,polar m1,angular m4,-2.480309312876103e-05,247,320
+crop,polar m1,HOG,-0.0967205224596087,247,320
+crop,polar m1,local Q,-0.05543595422805181,247,320
+crop,polar m1,open Q pairs,0.06132043536346072,247,320
+crop,polar m1,open Q triplets,0.0010897378979113045,247,320
+crop,polar m1,DCT power,0.019884446637946935,247,320
+crop,polar m1,aligned pixels,-0.054954373587651976,247,320
+crop,polar m1,aligned local Q,-0.05267721158270511,247,320
+crop,polar m1,aligned Q magnitude,-0.039200133057031294,247,320
+crop,polar m1,aligned gradient strength,-0.08694183208003012,247,320
+crop,global Q,pixels,0.10456140350877192,320,320
+crop,global Q,polar m1,0.010015849834893287,247,320
+crop,global Q,global Q,1.0,320,320
+crop,global Q,angular m4,0.15684758771929821,320,320
+crop,global Q,HOG,0.3476644736842105,320,320
+crop,global Q,local Q,0.48133223684210513,320,320
+crop,global Q,open Q pairs,0.06732456140350876,320,320
+crop,global Q,open Q triplets,0.5384320175438596,320,320
+crop,global Q,DCT power,0.135734649122807,320,320
+crop,global Q,aligned pixels,0.2019791666666666,320,320
+crop,global Q,aligned local Q,0.5345997807017543,320,320
+crop,global Q,aligned Q magnitude,0.2338980263157895,320,320
+crop,global Q,aligned gradient strength,0.16936951754385962,320,320
+crop,angular m4,pixels,0.07798793859649122,320,320
+crop,angular m4,polar m1,-2.480309312876103e-05,247,320
+crop,angular m4,global Q,0.15684758771929821,320,320
+crop,angular m4,angular m4,1.0,320,320
+crop,angular m4,HOG,0.2218366228070175,320,320
+crop,angular m4,local Q,0.14622258771929822,320,320
+crop,angular m4,open Q pairs,0.06531249999999998,320,320
+crop,angular m4,open Q triplets,0.17861293859649122,320,320
+crop,angular m4,DCT power,0.09611293859649121,320,320
+crop,angular m4,aligned pixels,0.16173793859649122,320,320
+crop,angular m4,aligned local Q,0.17940241228070172,320,320
+crop,angular m4,aligned Q magnitude,0.1156469298245614,320,320
+crop,angular m4,aligned gradient strength,0.09770833333333331,320,320
+crop,HOG,pixels,0.43075109649122806,320,320
+crop,HOG,polar m1,-0.0967205224596087,247,320
+crop,HOG,global Q,0.3476644736842105,320,320
+crop,HOG,angular m4,0.2218366228070175,320,320
+crop,HOG,HOG,1.0,320,320
+crop,HOG,local Q,0.719298245614035,320,320
+crop,HOG,open Q pairs,0.16876644736842103,320,320
+crop,HOG,open Q triplets,0.263876096491228,320,320
+crop,HOG,DCT power,0.16877192982456138,320,320
+crop,HOG,aligned pixels,0.5523519736842104,320,320
+crop,HOG,aligned local Q,0.6797423245614034,320,320
+crop,HOG,aligned Q magnitude,0.5139418859649123,320,320
+crop,HOG,aligned gradient strength,0.575564692982456,320,320
+crop,local Q,pixels,0.4091940789473683,320,320
+crop,local Q,polar m1,-0.05543595422805181,247,320
+crop,local Q,global Q,0.48133223684210513,320,320
+crop,local Q,angular m4,0.14622258771929822,320,320
+crop,local Q,HOG,0.719298245614035,320,320
+crop,local Q,local Q,1.0,320,320
+crop,local Q,open Q pairs,0.18104166666666663,320,320
+crop,local Q,open Q triplets,0.3026370614035087,320,320
+crop,local Q,DCT power,0.14148026315789472,320,320
+crop,local Q,aligned pixels,0.5204934210526315,320,320
+crop,local Q,aligned local Q,0.8598135964912281,320,320
+crop,local Q,aligned Q magnitude,0.4837116228070174,320,320
+crop,local Q,aligned gradient strength,0.47783442982456137,320,320
+crop,open Q pairs,pixels,0.24947368421052624,320,320
+crop,open Q pairs,polar m1,0.06132043536346072,247,320
+crop,open Q pairs,global Q,0.06732456140350876,320,320
+crop,open Q pairs,angular m4,0.06531249999999998,320,320
+crop,open Q pairs,HOG,0.16876644736842103,320,320
+crop,open Q pairs,local Q,0.18104166666666663,320,320
+crop,open Q pairs,open Q pairs,1.0,320,320
+crop,open Q pairs,open Q triplets,0.05820175438596491,320,320
+crop,open Q pairs,DCT power,0.06149671052631578,320,320
+crop,open Q pairs,aligned pixels,0.296392543859649,320,320
+crop,open Q pairs,aligned local Q,0.20507675438596484,320,320
+crop,open Q pairs,aligned Q magnitude,0.3805427631578947,320,320
+crop,open Q pairs,aligned gradient strength,0.28084978070175437,320,320
+crop,open Q triplets,pixels,0.0525657894736842,320,320
+crop,open Q triplets,polar m1,0.0010897378979113045,247,320
+crop,open Q triplets,global Q,0.5384320175438596,320,320
+crop,open Q triplets,angular m4,0.17861293859649122,320,320
+crop,open Q triplets,HOG,0.263876096491228,320,320
+crop,open Q triplets,local Q,0.3026370614035087,320,320
+crop,open Q triplets,open Q pairs,0.05820175438596491,320,320
+crop,open Q triplets,open Q triplets,1.0,320,320
+crop,open Q triplets,DCT power,0.11343201754385963,320,320
+crop,open Q triplets,aligned pixels,0.14691337719298242,320,320
+crop,open Q triplets,aligned local Q,0.36411184210526304,320,320
+crop,open Q triplets,aligned Q magnitude,0.1348629385964912,320,320
+crop,open Q triplets,aligned gradient strength,0.11564692982456137,320,320
+crop,DCT power,pixels,0.2635032894736841,320,320
+crop,DCT power,polar m1,0.019884446637946935,247,320
+crop,DCT power,global Q,0.135734649122807,320,320
+crop,DCT power,angular m4,0.09611293859649121,320,320
+crop,DCT power,HOG,0.16877192982456138,320,320
+crop,DCT power,local Q,0.14148026315789472,320,320
+crop,DCT power,open Q pairs,0.06149671052631578,320,320
+crop,DCT power,open Q triplets,0.11343201754385963,320,320
+crop,DCT power,DCT power,1.0,320,320
+crop,DCT power,aligned pixels,0.3454166666666666,320,320
+crop,DCT power,aligned local Q,0.16122258771929823,320,320
+crop,DCT power,aligned Q magnitude,0.21355263157894733,320,320
+crop,DCT power,aligned gradient strength,0.20930921052631574,320,320
+crop,aligned pixels,pixels,0.6799506578947367,320,320
+crop,aligned pixels,polar m1,-0.054954373587651976,247,320
+crop,aligned pixels,global Q,0.2019791666666666,320,320
+crop,aligned pixels,angular m4,0.16173793859649122,320,320
+crop,aligned pixels,HOG,0.5523519736842104,320,320
+crop,aligned pixels,local Q,0.5204934210526315,320,320
+crop,aligned pixels,open Q pairs,0.296392543859649,320,320
+crop,aligned pixels,open Q triplets,0.14691337719298242,320,320
+crop,aligned pixels,DCT power,0.3454166666666666,320,320
+crop,aligned pixels,aligned pixels,1.0,320,320
+crop,aligned pixels,aligned local Q,0.5501535087719297,320,320
+crop,aligned pixels,aligned Q magnitude,0.6169572368421051,320,320
+crop,aligned pixels,aligned gradient strength,0.6624725877192981,320,320
+crop,aligned local Q,pixels,0.3382785087719298,320,320
+crop,aligned local Q,polar m1,-0.05267721158270511,247,320
+crop,aligned local Q,global Q,0.5345997807017543,320,320
+crop,aligned local Q,angular m4,0.17940241228070172,320,320
+crop,aligned local Q,HOG,0.6797423245614034,320,320
+crop,aligned local Q,local Q,0.8598135964912281,320,320
+crop,aligned local Q,open Q pairs,0.20507675438596484,320,320
+crop,aligned local Q,open Q triplets,0.36411184210526304,320,320
+crop,aligned local Q,DCT power,0.16122258771929823,320,320
+crop,aligned local Q,aligned pixels,0.5501535087719297,320,320
+crop,aligned local Q,aligned local Q,1.0,320,320
+crop,aligned local Q,aligned Q magnitude,0.48325657894736834,320,320
+crop,aligned local Q,aligned gradient strength,0.4542982456140351,320,320
+crop,aligned Q magnitude,pixels,0.5783662280701753,320,320
+crop,aligned Q magnitude,polar m1,-0.039200133057031294,247,320
+crop,aligned Q magnitude,global Q,0.2338980263157895,320,320
+crop,aligned Q magnitude,angular m4,0.1156469298245614,320,320
+crop,aligned Q magnitude,HOG,0.5139418859649123,320,320
+crop,aligned Q magnitude,local Q,0.4837116228070174,320,320
+crop,aligned Q magnitude,open Q pairs,0.3805427631578947,320,320
+crop,aligned Q magnitude,open Q triplets,0.1348629385964912,320,320
+crop,aligned Q magnitude,DCT power,0.21355263157894733,320,320
+crop,aligned Q magnitude,aligned pixels,0.6169572368421051,320,320
+crop,aligned Q magnitude,aligned local Q,0.48325657894736834,320,320
+crop,aligned Q magnitude,aligned Q magnitude,1.0,320,320
+crop,aligned Q magnitude,aligned gradient strength,0.8101370614035087,320,320
+crop,aligned gradient strength,pixels,0.6318969298245614,320,320
+crop,aligned gradient strength,polar m1,-0.08694183208003012,247,320
+crop,aligned gradient strength,global Q,0.16936951754385962,320,320
+crop,aligned gradient strength,angular m4,0.09770833333333331,320,320
+crop,aligned gradient strength,HOG,0.575564692982456,320,320
+crop,aligned gradient strength,local Q,0.47783442982456137,320,320
+crop,aligned gradient strength,open Q pairs,0.28084978070175437,320,320
+crop,aligned gradient strength,open Q triplets,0.11564692982456137,320,320
+crop,aligned gradient strength,DCT power,0.20930921052631574,320,320
+crop,aligned gradient strength,aligned pixels,0.6624725877192981,320,320
+crop,aligned gradient strength,aligned local Q,0.4542982456140351,320,320
+crop,aligned gradient strength,aligned Q magnitude,0.8101370614035087,320,320
+crop,aligned gradient strength,aligned gradient strength,1.0,320,320
+occlusion,pixels,pixels,1.0,320,320
+occlusion,pixels,polar m1,0.14405588346305273,277,320
+occlusion,pixels,global Q,0.11581688596491228,320,320
+occlusion,pixels,angular m4,0.050975877192982445,320,320
+occlusion,pixels,HOG,0.47838267543859636,320,320
+occlusion,pixels,local Q,0.45568530701754384,320,320
+occlusion,pixels,open Q pairs,0.1330263157894737,320,320
+occlusion,pixels,open Q triplets,0.07276315789473684,320,320
+occlusion,pixels,DCT power,0.2452138157894736,320,320
+occlusion,pixels,aligned pixels,0.6364473684210525,320,320
+occlusion,pixels,aligned local Q,0.3624342105263157,320,320
+occlusion,pixels,aligned Q magnitude,0.5979824561403508,320,320
+occlusion,pixels,aligned gradient strength,0.673157894736842,320,320
+occlusion,polar m1,pixels,0.14405588346305273,277,320
+occlusion,polar m1,polar m1,1.0,277,320
+occlusion,polar m1,global Q,-0.029008498168635297,277,320
+occlusion,polar m1,angular m4,-0.06315633785916347,277,320
+occlusion,polar m1,HOG,0.14874119940423314,277,320
+occlusion,polar m1,local Q,0.10345021644784849,277,320
+occlusion,polar m1,open Q pairs,-0.035372451231641164,277,320
+occlusion,polar m1,open Q triplets,-0.03103402082465403,277,320
+occlusion,polar m1,DCT power,-0.026274513361802122,277,320
+occlusion,polar m1,aligned pixels,0.04212950902620272,277,320
+occlusion,polar m1,aligned local Q,0.05696998066506966,277,320
+occlusion,polar m1,aligned Q magnitude,0.047824270016932735,277,320
+occlusion,polar m1,aligned gradient strength,0.10294217748266657,277,320
+occlusion,global Q,pixels,0.11581688596491228,320,320
+occlusion,global Q,polar m1,-0.029008498168635297,277,320
+occlusion,global Q,global Q,1.0,320,320
+occlusion,global Q,angular m4,0.08341008771929823,320,320
+occlusion,global Q,HOG,0.3350603070175438,320,320
+occlusion,global Q,local Q,0.46527960526315787,320,320
+occlusion,global Q,open Q pairs,0.07209978070175438,320,320
+occlusion,global Q,open Q triplets,0.579813596491228,320,320
+occlusion,global Q,DCT power,0.11993421052631577,320,320
+occlusion,global Q,aligned pixels,0.21595942982456134,320,320
+occlusion,global Q,aligned local Q,0.520219298245614,320,320
+occlusion,global Q,aligned Q magnitude,0.2325438596491228,320,320
+occlusion,global Q,aligned gradient strength,0.21186403508771928,320,320
+occlusion,angular m4,pixels,0.050975877192982445,320,320
+occlusion,angular m4,polar m1,-0.06315633785916347,277,320
+occlusion,angular m4,global Q,0.08341008771929823,320,320
+occlusion,angular m4,angular m4,1.0,320,320
+occlusion,angular m4,HOG,0.2084210526315789,320,320
+occlusion,angular m4,local Q,0.09881030701754383,320,320
+occlusion,angular m4,open Q pairs,0.12066337719298245,320,320
+occlusion,angular m4,open Q triplets,0.1029002192982456,320,320
+occlusion,angular m4,DCT power,0.06732456140350876,320,320
+occlusion,angular m4,aligned pixels,0.15866228070175437,320,320
+occlusion,angular m4,aligned local Q,0.14631030701754383,320,320
+occlusion,angular m4,aligned Q magnitude,0.11846491228070173,320,320
+occlusion,angular m4,aligned gradient strength,0.09903508771929823,320,320
+occlusion,HOG,pixels,0.47838267543859636,320,320
+occlusion,HOG,polar m1,0.14874119940423314,277,320
+occlusion,HOG,global Q,0.3350603070175438,320,320
+occlusion,HOG,angular m4,0.2084210526315789,320,320
+occlusion,HOG,HOG,1.0,320,320
+occlusion,HOG,local Q,0.7163596491228069,320,320
+occlusion,HOG,open Q pairs,0.14631030701754383,320,320
+occlusion,HOG,open Q triplets,0.2702247807017544,320,320
+occlusion,HOG,DCT power,0.17808662280701754,320,320
+occlusion,HOG,aligned pixels,0.5653508771929824,320,320
+occlusion,HOG,aligned local Q,0.6583114035087718,320,320
+occlusion,HOG,aligned Q magnitude,0.5400986842105262,320,320
+occlusion,HOG,aligned gradient strength,0.6269353070175437,320,320
+occlusion,local Q,pixels,0.45568530701754384,320,320
+occlusion,local Q,polar m1,0.10345021644784849,277,320
+occlusion,local Q,global Q,0.46527960526315787,320,320
+occlusion,local Q,angular m4,0.09881030701754383,320,320
+occlusion,local Q,HOG,0.7163596491228069,320,320
+occlusion,local Q,local Q,1.0,320,320
+occlusion,local Q,open Q pairs,0.14336074561403506,320,320
+occlusion,local Q,open Q triplets,0.32637061403508766,320,320
+occlusion,local Q,DCT power,0.18905701754385965,320,320
+occlusion,local Q,aligned pixels,0.5602850877192982,320,320
+occlusion,local Q,aligned local Q,0.8387499999999999,320,320
+occlusion,local Q,aligned Q magnitude,0.5167379385964911,320,320
+occlusion,local Q,aligned gradient strength,0.5341611842105263,320,320
+occlusion,open Q pairs,pixels,0.1330263157894737,320,320
+occlusion,open Q pairs,polar m1,-0.035372451231641164,277,320
+occlusion,open Q pairs,global Q,0.07209978070175438,320,320
+occlusion,open Q pairs,angular m4,0.12066337719298245,320,320
+occlusion,open Q pairs,HOG,0.14631030701754383,320,320
+occlusion,open Q pairs,local Q,0.14336074561403506,320,320
+occlusion,open Q pairs,open Q pairs,1.0,320,320
+occlusion,open Q pairs,open Q triplets,0.10354166666666664,320,320
+occlusion,open Q pairs,DCT power,0.25480811403508763,320,320
+occlusion,open Q pairs,aligned pixels,0.24360745614035087,320,320
+occlusion,open Q pairs,aligned local Q,0.17246710526315787,320,320
+occlusion,open Q pairs,aligned Q magnitude,0.32465460526315787,320,320
+occlusion,open Q pairs,aligned gradient strength,0.20362938596491226,320,320
+occlusion,open Q triplets,pixels,0.07276315789473684,320,320
+occlusion,open Q triplets,polar m1,-0.03103402082465403,277,320
+occlusion,open Q triplets,global Q,0.579813596491228,320,320
+occlusion,open Q triplets,angular m4,0.1029002192982456,320,320
+occlusion,open Q triplets,HOG,0.2702247807017544,320,320
+occlusion,open Q triplets,local Q,0.32637061403508766,320,320
+occlusion,open Q triplets,open Q pairs,0.10354166666666664,320,320
+occlusion,open Q triplets,open Q triplets,1.0,320,320
+occlusion,open Q triplets,DCT power,0.11028508771929824,320,320
+occlusion,open Q triplets,aligned pixels,0.1799177631578947,320,320
+occlusion,open Q triplets,aligned local Q,0.39144188596491225,320,320
+occlusion,open Q triplets,aligned Q magnitude,0.17077302631578947,320,320
+occlusion,open Q triplets,aligned gradient strength,0.14391995614035086,320,320
+occlusion,DCT power,pixels,0.2452138157894736,320,320
+occlusion,DCT power,polar m1,-0.026274513361802122,277,320
+occlusion,DCT power,global Q,0.11993421052631577,320,320
+occlusion,DCT power,angular m4,0.06732456140350876,320,320
+occlusion,DCT power,HOG,0.17808662280701754,320,320
+occlusion,DCT power,local Q,0.18905701754385965,320,320
+occlusion,DCT power,open Q pairs,0.25480811403508763,320,320
+occlusion,DCT power,open Q triplets,0.11028508771929824,320,320
+occlusion,DCT power,DCT power,1.0,320,320
+occlusion,DCT power,aligned pixels,0.37330043859649115,320,320
+occlusion,DCT power,aligned local Q,0.19944078947368418,320,320
+occlusion,DCT power,aligned Q magnitude,0.3102028508771929,320,320
+occlusion,DCT power,aligned gradient strength,0.2685964912280701,320,320
+occlusion,aligned pixels,pixels,0.6364473684210525,320,320
+occlusion,aligned pixels,polar m1,0.04212950902620272,277,320
+occlusion,aligned pixels,global Q,0.21595942982456134,320,320
+occlusion,aligned pixels,angular m4,0.15866228070175437,320,320
+occlusion,aligned pixels,HOG,0.5653508771929824,320,320
+occlusion,aligned pixels,local Q,0.5602850877192982,320,320
+occlusion,aligned pixels,open Q pairs,0.24360745614035087,320,320
+occlusion,aligned pixels,open Q triplets,0.1799177631578947,320,320
+occlusion,aligned pixels,DCT power,0.37330043859649115,320,320
+occlusion,aligned pixels,aligned pixels,1.0,320,320
+occlusion,aligned pixels,aligned local Q,0.5837280701754385,320,320
+occlusion,aligned pixels,aligned Q magnitude,0.6686513157894736,320,320
+occlusion,aligned pixels,aligned gradient strength,0.6909923245614034,320,320
+occlusion,aligned local Q,pixels,0.3624342105263157,320,320
+occlusion,aligned local Q,polar m1,0.05696998066506966,277,320
+occlusion,aligned local Q,global Q,0.520219298245614,320,320
+occlusion,aligned local Q,angular m4,0.14631030701754383,320,320
+occlusion,aligned local Q,HOG,0.6583114035087718,320,320
+occlusion,aligned local Q,local Q,0.8387499999999999,320,320
+occlusion,aligned local Q,open Q pairs,0.17246710526315787,320,320
+occlusion,aligned local Q,open Q triplets,0.39144188596491225,320,320
+occlusion,aligned local Q,DCT power,0.19944078947368418,320,320
+occlusion,aligned local Q,aligned pixels,0.5837280701754385,320,320
+occlusion,aligned local Q,aligned local Q,1.0,320,320
+occlusion,aligned local Q,aligned Q magnitude,0.5205592105263157,320,320
+occlusion,aligned local Q,aligned gradient strength,0.5082620614035087,320,320
+occlusion,aligned Q magnitude,pixels,0.5979824561403508,320,320
+occlusion,aligned Q magnitude,polar m1,0.047824270016932735,277,320
+occlusion,aligned Q magnitude,global Q,0.2325438596491228,320,320
+occlusion,aligned Q magnitude,angular m4,0.11846491228070173,320,320
+occlusion,aligned Q magnitude,HOG,0.5400986842105262,320,320
+occlusion,aligned Q magnitude,local Q,0.5167379385964911,320,320
+occlusion,aligned Q magnitude,open Q pairs,0.32465460526315787,320,320
+occlusion,aligned Q magnitude,open Q triplets,0.17077302631578947,320,320
+occlusion,aligned Q magnitude,DCT power,0.3102028508771929,320,320
+occlusion,aligned Q magnitude,aligned pixels,0.6686513157894736,320,320
+occlusion,aligned Q magnitude,aligned local Q,0.5205592105263157,320,320
+occlusion,aligned Q magnitude,aligned Q magnitude,1.0,320,320
+occlusion,aligned Q magnitude,aligned gradient strength,0.8140679824561403,320,320
+occlusion,aligned gradient strength,pixels,0.673157894736842,320,320
+occlusion,aligned gradient strength,polar m1,0.10294217748266657,277,320
+occlusion,aligned gradient strength,global Q,0.21186403508771928,320,320
+occlusion,aligned gradient strength,angular m4,0.09903508771929823,320,320
+occlusion,aligned gradient strength,HOG,0.6269353070175437,320,320
+occlusion,aligned gradient strength,local Q,0.5341611842105263,320,320
+occlusion,aligned gradient strength,open Q pairs,0.20362938596491226,320,320
+occlusion,aligned gradient strength,open Q triplets,0.14391995614035086,320,320
+occlusion,aligned gradient strength,DCT power,0.2685964912280701,320,320
+occlusion,aligned gradient strength,aligned pixels,0.6909923245614034,320,320
+occlusion,aligned gradient strength,aligned local Q,0.5082620614035087,320,320
+occlusion,aligned gradient strength,aligned Q magnitude,0.8140679824561403,320,320
+occlusion,aligned gradient strength,aligned gradient strength,1.0,320,320
+shift + noise,pixels,pixels,1.0,320,320
+shift + noise,pixels,polar m1,-0.09693734255677262,279,320
+shift + noise,pixels,global Q,0.11743969298245611,320,320
+shift + noise,pixels,angular m4,0.04868421052631578,320,320
+shift + noise,pixels,HOG,0.3473629385964912,320,320
+shift + noise,pixels,local Q,0.2736787280701754,320,320
+shift + noise,pixels,open Q pairs,-0.11613486842105263,320,320
+shift + noise,pixels,open Q triplets,0.05236842105263158,320,320
+shift + noise,pixels,DCT power,-0.1849671052631579,320,320
+shift + noise,pixels,aligned pixels,0.5840460526315788,320,320
+shift + noise,pixels,aligned local Q,0.2002960526315789,320,320
+shift + noise,pixels,aligned Q magnitude,0.30224780701754383,320,320
+shift + noise,pixels,aligned gradient strength,0.34326206140350873,320,320
+shift + noise,polar m1,pixels,-0.09693734255677262,279,320
+shift + noise,polar m1,polar m1,1.0,279,320
+shift + noise,polar m1,global Q,0.058374507437626386,279,320
+shift + noise,polar m1,angular m4,0.08149620622798093,279,320
+shift + noise,polar m1,HOG,-0.16391718783250306,279,320
+shift + noise,polar m1,local Q,-0.04937980451555164,279,320
+shift + noise,polar m1,open Q pairs,-0.0003909898906101729,279,320
+shift + noise,polar m1,open Q triplets,0.06036651245725447,279,320
+shift + noise,polar m1,DCT power,0.23207388744240978,279,320
+shift + noise,polar m1,aligned pixels,-0.0898562817508427,279,320
+shift + noise,polar m1,aligned local Q,-0.026836551396856062,279,320
+shift + noise,polar m1,aligned Q magnitude,-0.10881936241435487,279,320
+shift + noise,polar m1,aligned gradient strength,-0.20192561908328854,279,320
+shift + noise,global Q,pixels,0.11743969298245611,320,320
+shift + noise,global Q,polar m1,0.058374507437626386,279,320
+shift + noise,global Q,global Q,1.0,320,320
+shift + noise,global Q,angular m4,-0.0353344298245614,320,320
+shift + noise,global Q,HOG,0.2219901315789473,320,320
+shift + noise,global Q,local Q,0.36696271929824553,320,320
+shift + noise,global Q,open Q pairs,-0.00037280701754385874,320,320
+shift + noise,global Q,open Q triplets,0.5511239035087718,320,320
+shift + noise,global Q,DCT power,0.044468201754385955,320,320
+shift + noise,global Q,aligned pixels,0.20689144736842105,320,320
+shift + noise,global Q,aligned local Q,0.44356359649122795,320,320
+shift + noise,global Q,aligned Q magnitude,0.17791666666666664,320,320
+shift + noise,global Q,aligned gradient strength,0.07936951754385962,320,320
+shift + noise,angular m4,pixels,0.04868421052631578,320,320
+shift + noise,angular m4,polar m1,0.08149620622798093,279,320
+shift + noise,angular m4,global Q,-0.0353344298245614,320,320
+shift + noise,angular m4,angular m4,1.0,320,320
+shift + noise,angular m4,HOG,0.10428728070175437,320,320
+shift + noise,angular m4,local Q,-0.037203947368421045,320,320
+shift + noise,angular m4,open Q pairs,0.06252741228070173,320,320
+shift + noise,angular m4,open Q triplets,-0.08403508771929823,320,320
+shift + noise,angular m4,DCT power,-0.02465460526315789,320,320
+shift + noise,angular m4,aligned pixels,0.12935855263157894,320,320
+shift + noise,angular m4,aligned local Q,0.003985745614035087,320,320
+shift + noise,angular m4,aligned Q magnitude,0.08074013157894736,320,320
+shift + noise,angular m4,aligned gradient strength,0.019747807017543854,320,320
+shift + noise,HOG,pixels,0.3473629385964912,320,320
+shift + noise,HOG,polar m1,-0.16391718783250306,279,320
+shift + noise,HOG,global Q,0.2219901315789473,320,320
+shift + noise,HOG,angular m4,0.10428728070175437,320,320
+shift + noise,HOG,HOG,1.0,320,320
+shift + noise,HOG,local Q,0.3131743421052631,320,320
+shift + noise,HOG,open Q pairs,-0.37776864035087715,320,320
+shift + noise,HOG,open Q triplets,0.10088815789473685,320,320
+shift + noise,HOG,DCT power,-0.28494517543859643,320,320
+shift + noise,HOG,aligned pixels,0.3980866228070175,320,320
+shift + noise,HOG,aligned local Q,0.2686348684210526,320,320
+shift + noise,HOG,aligned Q magnitude,0.2793859649122807,320,320
+shift + noise,HOG,aligned gradient strength,0.7227192982456139,320,320
+shift + noise,local Q,pixels,0.2736787280701754,320,320
+shift + noise,local Q,polar m1,-0.04937980451555164,279,320
+shift + noise,local Q,global Q,0.36696271929824553,320,320
+shift + noise,local Q,angular m4,-0.037203947368421045,320,320
+shift + noise,local Q,HOG,0.3131743421052631,320,320
+shift + noise,local Q,local Q,1.0,320,320
+shift + noise,local Q,open Q pairs,0.056354166666666664,320,320
+shift + noise,local Q,open Q triplets,0.2556907894736842,320,320
+shift + noise,local Q,DCT power,0.09338267543859646,320,320
+shift + noise,local Q,aligned pixels,0.41521381578947364,320,320
+shift + noise,local Q,aligned local Q,0.8015186403508772,320,320
+shift + noise,local Q,aligned Q magnitude,0.29010964912280696,320,320
+shift + noise,local Q,aligned gradient strength,0.010339912280701755,320,320
+shift + noise,open Q pairs,pixels,-0.11613486842105263,320,320
+shift + noise,open Q pairs,polar m1,-0.0003909898906101729,279,320
+shift + noise,open Q pairs,global Q,-0.00037280701754385874,320,320
+shift + noise,open Q pairs,angular m4,0.06252741228070173,320,320
+shift + noise,open Q pairs,HOG,-0.37776864035087715,320,320
+shift + noise,open Q pairs,local Q,0.056354166666666664,320,320
+shift + noise,open Q pairs,open Q pairs,1.0,320,320
+shift + noise,open Q pairs,open Q triplets,0.0662609649122807,320,320
+shift + noise,open Q pairs,DCT power,0.3288870614035087,320,320
+shift + noise,open Q pairs,aligned pixels,-0.06996710526315789,320,320
+shift + noise,open Q pairs,aligned local Q,0.090734649122807,320,320
+shift + noise,open Q pairs,aligned Q magnitude,0.20361293859649118,320,320
+shift + noise,open Q pairs,aligned gradient strength,-0.6439583333333333,320,320
+shift + noise,open Q triplets,pixels,0.05236842105263158,320,320
+shift + noise,open Q triplets,polar m1,0.06036651245725447,279,320
+shift + noise,open Q triplets,global Q,0.5511239035087718,320,320
+shift + noise,open Q triplets,angular m4,-0.08403508771929823,320,320
+shift + noise,open Q triplets,HOG,0.10088815789473685,320,320
+shift + noise,open Q triplets,local Q,0.2556907894736842,320,320
+shift + noise,open Q triplets,open Q pairs,0.0662609649122807,320,320
+shift + noise,open Q triplets,open Q triplets,1.0,320,320
+shift + noise,open Q triplets,DCT power,0.07270285087719296,320,320
+shift + noise,open Q triplets,aligned pixels,0.11346491228070174,320,320
+shift + noise,open Q triplets,aligned local Q,0.32297697368421047,320,320
+shift + noise,open Q triplets,aligned Q magnitude,0.14576206140350872,320,320
+shift + noise,open Q triplets,aligned gradient strength,-0.010466008771929826,320,320
+shift + noise,DCT power,pixels,-0.1849671052631579,320,320
+shift + noise,DCT power,polar m1,0.23207388744240978,279,320
+shift + noise,DCT power,global Q,0.044468201754385955,320,320
+shift + noise,DCT power,angular m4,-0.02465460526315789,320,320
+shift + noise,DCT power,HOG,-0.28494517543859643,320,320
+shift + noise,DCT power,local Q,0.09338267543859646,320,320
+shift + noise,DCT power,open Q pairs,0.3288870614035087,320,320
+shift + noise,DCT power,open Q triplets,0.07270285087719296,320,320
+shift + noise,DCT power,DCT power,1.0,320,320
+shift + noise,DCT power,aligned pixels,-0.10286184210526314,320,320
+shift + noise,DCT power,aligned local Q,0.13406798245614032,320,320
+shift + noise,DCT power,aligned Q magnitude,0.08060855263157893,320,320
+shift + noise,DCT power,aligned gradient strength,-0.43580592105263155,320,320
+shift + noise,aligned pixels,pixels,0.5840460526315788,320,320
+shift + noise,aligned pixels,polar m1,-0.0898562817508427,279,320
+shift + noise,aligned pixels,global Q,0.20689144736842105,320,320
+shift + noise,aligned pixels,angular m4,0.12935855263157894,320,320
+shift + noise,aligned pixels,HOG,0.3980866228070175,320,320
+shift + noise,aligned pixels,local Q,0.41521381578947364,320,320
+shift + noise,aligned pixels,open Q pairs,-0.06996710526315789,320,320
+shift + noise,aligned pixels,open Q triplets,0.11346491228070174,320,320
+shift + noise,aligned pixels,DCT power,-0.10286184210526314,320,320
+shift + noise,aligned pixels,aligned pixels,1.0,320,320
+shift + noise,aligned pixels,aligned local Q,0.45730263157894735,320,320
+shift + noise,aligned pixels,aligned Q magnitude,0.504501096491228,320,320
+shift + noise,aligned pixels,aligned gradient strength,0.3008717105263157,320,320
+shift + noise,aligned local Q,pixels,0.2002960526315789,320,320
+shift + noise,aligned local Q,polar m1,-0.026836551396856062,279,320
+shift + noise,aligned local Q,global Q,0.44356359649122795,320,320
+shift + noise,aligned local Q,angular m4,0.003985745614035087,320,320
+shift + noise,aligned local Q,HOG,0.2686348684210526,320,320
+shift + noise,aligned local Q,local Q,0.8015186403508772,320,320
+shift + noise,aligned local Q,open Q pairs,0.090734649122807,320,320
+shift + noise,aligned local Q,open Q triplets,0.32297697368421047,320,320
+shift + noise,aligned local Q,DCT power,0.13406798245614032,320,320
+shift + noise,aligned local Q,aligned pixels,0.45730263157894735,320,320
+shift + noise,aligned local Q,aligned local Q,1.0,320,320
+shift + noise,aligned local Q,aligned Q magnitude,0.35118421052631577,320,320
+shift + noise,aligned local Q,aligned gradient strength,-0.00974232456140351,320,320
+shift + noise,aligned Q magnitude,pixels,0.30224780701754383,320,320
+shift + noise,aligned Q magnitude,polar m1,-0.10881936241435487,279,320
+shift + noise,aligned Q magnitude,global Q,0.17791666666666664,320,320
+shift + noise,aligned Q magnitude,angular m4,0.08074013157894736,320,320
+shift + noise,aligned Q magnitude,HOG,0.2793859649122807,320,320
+shift + noise,aligned Q magnitude,local Q,0.29010964912280696,320,320
+shift + noise,aligned Q magnitude,open Q pairs,0.20361293859649118,320,320
+shift + noise,aligned Q magnitude,open Q triplets,0.14576206140350872,320,320
+shift + noise,aligned Q magnitude,DCT power,0.08060855263157893,320,320
+shift + noise,aligned Q magnitude,aligned pixels,0.504501096491228,320,320
+shift + noise,aligned Q magnitude,aligned local Q,0.35118421052631577,320,320
+shift + noise,aligned Q magnitude,aligned Q magnitude,1.0,320,320
+shift + noise,aligned Q magnitude,aligned gradient strength,0.1478782894736842,320,320
+shift + noise,aligned gradient strength,pixels,0.34326206140350873,320,320
+shift + noise,aligned gradient strength,polar m1,-0.20192561908328854,279,320
+shift + noise,aligned gradient strength,global Q,0.07936951754385962,320,320
+shift + noise,aligned gradient strength,angular m4,0.019747807017543854,320,320
+shift + noise,aligned gradient strength,HOG,0.7227192982456139,320,320
+shift + noise,aligned gradient strength,local Q,0.010339912280701755,320,320
+shift + noise,aligned gradient strength,open Q pairs,-0.6439583333333333,320,320
+shift + noise,aligned gradient strength,open Q triplets,-0.010466008771929826,320,320
+shift + noise,aligned gradient strength,DCT power,-0.43580592105263155,320,320
+shift + noise,aligned gradient strength,aligned pixels,0.3008717105263157,320,320
+shift + noise,aligned gradient strength,aligned local Q,-0.00974232456140351,320,320
+shift + noise,aligned gradient strength,aligned Q magnitude,0.1478782894736842,320,320
+shift + noise,aligned gradient strength,aligned gradient strength,1.0,320,320

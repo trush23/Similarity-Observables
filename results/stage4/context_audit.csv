@@ -1,0 +1,3 @@
+layer,stride,height,width,local cosine distance,GAP cosine distance
+layer 1,4,24,24,2.220446049250313e-16,0.0010581270064133896
+layer 4,32,3,3,0.10244778256991638,0.0789119292813073

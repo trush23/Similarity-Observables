@@ -1,0 +1,61 @@
+condition,metric,accuracy,low95,high95
+cell shift,Q_correlation,1.0,1.0,1.0
+cell shift,global_Q,0.25,0.25,0.25
+cell shift,local_Q_16,0.4791666666666667,0.3854166666666667,0.5729166666666666
+cell shift,local_Q_2,0.3697916666666667,0.3306640625,0.4088541666666667
+cell shift,local_Q_4,0.5104166666666666,0.4479166666666667,0.5833333333333334
+cell shift,local_Q_8,0.4791666666666667,0.3854166666666667,0.5729166666666666
+cell shift,patch_Q,0.25,0.25,0.25
+cell shift,patch_mean,0.25,0.25,0.25
+cell shift,pixels,0.4791666666666667,0.3854166666666667,0.5729166666666666
+cell shift,registered_Q,1.0,1.0,1.0
+cell shift,registered_pixels,1.0,1.0,1.0
+cell shift,whole_Q,0.4791666666666667,0.3854166666666667,0.5729166666666666
+clean,Q_correlation,1.0,1.0,1.0
+clean,global_Q,0.25,0.25,0.25
+clean,local_Q_16,1.0,1.0,1.0
+clean,local_Q_2,0.5,0.5,0.5
+clean,local_Q_4,0.75,0.75,0.75
+clean,local_Q_8,1.0,1.0,1.0
+clean,patch_Q,0.25,0.25,0.25
+clean,patch_mean,0.25,0.25,0.25
+clean,pixels,1.0,1.0,1.0
+clean,registered_Q,1.0,1.0,1.0
+clean,registered_pixels,1.0,1.0,1.0
+clean,whole_Q,1.0,1.0,1.0
+pixel shift,Q_correlation,1.0,1.0,1.0
+pixel shift,global_Q,0.25,0.25,0.25
+pixel shift,local_Q_16,0.6692708333333334,0.5963541666666666,0.7421875
+pixel shift,local_Q_2,0.5,0.5,0.5
+pixel shift,local_Q_4,0.7083333333333334,0.6666666666666666,0.7395833333333334
+pixel shift,local_Q_8,0.6692708333333334,0.5963541666666666,0.7421875
+pixel shift,patch_Q,0.25,0.25,0.25
+pixel shift,patch_mean,0.25,0.25,0.25
+pixel shift,pixels,0.390625,0.3046875,0.4765625
+pixel shift,registered_Q,1.0,1.0,1.0
+pixel shift,registered_pixels,1.0,1.0,1.0
+pixel shift,whole_Q,0.7239583333333334,0.6536458333333334,0.7916666666666666
+quarter turn,Q_correlation,1.0,1.0,1.0
+quarter turn,global_Q,0.25,0.25,0.25
+quarter turn,local_Q_16,0.3880208333333333,0.3697916666666667,0.4036458333333333
+quarter turn,local_Q_2,0.4375,0.3984375,0.46875
+quarter turn,local_Q_4,0.6666666666666666,0.6145833333333334,0.7083333333333334
+quarter turn,local_Q_8,0.3880208333333333,0.3697916666666667,0.4036458333333333
+quarter turn,patch_Q,0.25,0.25,0.25
+quarter turn,patch_mean,0.25,0.25,0.25
+quarter turn,pixels,0.3880208333333333,0.3697916666666667,0.4036458333333333
+quarter turn,registered_Q,1.0,1.0,1.0
+quarter turn,registered_pixels,1.0,1.0,1.0
+quarter turn,whole_Q,0.3880208333333333,0.3697916666666667,0.4036458333333333
+shift rotation noise,Q_correlation,1.0,1.0,1.0
+shift rotation noise,global_Q,0.25,0.25,0.25
+shift rotation noise,local_Q_16,0.22916666666666666,0.14583333333333334,0.3125
+shift rotation noise,local_Q_2,0.25,0.25,0.25
+shift rotation noise,local_Q_4,0.3125,0.25,0.375
+shift rotation noise,local_Q_8,0.25,0.16666666666666666,0.3333333333333333
+shift rotation noise,patch_Q,0.25,0.25,0.25
+shift rotation noise,patch_mean,0.25,0.25,0.25
+shift rotation noise,pixels,0.3333333333333333,0.22916666666666666,0.41692708333333195
+shift rotation noise,registered_Q,1.0,1.0,1.0
+shift rotation noise,registered_pixels,1.0,1.0,1.0
+shift rotation noise,whole_Q,0.2864583333333333,0.19791666666666666,0.375

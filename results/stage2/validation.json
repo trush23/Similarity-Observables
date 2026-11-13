@@ -1,0 +1,45 @@
+{
+  "stage": 2,
+  "python": "3.12.2 | packaged by conda-forge | (main, Feb 16 2024, 20:54:21) [Clang 16.0.6 ]",
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "versions": {
+    "numpy": "1.26.4",
+    "scipy": "1.13.1",
+    "pandas": "2.2.3",
+    "matplotlib": "3.10.0",
+    "nbformat": "5.10.4",
+    "nbclient": "0.10.2"
+  },
+  "notebooks": {
+    "08_Representations_and_information.ipynb": {
+      "cells": 4,
+      "figures": 2
+    },
+    "09_Spatial_scale_and_registration.ipynb": {
+      "cells": 4,
+      "figures": 2
+    },
+    "10_Position_orientation_correlations.ipynb": {
+      "cells": 4,
+      "figures": 2
+    },
+    "11_Spatial_discrimination_and_robustness.ipynb": {
+      "cells": 5,
+      "figures": 1
+    }
+  },
+  "total_notebooks": 12,
+  "tests_passed_total": 25,
+  "source_sha256": {
+    "patterns.py": "b92df25b567868d1d6745f3542e24df41efb682bab7ea12d71068817f24db1ca",
+    "benchmark.py": "790ff8cff2c05d8fa58017de17c8ee458df069546a99dba1d43fd7daa7420129",
+    "__init__.py": "a16730b687a30a2a63844a71ee888d5b6d8a1d8b081043fedf3575ff3d4f4202",
+    "core.py": "34e08b284986c65033c27cd8c4a729d75ce2c5a835b2cca883f589dcb7f69d08",
+    "spatial.py": "6498d87bcd0aa2a0943686816ed3e96a09e7c2d6dbf873b161c1e3428dc490a1",
+    "images.py": "b19c750f33ba22e2f6296932a379f999aeae691610ff84af305c22a20bb8aef0",
+    "stage2.py": "18e07d60ac610055930a1a4f8c14e996c1da9ef897364c9baa648214867463b1"
+  },
+  "visual_inspection": "Seven stage-2 PNG figures inspected; notebook HTML exported for presentation review",
+  "design": "Four fixed prototypes, 24 independent perturbation trajectories per prototype, five conditions, twelve methods",
+  "limitations": "Synthetic periodic images; noise SD is 0.15 times clean image SD; intervals condition on four fixed prototypes; patch descriptors are fixed raw vectors, not learned embeddings."
+}

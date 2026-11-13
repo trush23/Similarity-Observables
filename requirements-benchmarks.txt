@@ -1,0 +1,2 @@
+-r requirements-learned.txt
+scikit-image==0.25.0

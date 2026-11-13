@@ -1,0 +1,11 @@
+{
+  "weights": "IMAGENET1K_V1",
+  "weights_url": "https://download.pytorch.org/models/resnet50-0676ba61.pth",
+  "sha256": "0676ba61b6795bbe1773cffd859882e5e297624d384b6993f7c9e683e722fb8a",
+  "torch": "2.5.1",
+  "torchvision": "0.20.1",
+  "per_class_trajectories": 16,
+  "stage3_seed": 1507,
+  "input_scale": 0.44383406979511275,
+  "fraction_clipped": 0.006323201545778835
+}

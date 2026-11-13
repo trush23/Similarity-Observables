@@ -1,0 +1,24 @@
+{
+  "dataset": "CIFAR-100 official test",
+  "archive_md5": "eb9058c3a382ffc7106e4002c42a8d85",
+  "test_sha256": "4b67687d9933c4db8f0831104447f15b93774f4f464bd0516f0f0f2ac83b7864",
+  "seed": 12427,
+  "galleries": 12,
+  "superclasses_per_gallery": 5,
+  "fine_classes_per_superclass": 4,
+  "images_per_fine_class": 2,
+  "color": "RGB",
+  "conditions": [
+    "clean",
+    "shift",
+    "gain",
+    "noise",
+    "blur",
+    "rotation",
+    "crop",
+    "occlusion",
+    "shift + noise"
+  ],
+  "search_radius": 3,
+  "min_overlap": 0.65
+}

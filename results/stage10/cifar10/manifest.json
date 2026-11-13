@@ -1,0 +1,28 @@
+{
+  "seed": 10427,
+  "test_md5": "40351d587109b95175f43aff81a1287e",
+  "test_sha256": "f53d8d457504f7cff4ea9e021afcf0e0ad8e24a91f3fc42091b8adef61157831",
+  "gallery_count": 12,
+  "gallery_size": 40,
+  "luma_coefficients": [
+    0.299,
+    0.587,
+    0.114
+  ],
+  "perturbations": [
+    "shift",
+    "gain",
+    "noise",
+    "blur",
+    "rotation",
+    "crop",
+    "occlusion",
+    "shift + noise"
+  ],
+  "floor": 0.05,
+  "window": 5,
+  "radius": 3,
+  "min_coverage": 0.65,
+  "numpy": "1.26.4",
+  "pandas": "2.2.3"
+}

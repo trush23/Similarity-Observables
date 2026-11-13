@@ -1,0 +1,76 @@
+motif,condition,method,top1,low95,high95
+bar,clean,Q pair,0.5,0.5,0.5
+bar,clean,Q triple,1.0,1.0,1.0
+bar,clean,aligned Q,1.0,1.0,1.0
+bar,clean,aligned pixels,1.0,1.0,1.0
+bar,clean,aligned sign-free patches,1.0,1.0,1.0
+bar,noise 0.35,Q pair,0.5,0.5,0.5
+bar,noise 0.35,Q triple,1.0,1.0,1.0
+bar,noise 0.35,aligned Q,1.0,1.0,1.0
+bar,noise 0.35,aligned pixels,0.4583333333333333,0.3541666666666667,0.5520833333333334
+bar,noise 0.35,aligned sign-free patches,1.0,1.0,1.0
+bar,noise 1.0,Q pair,0.5,0.5,0.5
+bar,noise 1.0,Q triple,1.0,1.0,1.0
+bar,noise 1.0,aligned Q,1.0,1.0,1.0
+bar,noise 1.0,aligned pixels,0.4583333333333333,0.3541666666666667,0.5520833333333334
+bar,noise 1.0,aligned sign-free patches,1.0,1.0,1.0
+bar,noise 2.0,Q pair,0.5,0.5,0.5
+bar,noise 2.0,Q triple,0.6770833333333334,0.5833333333333334,0.7708333333333334
+bar,noise 2.0,aligned Q,0.6979166666666666,0.6041666666666666,0.78125
+bar,noise 2.0,aligned pixels,0.5104166666666666,0.40625,0.6041666666666666
+bar,noise 2.0,aligned sign-free patches,1.0,1.0,1.0
+bar,tile sign,Q pair,0.5,0.5,0.5
+bar,tile sign,Q triple,1.0,1.0,1.0
+bar,tile sign,aligned Q,1.0,1.0,1.0
+bar,tile sign,aligned pixels,0.5,0.4479166666666667,0.5520833333333334
+bar,tile sign,aligned sign-free patches,1.0,1.0,1.0
+ridge,clean,Q pair,0.5,0.5,0.5
+ridge,clean,Q triple,1.0,1.0,1.0
+ridge,clean,aligned Q,1.0,1.0,1.0
+ridge,clean,aligned pixels,1.0,1.0,1.0
+ridge,clean,aligned sign-free patches,1.0,1.0,1.0
+ridge,noise 0.35,Q pair,0.5,0.5,0.5
+ridge,noise 0.35,Q triple,1.0,1.0,1.0
+ridge,noise 0.35,aligned Q,1.0,1.0,1.0
+ridge,noise 0.35,aligned pixels,0.4583333333333333,0.3541666666666667,0.5520833333333334
+ridge,noise 0.35,aligned sign-free patches,1.0,1.0,1.0
+ridge,noise 1.0,Q pair,0.5,0.5,0.5
+ridge,noise 1.0,Q triple,1.0,1.0,1.0
+ridge,noise 1.0,aligned Q,0.9791666666666666,0.9479166666666666,1.0
+ridge,noise 1.0,aligned pixels,0.4583333333333333,0.3541666666666667,0.5520833333333334
+ridge,noise 1.0,aligned sign-free patches,1.0,1.0,1.0
+ridge,noise 2.0,Q pair,0.5,0.5,0.5
+ridge,noise 2.0,Q triple,0.6666666666666666,0.5729166666666666,0.7604166666666666
+ridge,noise 2.0,aligned Q,0.6875,0.59375,0.78125
+ridge,noise 2.0,aligned pixels,0.5,0.3958333333333333,0.59375
+ridge,noise 2.0,aligned sign-free patches,0.9791666666666666,0.9479166666666666,1.0
+ridge,tile sign,Q pair,0.5,0.5,0.5
+ridge,tile sign,Q triple,1.0,1.0,1.0
+ridge,tile sign,aligned Q,1.0,1.0,1.0
+ridge,tile sign,aligned pixels,0.5,0.4479166666666667,0.5520833333333334
+ridge,tile sign,aligned sign-free patches,1.0,1.0,1.0
+windowed wave,clean,Q pair,0.5,0.5,0.5
+windowed wave,clean,Q triple,1.0,1.0,1.0
+windowed wave,clean,aligned Q,1.0,1.0,1.0
+windowed wave,clean,aligned pixels,1.0,1.0,1.0
+windowed wave,clean,aligned sign-free patches,1.0,1.0,1.0
+windowed wave,noise 0.35,Q pair,0.5,0.5,0.5
+windowed wave,noise 0.35,Q triple,1.0,1.0,1.0
+windowed wave,noise 0.35,aligned Q,1.0,1.0,1.0
+windowed wave,noise 0.35,aligned pixels,0.4583333333333333,0.3541666666666667,0.5520833333333334
+windowed wave,noise 0.35,aligned sign-free patches,1.0,1.0,1.0
+windowed wave,noise 1.0,Q pair,0.5,0.5,0.5
+windowed wave,noise 1.0,Q triple,1.0,1.0,1.0
+windowed wave,noise 1.0,aligned Q,1.0,1.0,1.0
+windowed wave,noise 1.0,aligned pixels,0.4583333333333333,0.3541666666666667,0.5520833333333334
+windowed wave,noise 1.0,aligned sign-free patches,1.0,1.0,1.0
+windowed wave,noise 2.0,Q pair,0.5,0.5,0.5
+windowed wave,noise 2.0,Q triple,0.8541666666666666,0.78125,0.9166666666666666
+windowed wave,noise 2.0,aligned Q,0.8333333333333334,0.7604166666666666,0.90625
+windowed wave,noise 2.0,aligned pixels,0.4583333333333333,0.3541666666666667,0.5520833333333334
+windowed wave,noise 2.0,aligned sign-free patches,1.0,1.0,1.0
+windowed wave,tile sign,Q pair,0.5,0.5,0.5
+windowed wave,tile sign,Q triple,1.0,1.0,1.0
+windowed wave,tile sign,aligned Q,1.0,1.0,1.0
+windowed wave,tile sign,aligned pixels,0.5,0.4479166666666667,0.5520833333333334
+windowed wave,tile sign,aligned sign-free patches,1.0,1.0,1.0

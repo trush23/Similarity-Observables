@@ -1,0 +1,193 @@
+panel,condition,method,identity,class
+gray,blur,EfficientNet-B0 cosine,0.1875,0.12291666666666666
+gray,blur,EfficientNet-B0 local Q,0.5708333333333333,0.1125
+gray,blur,EfficientNet-B0 local mean,0.4270833333333333,0.10416666666666667
+gray,blur,ResNet-50 cosine,0.20416666666666666,0.11875
+gray,blur,ResNet-50 local Q,0.8145833333333333,0.15625
+gray,blur,ResNet-50 local mean,0.7583333333333333,0.15625
+gray,blur,aligned ZNCC,0.9958333333333333,0.14166666666666666
+gray,blur,aligned pixels,1.0,0.13333333333333333
+gray,blur,p1 magnitude,0.45625,0.09791666666666667
+gray,blur,p1 phase,0.8270833333333333,0.125
+gray,blur,p2 magnitude,0.49166666666666664,0.10833333333333334
+gray,blur,p2 phase,0.8208333333333333,0.12708333333333333
+gray,crop,EfficientNet-B0 cosine,0.7854166666666667,0.2
+gray,crop,EfficientNet-B0 local Q,1.0,0.18125
+gray,crop,EfficientNet-B0 local mean,0.9520833333333333,0.15625
+gray,crop,ResNet-50 cosine,0.8541666666666666,0.22083333333333333
+gray,crop,ResNet-50 local Q,1.0,0.19583333333333333
+gray,crop,ResNet-50 local mean,0.975,0.17291666666666666
+gray,crop,aligned ZNCC,1.0,0.14166666666666666
+gray,crop,aligned pixels,1.0,0.16041666666666668
+gray,crop,p1 magnitude,1.0,0.12291666666666666
+gray,crop,p1 phase,1.0,0.17916666666666667
+gray,crop,p2 magnitude,1.0,0.10208333333333333
+gray,crop,p2 phase,1.0,0.18958333333333333
+gray,gain,EfficientNet-B0 cosine,0.9791666666666666,0.18333333333333332
+gray,gain,EfficientNet-B0 local Q,0.9958333333333333,0.19791666666666666
+gray,gain,EfficientNet-B0 local mean,0.98125,0.2125
+gray,gain,ResNet-50 cosine,0.9979166666666667,0.225
+gray,gain,ResNet-50 local Q,0.9979166666666667,0.24375
+gray,gain,ResNet-50 local mean,0.9875,0.22291666666666668
+gray,gain,aligned ZNCC,1.0,0.15833333333333333
+gray,gain,aligned pixels,0.2625,0.08125
+gray,gain,p1 magnitude,1.0,0.13125
+gray,gain,p1 phase,1.0,0.17916666666666667
+gray,gain,p2 magnitude,1.0,0.1375
+gray,gain,p2 phase,1.0,0.19375
+gray,noise,EfficientNet-B0 cosine,0.06458333333333334,0.09375
+gray,noise,EfficientNet-B0 local Q,0.06041666666666667,0.07708333333333334
+gray,noise,EfficientNet-B0 local mean,0.041666666666666664,0.07916666666666666
+gray,noise,ResNet-50 cosine,0.052083333333333336,0.08958333333333333
+gray,noise,ResNet-50 local Q,0.17916666666666667,0.1
+gray,noise,ResNet-50 local mean,0.16666666666666666,0.09583333333333334
+gray,noise,aligned ZNCC,1.0,0.14583333333333334
+gray,noise,aligned pixels,0.9979166666666667,0.12916666666666668
+gray,noise,p1 magnitude,0.052083333333333336,0.07291666666666667
+gray,noise,p1 phase,0.65625,0.1
+gray,noise,p2 magnitude,0.0375,0.08958333333333333
+gray,noise,p2 phase,0.6833333333333333,0.11041666666666666
+gray,occlusion,EfficientNet-B0 cosine,0.8395833333333333,0.1625
+gray,occlusion,EfficientNet-B0 local Q,1.0,0.20208333333333334
+gray,occlusion,EfficientNet-B0 local mean,1.0,0.19791666666666666
+gray,occlusion,ResNet-50 cosine,0.8166666666666667,0.19791666666666666
+gray,occlusion,ResNet-50 local Q,1.0,0.23541666666666666
+gray,occlusion,ResNet-50 local mean,1.0,0.22708333333333333
+gray,occlusion,aligned ZNCC,0.9854166666666667,0.15833333333333333
+gray,occlusion,aligned pixels,1.0,0.12291666666666666
+gray,occlusion,p1 magnitude,1.0,0.1
+gray,occlusion,p1 phase,1.0,0.18541666666666667
+gray,occlusion,p2 magnitude,0.9895833333333334,0.1125
+gray,occlusion,p2 phase,0.9979166666666667,0.18333333333333332
+gray,rotation,EfficientNet-B0 cosine,0.2833333333333333,0.16875
+gray,rotation,EfficientNet-B0 local Q,0.8854166666666666,0.16666666666666666
+gray,rotation,EfficientNet-B0 local mean,0.575,0.13958333333333334
+gray,rotation,ResNet-50 cosine,0.22083333333333333,0.14791666666666667
+gray,rotation,ResNet-50 local Q,0.8770833333333333,0.16458333333333333
+gray,rotation,ResNet-50 local mean,0.7583333333333333,0.15625
+gray,rotation,aligned ZNCC,0.9020833333333333,0.13333333333333333
+gray,rotation,aligned pixels,0.9,0.14166666666666666
+gray,rotation,p1 magnitude,0.8625,0.10833333333333334
+gray,rotation,p1 phase,0.91875,0.15833333333333333
+gray,rotation,p2 magnitude,0.8916666666666667,0.10416666666666667
+gray,rotation,p2 phase,0.925,0.14791666666666667
+gray,shift,EfficientNet-B0 cosine,0.6,0.15833333333333333
+gray,shift,EfficientNet-B0 local Q,0.9958333333333333,0.17083333333333334
+gray,shift,EfficientNet-B0 local mean,0.8583333333333333,0.15833333333333333
+gray,shift,ResNet-50 cosine,0.6166666666666667,0.1875
+gray,shift,ResNet-50 local Q,0.99375,0.17916666666666667
+gray,shift,ResNet-50 local mean,0.9375,0.16875
+gray,shift,aligned ZNCC,1.0,0.12708333333333333
+gray,shift,aligned pixels,1.0,0.15
+gray,shift,p1 magnitude,1.0,0.11458333333333333
+gray,shift,p1 phase,1.0,0.19791666666666666
+gray,shift,p2 magnitude,1.0,0.09583333333333334
+gray,shift,p2 phase,1.0,0.21041666666666667
+gray,shift + noise,EfficientNet-B0 cosine,0.03125,0.075
+gray,shift + noise,EfficientNet-B0 local Q,0.07916666666666666,0.08541666666666667
+gray,shift + noise,EfficientNet-B0 local mean,0.06666666666666667,0.08333333333333333
+gray,shift + noise,ResNet-50 cosine,0.05416666666666667,0.07916666666666666
+gray,shift + noise,ResNet-50 local Q,0.14583333333333334,0.08125
+gray,shift + noise,ResNet-50 local mean,0.13333333333333333,0.08125
+gray,shift + noise,aligned ZNCC,1.0,0.1375
+gray,shift + noise,aligned pixels,0.9958333333333333,0.14166666666666666
+gray,shift + noise,p1 magnitude,0.05,0.10625
+gray,shift + noise,p1 phase,0.6125,0.10416666666666667
+gray,shift + noise,p2 magnitude,0.03958333333333333,0.09375
+gray,shift + noise,p2 phase,0.6104166666666667,0.11041666666666666
+rgb,blur,EfficientNet-B0 cosine,0.44166666666666665,0.1375
+rgb,blur,EfficientNet-B0 local Q,0.8479166666666667,0.15208333333333332
+rgb,blur,EfficientNet-B0 local mean,0.6583333333333333,0.15625
+rgb,blur,ResNet-50 cosine,0.5166666666666667,0.17708333333333334
+rgb,blur,ResNet-50 local Q,0.98125,0.18125
+rgb,blur,ResNet-50 local mean,0.9583333333333334,0.17708333333333334
+rgb,blur,aligned ZNCC,1.0,0.15416666666666667
+rgb,blur,aligned pixels,1.0,0.14375
+rgb,blur,p1 magnitude,0.47708333333333336,0.10833333333333334
+rgb,blur,p1 phase,0.8375,0.11875
+rgb,blur,p2 magnitude,0.49375,0.11666666666666667
+rgb,blur,p2 phase,0.8333333333333334,0.11875
+rgb,crop,EfficientNet-B0 cosine,0.86875,0.23125
+rgb,crop,EfficientNet-B0 local Q,1.0,0.18333333333333332
+rgb,crop,EfficientNet-B0 local mean,0.99375,0.18333333333333332
+rgb,crop,ResNet-50 cosine,0.9583333333333334,0.23125
+rgb,crop,ResNet-50 local Q,1.0,0.19791666666666666
+rgb,crop,ResNet-50 local mean,1.0,0.19583333333333333
+rgb,crop,aligned ZNCC,1.0,0.15625
+rgb,crop,aligned pixels,1.0,0.14375
+rgb,crop,p1 magnitude,1.0,0.11666666666666667
+rgb,crop,p1 phase,1.0,0.17291666666666666
+rgb,crop,p2 magnitude,1.0,0.11041666666666666
+rgb,crop,p2 phase,1.0,0.1875
+rgb,gain,EfficientNet-B0 cosine,0.9916666666666667,0.28125
+rgb,gain,EfficientNet-B0 local Q,0.9979166666666667,0.23958333333333334
+rgb,gain,EfficientNet-B0 local mean,1.0,0.20416666666666666
+rgb,gain,ResNet-50 cosine,0.9979166666666667,0.3020833333333333
+rgb,gain,ResNet-50 local Q,1.0,0.22708333333333333
+rgb,gain,ResNet-50 local mean,1.0,0.21041666666666667
+rgb,gain,aligned ZNCC,1.0,0.15208333333333332
+rgb,gain,aligned pixels,0.4,0.10833333333333334
+rgb,gain,p1 magnitude,1.0,0.13333333333333333
+rgb,gain,p1 phase,1.0,0.18125
+rgb,gain,p2 magnitude,1.0,0.12083333333333333
+rgb,gain,p2 phase,1.0,0.17291666666666666
+rgb,noise,EfficientNet-B0 cosine,0.22083333333333333,0.12083333333333333
+rgb,noise,EfficientNet-B0 local Q,0.33958333333333335,0.08541666666666667
+rgb,noise,EfficientNet-B0 local mean,0.10416666666666667,0.0875
+rgb,noise,ResNet-50 cosine,0.32083333333333336,0.11875
+rgb,noise,ResNet-50 local Q,0.5541666666666667,0.09583333333333334
+rgb,noise,ResNet-50 local mean,0.5104166666666666,0.09375
+rgb,noise,aligned ZNCC,1.0,0.14375
+rgb,noise,aligned pixels,0.9979166666666667,0.12708333333333333
+rgb,noise,p1 magnitude,0.06458333333333334,0.075
+rgb,noise,p1 phase,0.66875,0.10416666666666667
+rgb,noise,p2 magnitude,0.05,0.0875
+rgb,noise,p2 phase,0.6958333333333333,0.1125
+rgb,occlusion,EfficientNet-B0 cosine,0.9166666666666666,0.20416666666666666
+rgb,occlusion,EfficientNet-B0 local Q,1.0,0.2375
+rgb,occlusion,EfficientNet-B0 local mean,1.0,0.2
+rgb,occlusion,ResNet-50 cosine,0.8979166666666667,0.24166666666666667
+rgb,occlusion,ResNet-50 local Q,1.0,0.19375
+rgb,occlusion,ResNet-50 local mean,1.0,0.19791666666666666
+rgb,occlusion,aligned ZNCC,0.9979166666666667,0.13958333333333334
+rgb,occlusion,aligned pixels,1.0,0.15416666666666667
+rgb,occlusion,p1 magnitude,1.0,0.11666666666666667
+rgb,occlusion,p1 phase,1.0,0.18333333333333332
+rgb,occlusion,p2 magnitude,0.99375,0.11875
+rgb,occlusion,p2 phase,0.9979166666666667,0.18958333333333333
+rgb,rotation,EfficientNet-B0 cosine,0.41875,0.15416666666666667
+rgb,rotation,EfficientNet-B0 local Q,0.99375,0.2
+rgb,rotation,EfficientNet-B0 local mean,0.8041666666666667,0.1625
+rgb,rotation,ResNet-50 cosine,0.48125,0.19166666666666668
+rgb,rotation,ResNet-50 local Q,0.9916666666666667,0.15
+rgb,rotation,ResNet-50 local mean,0.9833333333333333,0.15
+rgb,rotation,aligned ZNCC,0.96875,0.13958333333333334
+rgb,rotation,aligned pixels,0.9541666666666667,0.15833333333333333
+rgb,rotation,p1 magnitude,0.8520833333333333,0.10625
+rgb,rotation,p1 phase,0.93125,0.15
+rgb,rotation,p2 magnitude,0.88125,0.12083333333333333
+rgb,rotation,p2 phase,0.9229166666666667,0.15625
+rgb,shift,EfficientNet-B0 cosine,0.7833333333333333,0.22916666666666666
+rgb,shift,EfficientNet-B0 local Q,1.0,0.17708333333333334
+rgb,shift,EfficientNet-B0 local mean,0.9666666666666667,0.175
+rgb,shift,ResNet-50 cosine,0.8458333333333333,0.26875
+rgb,shift,ResNet-50 local Q,1.0,0.18125
+rgb,shift,ResNet-50 local mean,1.0,0.16666666666666666
+rgb,shift,aligned ZNCC,1.0,0.13125
+rgb,shift,aligned pixels,1.0,0.15625
+rgb,shift,p1 magnitude,1.0,0.11041666666666666
+rgb,shift,p1 phase,1.0,0.18958333333333333
+rgb,shift,p2 magnitude,1.0,0.10416666666666667
+rgb,shift,p2 phase,1.0,0.20833333333333334
+rgb,shift + noise,EfficientNet-B0 cosine,0.09583333333333334,0.075
+rgb,shift + noise,EfficientNet-B0 local Q,0.3416666666666667,0.11458333333333333
+rgb,shift + noise,EfficientNet-B0 local mean,0.1625,0.10416666666666667
+rgb,shift + noise,ResNet-50 cosine,0.2,0.12291666666666666
+rgb,shift + noise,ResNet-50 local Q,0.54375,0.11875
+rgb,shift + noise,ResNet-50 local mean,0.5,0.10833333333333334
+rgb,shift + noise,aligned ZNCC,1.0,0.13958333333333334
+rgb,shift + noise,aligned pixels,0.9979166666666667,0.15416666666666667
+rgb,shift + noise,p1 magnitude,0.03958333333333333,0.09166666666666666
+rgb,shift + noise,p1 phase,0.63125,0.11666666666666667
+rgb,shift + noise,p2 magnitude,0.05,0.09166666666666666
+rgb,shift + noise,p2 phase,0.6395833333333333,0.10625

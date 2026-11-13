@@ -1,0 +1,109 @@
+panel,gallery_type,method,identity,class
+pilot,full,DCT power,0.64921875,0.16796875
+pilot,full,EfficientNet-B0 cosine,0.76015625,0.272265625
+pilot,full,EfficientNet-B0 local Q,0.759765625,0.225390625
+pilot,full,EfficientNet-B0 local mean,0.681640625,0.1875
+pilot,full,HOG,0.784375,0.290234375
+pilot,full,HOG after ZNCC,0.919140625,0.36640625
+pilot,full,ResNet-50 cosine,0.701953125,0.2625
+pilot,full,ResNet-50 local Q,0.859765625,0.32890625
+pilot,full,ResNet-50 local mean,0.8265625,0.287109375
+pilot,full,ZNCC,0.7453125,0.31171875
+pilot,full,aligned Q magnitude,0.96328125,0.343359375
+pilot,full,aligned ZNCC,0.95234375,0.398828125
+pilot,full,aligned gradient strength,0.71015625,0.21640625
+pilot,full,aligned local Q,0.97734375,0.452734375
+pilot,full,aligned pixels,0.959375,0.375
+pilot,full,aligned structure tensor,0.975390625,0.4375
+pilot,full,angular m4,0.468359375,0.1015625
+pilot,full,global Q,0.562109375,0.153515625
+pilot,full,local Q,0.901171875,0.466015625
+pilot,full,open Q pairs,0.1453125,0.119921875
+pilot,full,open Q triplets,0.309765625,0.108984375
+pilot,full,pixels,0.758984375,0.303125
+pilot,full,polar m1,0.08976080601511438,0.07715675524595803
+pilot,full,standard HOG,0.85390625,0.35234375
+pilot,full,structure tensor,0.894921875,0.455078125
+pilot,full,uniform minus triplets,0.93984375,0.330078125
+pilot,full,uniform profile,0.9234375,0.303125
+replication,full,DCT power,0.5736979166666667,0.26927083333333335
+replication,full,EfficientNet-B0 cosine,0.7044270833333334,0.4080729166666667
+replication,full,EfficientNet-B0 local Q,0.7033854166666667,0.36276041666666664
+replication,full,EfficientNet-B0 local mean,0.6283854166666667,0.30911458333333336
+replication,full,HOG,0.71484375,0.47942708333333334
+replication,full,HOG after ZNCC,0.8703125,0.50234375
+replication,full,ResNet-50 cosine,0.6145833333333334,0.3888020833333333
+replication,full,ResNet-50 local Q,0.8140625,0.51484375
+replication,full,ResNet-50 local mean,0.7838541666666666,0.46119791666666665
+replication,full,ZNCC,0.7067708333333333,0.4625
+replication,full,aligned Q magnitude,0.9247395833333333,0.5393229166666667
+replication,full,aligned ZNCC,0.928125,0.55703125
+replication,full,aligned gradient strength,0.6744791666666666,0.3768229166666667
+replication,full,aligned local Q,0.9526041666666667,0.6479166666666667
+replication,full,aligned pixels,0.9390625,0.52265625
+replication,full,aligned structure tensor,0.9515625,0.625
+replication,full,angular m4,0.41640625,0.16145833333333334
+replication,full,global Q,0.45651041666666664,0.20911458333333333
+replication,full,local Q,0.8442708333333333,0.6317708333333333
+replication,full,open Q pairs,0.09427083333333333,0.18619791666666666
+replication,full,open Q triplets,0.20416666666666666,0.17786458333333333
+replication,full,pixels,0.7200520833333334,0.45651041666666664
+replication,full,polar m1,0.058129913883817115,0.09335927766667805
+replication,full,standard HOG,0.7916666666666666,0.5
+replication,full,structure tensor,0.8359375,0.6200520833333333
+replication,full,uniform minus triplets,0.88203125,0.4984375
+replication,full,uniform profile,0.86015625,0.45703125
+replication,hard 19,DCT power,,0.3020833333333333
+replication,hard 19,EfficientNet-B0 cosine,,0.48489583333333336
+replication,hard 19,EfficientNet-B0 local Q,,0.45338541666666665
+replication,hard 19,EfficientNet-B0 local mean,,0.40520833333333334
+replication,hard 19,HOG,,0.5510416666666667
+replication,hard 19,HOG after ZNCC,,0.5596354166666667
+replication,hard 19,ResNet-50 cosine,,0.46328125
+replication,hard 19,ResNet-50 local Q,,0.54453125
+replication,hard 19,ResNet-50 local mean,,0.49114583333333334
+replication,hard 19,ZNCC,,0.4953125
+replication,hard 19,aligned Q magnitude,,0.5651041666666666
+replication,hard 19,aligned ZNCC,,0.5869791666666667
+replication,hard 19,aligned gradient strength,,0.4356770833333333
+replication,hard 19,aligned local Q,,0.6838541666666667
+replication,hard 19,aligned pixels,,0.5450520833333333
+replication,hard 19,aligned structure tensor,,0.6627604166666666
+replication,hard 19,angular m4,,0.290625
+replication,hard 19,global Q,,0.31666666666666665
+replication,hard 19,local Q,,0.66640625
+replication,hard 19,open Q pairs,,0.2565104166666667
+replication,hard 19,open Q triplets,,0.2791666666666667
+replication,hard 19,pixels,,0.48802083333333335
+replication,hard 19,polar m1,,0.15377564644489713
+replication,hard 19,standard HOG,,0.54765625
+replication,hard 19,structure tensor,,0.6575520833333334
+replication,hard 19,uniform minus triplets,,0.5440104166666667
+replication,hard 19,uniform profile,,0.5080729166666667
+replication,random 19,DCT power,,0.37942708333333336
+replication,random 19,EfficientNet-B0 cosine,,0.5260416666666666
+replication,random 19,EfficientNet-B0 local Q,,0.4828125
+replication,random 19,EfficientNet-B0 local mean,,0.43333333333333335
+replication,random 19,HOG,,0.59140625
+replication,random 19,HOG after ZNCC,,0.6252604166666667
+replication,random 19,ResNet-50 cosine,,0.5059895833333333
+replication,random 19,ResNet-50 local Q,,0.6299479166666667
+replication,random 19,ResNet-50 local mean,,0.5794270833333334
+replication,random 19,ZNCC,,0.5596354166666667
+replication,random 19,aligned Q magnitude,,0.640625
+replication,random 19,aligned ZNCC,,0.6619791666666667
+replication,random 19,aligned gradient strength,,0.47760416666666666
+replication,random 19,aligned local Q,,0.7544270833333333
+replication,random 19,aligned pixels,,0.6346354166666667
+replication,random 19,aligned structure tensor,,0.73203125
+replication,random 19,angular m4,,0.29739583333333336
+replication,random 19,global Q,,0.33697916666666666
+replication,random 19,local Q,,0.7213541666666666
+replication,random 19,open Q pairs,,0.27265625
+replication,random 19,open Q triplets,,0.2825520833333333
+replication,random 19,pixels,,0.5575520833333333
+replication,random 19,polar m1,,0.16314803036177358
+replication,random 19,standard HOG,,0.6122395833333333
+replication,random 19,structure tensor,,0.7135416666666666
+replication,random 19,uniform minus triplets,,0.6203125
+replication,random 19,uniform profile,,0.5908854166666667

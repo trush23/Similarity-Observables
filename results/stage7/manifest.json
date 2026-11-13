@@ -1,0 +1,37 @@
+{
+  "stage6_sha256": {
+    "pair_distances.csv.gz": "f690dee0af5e3a1d970c1b58c2746dcc203ea95d1c70266b73ca17215d201982",
+    "gallery_membership.csv": "2d8c1e6527c287731e146c68f05b85bc572abd458e46b652ee2ce75e7aeac22e",
+    "manifest.json": "2ec048f319da8dc87ad65a08197de7af2b0cf255607d5028c0d5f357dd3ed67a"
+  },
+  "bootstrap_draws": 4000,
+  "bootstrap_seed": 7031,
+  "galleries": 16,
+  "sources": 320,
+  "methods": [
+    "pixels",
+    "polar m1",
+    "global Q",
+    "angular m4",
+    "HOG",
+    "local Q",
+    "open Q pairs",
+    "open Q triplets",
+    "DCT power",
+    "aligned pixels",
+    "aligned local Q",
+    "aligned Q magnitude",
+    "aligned gradient strength"
+  ],
+  "conditions": [
+    "clean",
+    "shift",
+    "gain",
+    "noise",
+    "blur",
+    "rotation",
+    "crop",
+    "occlusion",
+    "shift + noise"
+  ]
+}

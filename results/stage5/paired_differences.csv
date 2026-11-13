@@ -1,0 +1,4 @@
+method,baseline,difference,low95,high95
+uniform profile,aligned sign-free pixels,-0.20659722222222224,-0.2361545138888889,-0.17708333333333334
+trained profile,aligned sign-free pixels,-0.039930555555555546,-0.05381944444444444,-0.02604166666666666
+scaled trained profile,aligned sign-free pixels,-0.039930555555555546,-0.05381944444444444,-0.02604166666666666

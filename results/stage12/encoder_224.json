@@ -1,0 +1,13 @@
+{
+  "size": 224,
+  "resize": [
+    256
+  ],
+  "device": "cpu",
+  "checkpoint_sha256": "0676ba61b6795bbe1773cffd859882e5e297624d384b6993f7c9e683e722fb8a",
+  "torch": "2.5.1",
+  "torchvision": "0.20.1",
+  "test_sha256": "4b67687d9933c4db8f0831104447f15b93774f4f464bd0516f0f0f2ac83b7864",
+  "seed": 12427,
+  "threads": 4
+}

@@ -1,0 +1,13 @@
+{
+  "dataset": "Fashion-MNIST official test",
+  "seed": 9327,
+  "checksums_md5": {
+    "t10k-images-idx3-ubyte.gz": "bef4ecab320f06d8554ea6380940ec79",
+    "t10k-labels-idx1-ubyte.gz": "bb300cfdad3c16e7a12a480ee83cd310"
+  },
+  "exclusions_sha256": "2d43f355964a8648611f721b142294b256d4112c0168f14a7bd601709d88ecc5",
+  "excluded": 3080,
+  "galleries": 12,
+  "sources": 480,
+  "methods": 27
+}

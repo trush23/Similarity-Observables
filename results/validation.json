@@ -1,0 +1,36 @@
+{
+  "python": "3.12.2 | packaged by conda-forge | (main, Feb 16 2024, 20:54:21) [Clang 16.0.6 ]",
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "dependencies": {
+    "numpy": "1.26.4",
+    "scipy": "1.13.1",
+    "pandas": "2.2.3",
+    "matplotlib": "3.10.0",
+    "nbformat": "5.10.4",
+    "nbclient": "0.10.2",
+    "ipykernel": "6.29.5",
+    "pytest": "8.3.4"
+  },
+  "notebooks": [
+    "00_Research_contract.ipynb",
+    "01_From_cosine_to_angular_order.ipynb",
+    "02_Moment_collisions.ipynb",
+    "03_Position_and_sequence.ipynb",
+    "04_Homometry_and_higher_correlations.ipynb",
+    "05_Similarity_profiles.ipynb",
+    "06_Uncertainty_and_null_models.ipynb",
+    "07_Controlled_retrieval_and_research_program.ipynb"
+  ],
+  "executed_code_cells": 28,
+  "figures": 12,
+  "tests_passed": 19,
+  "source_sha256": {
+    "observables/__init__.py": "a16730b687a30a2a63844a71ee888d5b6d8a1d8b081043fedf3575ff3d4f4202",
+    "observables/benchmark.py": "790ff8cff2c05d8fa58017de17c8ee458df069546a99dba1d43fd7daa7420129",
+    "observables/core.py": "34e08b284986c65033c27cd8c4a729d75ce2c5a835b2cca883f589dcb7f69d08",
+    "observables/images.py": "b19c750f33ba22e2f6296932a379f999aeae691610ff84af305c22a20bb8aef0",
+    "observables/patterns.py": "b92df25b567868d1d6745f3542e24df41efb682bab7ea12d71068817f24db1ca"
+  },
+  "checks": "Analytical identity tests, notebook assertions, rendered-figure inspection",
+  "limitations": "Synthetic configurations with periodic boundaries; learned representations and semantic tasks are future work."
+}

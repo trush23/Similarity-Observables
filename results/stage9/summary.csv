@@ -1,0 +1,82 @@
+panel,gallery_type,method,identity,class
+fashion,full,DCT power,0.35911458333333335,0.2716145833333333
+fashion,full,EfficientNet-B0 cosine,0.6721354166666667,0.39166666666666666
+fashion,full,EfficientNet-B0 local Q,0.6966145833333334,0.37005208333333334
+fashion,full,EfficientNet-B0 local mean,0.61484375,0.3328125
+fashion,full,HOG,0.6083333333333333,0.3692708333333333
+fashion,full,HOG after ZNCC,0.6822916666666666,0.40234375
+fashion,full,ResNet-50 cosine,0.5932291666666667,0.3578125
+fashion,full,ResNet-50 local Q,0.7526041666666666,0.43984375
+fashion,full,ResNet-50 local mean,0.7296875,0.42291666666666666
+fashion,full,ZNCC,0.696875,0.44088541666666664
+fashion,full,aligned Q magnitude,0.7192708333333333,0.409375
+fashion,full,aligned ZNCC,0.8994791666666667,0.5067708333333333
+fashion,full,aligned gradient strength,0.6359375,0.3497395833333333
+fashion,full,aligned local Q,0.90859375,0.5341145833333333
+fashion,full,aligned pixels,0.8893229166666666,0.4453125
+fashion,full,aligned structure tensor,0.9143229166666667,0.53359375
+fashion,full,angular m4,0.27760416666666665,0.1359375
+fashion,full,global Q,0.3028645833333333,0.24296875
+fashion,full,local Q,0.7822916666666667,0.49635416666666665
+fashion,full,open Q pairs,0.17161458333333332,0.16171875
+fashion,full,open Q triplets,0.19817708333333334,0.21041666666666667
+fashion,full,pixels,0.7252604166666666,0.4083333333333333
+fashion,full,polar m1,0.2721354166666667,0.13441506410256412
+fashion,full,standard HOG,0.6419270833333334,0.37890625
+fashion,full,structure tensor,0.78046875,0.4908854166666667
+fashion,full,uniform minus triplets,0.7778645833333333,0.40208333333333335
+fashion,full,uniform profile,0.7515625,0.40286458333333336
+fashion,hard 19,DCT power,,0.29244791666666664
+fashion,hard 19,EfficientNet-B0 cosine,,0.42552083333333335
+fashion,hard 19,EfficientNet-B0 local Q,,0.3888020833333333
+fashion,hard 19,EfficientNet-B0 local mean,,0.3575520833333333
+fashion,hard 19,HOG,,0.4015625
+fashion,hard 19,HOG after ZNCC,,0.4278645833333333
+fashion,hard 19,ResNet-50 cosine,,0.39375
+fashion,hard 19,ResNet-50 local Q,,0.44921875
+fashion,hard 19,ResNet-50 local mean,,0.43333333333333335
+fashion,hard 19,ZNCC,,0.47213541666666664
+fashion,hard 19,aligned Q magnitude,,0.4322916666666667
+fashion,hard 19,aligned ZNCC,,0.53203125
+fashion,hard 19,aligned gradient strength,,0.3692708333333333
+fashion,hard 19,aligned local Q,,0.5466145833333333
+fashion,hard 19,aligned pixels,,0.4473958333333333
+fashion,hard 19,aligned structure tensor,,0.5481770833333334
+fashion,hard 19,angular m4,,0.20989583333333334
+fashion,hard 19,global Q,,0.3138020833333333
+fashion,hard 19,local Q,,0.5166666666666667
+fashion,hard 19,open Q pairs,,0.23177083333333334
+fashion,hard 19,open Q triplets,,0.265625
+fashion,hard 19,pixels,,0.40963541666666664
+fashion,hard 19,polar m1,,0.2034676535087719
+fashion,hard 19,standard HOG,,0.40598958333333335
+fashion,hard 19,structure tensor,,0.5122395833333333
+fashion,hard 19,uniform minus triplets,,0.41510416666666666
+fashion,hard 19,uniform profile,,0.41875
+fashion,random 19,DCT power,,0.39869791666666665
+fashion,random 19,EfficientNet-B0 cosine,,0.5104166666666666
+fashion,random 19,EfficientNet-B0 local Q,,0.4783854166666667
+fashion,random 19,EfficientNet-B0 local mean,,0.4440104166666667
+fashion,random 19,HOG,,0.48932291666666666
+fashion,random 19,HOG after ZNCC,,0.5244791666666667
+fashion,random 19,ResNet-50 cosine,,0.4778645833333333
+fashion,random 19,ResNet-50 local Q,,0.55546875
+fashion,random 19,ResNet-50 local mean,,0.5403645833333334
+fashion,random 19,ZNCC,,0.5453125
+fashion,random 19,aligned Q magnitude,,0.5322916666666667
+fashion,random 19,aligned ZNCC,,0.60390625
+fashion,random 19,aligned gradient strength,,0.459375
+fashion,random 19,aligned local Q,,0.6440104166666667
+fashion,random 19,aligned pixels,,0.540625
+fashion,random 19,aligned structure tensor,,0.6395833333333333
+fashion,random 19,angular m4,,0.23046875
+fashion,random 19,global Q,,0.37109375
+fashion,random 19,local Q,,0.6088541666666667
+fashion,random 19,open Q pairs,,0.25234375
+fashion,random 19,open Q triplets,,0.3328125
+fashion,random 19,pixels,,0.5135416666666667
+fashion,random 19,polar m1,,0.24070723684210524
+fashion,random 19,standard HOG,,0.5033854166666667
+fashion,random 19,structure tensor,,0.5984375
+fashion,random 19,uniform minus triplets,,0.5372395833333333
+fashion,random 19,uniform profile,,0.53203125

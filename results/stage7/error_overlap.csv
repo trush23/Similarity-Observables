@@ -1,0 +1,339 @@
+endpoint,left,right,left_misses,right_misses,shared_misses,miss_union,jaccard,left_partial_ties,right_partial_ties
+identity,pixels,pixels,617,617,617,617,1.0,0,0
+identity,pixels,polar m1,617,1239,355,1501,0.23650899400399733,0,1155
+identity,pixels,global Q,617,1121,274,1464,0.1871584699453552,0,0
+identity,pixels,angular m4,617,1361,319,1659,0.19228450874020495,0,0
+identity,pixels,HOG,617,552,290,879,0.32992036405005687,0,0
+identity,pixels,local Q,617,253,230,640,0.359375,0,0
+identity,pixels,open Q pairs,617,2188,568,2237,0.25391148860080465,0,0
+identity,pixels,open Q triplets,617,1767,413,1971,0.20953830542871638,0,0
+identity,pixels,DCT power,617,898,386,1129,0.34189548272807796,0,0
+identity,pixels,aligned pixels,617,104,59,662,0.0891238670694864,0,0
+identity,pixels,aligned local Q,617,58,30,645,0.046511627906976744,0,0
+identity,pixels,aligned Q magnitude,617,94,41,670,0.06119402985074627,0,0
+identity,pixels,aligned gradient strength,617,742,311,1048,0.2967557251908397,0,0
+identity,polar m1,pixels,1239,617,355,1501,0.23650899400399733,1155,0
+identity,polar m1,polar m1,1239,1239,1239,1239,1.0,1155,1155
+identity,polar m1,global Q,1239,1121,656,1704,0.38497652582159625,1155,0
+identity,polar m1,angular m4,1239,1361,791,1809,0.43725815367606413,1155,0
+identity,polar m1,HOG,1239,552,377,1414,0.2666195190947666,1155,0
+identity,polar m1,local Q,1239,253,147,1345,0.10929368029739776,1155,0
+identity,polar m1,open Q pairs,1239,2188,1030,2397,0.42970379641218187,1155,0
+identity,polar m1,open Q triplets,1239,1767,895,2111,0.42396968261487444,1155,0
+identity,polar m1,DCT power,1239,898,348,1789,0.19452207937395194,1155,0
+identity,polar m1,aligned pixels,1239,104,42,1301,0.03228285933897002,1155,0
+identity,polar m1,aligned local Q,1239,58,20,1277,0.015661707126076743,1155,0
+identity,polar m1,aligned Q magnitude,1239,94,43,1290,0.03333333333333333,1155,0
+identity,polar m1,aligned gradient strength,1239,742,556,1425,0.39017543859649123,1155,0
+identity,global Q,pixels,1121,617,274,1464,0.1871584699453552,0,0
+identity,global Q,polar m1,1121,1239,656,1704,0.38497652582159625,0,1155
+identity,global Q,global Q,1121,1121,1121,1121,1.0,0,0
+identity,global Q,angular m4,1121,1361,941,1541,0.6106424399740429,0,0
+identity,global Q,HOG,1121,552,410,1263,0.3246239113222486,0,0
+identity,global Q,local Q,1121,253,125,1249,0.100080064051241,0,0
+identity,global Q,open Q pairs,1121,2188,982,2327,0.42200257842715944,0,0
+identity,global Q,open Q triplets,1121,1767,950,1938,0.49019607843137253,0,0
+identity,global Q,DCT power,1121,898,346,1673,0.20681410639569636,0,0
+identity,global Q,aligned pixels,1121,104,89,1136,0.07834507042253522,0,0
+identity,global Q,aligned local Q,1121,58,54,1125,0.048,0,0
+identity,global Q,aligned Q magnitude,1121,94,76,1139,0.06672519754170325,0,0
+identity,global Q,aligned gradient strength,1121,742,587,1276,0.46003134796238243,0,0
+identity,angular m4,pixels,1361,617,319,1659,0.19228450874020495,0,0
+identity,angular m4,polar m1,1361,1239,791,1809,0.43725815367606413,0,1155
+identity,angular m4,global Q,1361,1121,941,1541,0.6106424399740429,0,0
+identity,angular m4,angular m4,1361,1361,1361,1361,1.0,0,0
+identity,angular m4,HOG,1361,552,461,1452,0.3174931129476584,0,0
+identity,angular m4,local Q,1361,253,139,1475,0.09423728813559322,0,0
+identity,angular m4,open Q pairs,1361,2188,1179,2370,0.49746835443037973,0,0
+identity,angular m4,open Q triplets,1361,1767,1076,2052,0.5243664717348928,0,0
+identity,angular m4,DCT power,1361,898,415,1844,0.22505422993492408,0,0
+identity,angular m4,aligned pixels,1361,104,99,1366,0.07247437774524158,0,0
+identity,angular m4,aligned local Q,1361,58,58,1361,0.0426157237325496,0,0
+identity,angular m4,aligned Q magnitude,1361,94,88,1367,0.06437454279444038,0,0
+identity,angular m4,aligned gradient strength,1361,742,680,1423,0.47786366830639493,0,0
+identity,HOG,pixels,552,617,290,879,0.32992036405005687,0,0
+identity,HOG,polar m1,552,1239,377,1414,0.2666195190947666,0,1155
+identity,HOG,global Q,552,1121,410,1263,0.3246239113222486,0,0
+identity,HOG,angular m4,552,1361,461,1452,0.3174931129476584,0,0
+identity,HOG,HOG,552,552,552,552,1.0,0,0
+identity,HOG,local Q,552,253,157,648,0.24228395061728394,0,0
+identity,HOG,open Q pairs,552,2188,510,2230,0.22869955156950672,0,0
+identity,HOG,open Q triplets,552,1767,463,1856,0.2494612068965517,0,0
+identity,HOG,DCT power,552,898,260,1190,0.2184873949579832,0,0
+identity,HOG,aligned pixels,552,104,67,589,0.11375212224108659,0,0
+identity,HOG,aligned local Q,552,58,44,566,0.07773851590106007,0,0
+identity,HOG,aligned Q magnitude,552,94,63,583,0.10806174957118353,0,0
+identity,HOG,aligned gradient strength,552,742,428,866,0.4942263279445728,0,0
+identity,local Q,pixels,253,617,230,640,0.359375,0,0
+identity,local Q,polar m1,253,1239,147,1345,0.10929368029739776,0,1155
+identity,local Q,global Q,253,1121,125,1249,0.100080064051241,0,0
+identity,local Q,angular m4,253,1361,139,1475,0.09423728813559322,0,0
+identity,local Q,HOG,253,552,157,648,0.24228395061728394,0,0
+identity,local Q,local Q,253,253,253,253,1.0,0,0
+identity,local Q,open Q pairs,253,2188,236,2205,0.10702947845804989,0,0
+identity,local Q,open Q triplets,253,1767,177,1843,0.09603906673901248,0,0
+identity,local Q,DCT power,253,898,176,975,0.18051282051282053,0,0
+identity,local Q,aligned pixels,253,104,23,334,0.0688622754491018,0,0
+identity,local Q,aligned local Q,253,58,28,283,0.0989399293286219,0,0
+identity,local Q,aligned Q magnitude,253,94,28,319,0.0877742946708464,0,0
+identity,local Q,aligned gradient strength,253,742,136,859,0.15832363213038417,0,0
+identity,open Q pairs,pixels,2188,617,568,2237,0.25391148860080465,0,0
+identity,open Q pairs,polar m1,2188,1239,1030,2397,0.42970379641218187,0,1155
+identity,open Q pairs,global Q,2188,1121,982,2327,0.42200257842715944,0,0
+identity,open Q pairs,angular m4,2188,1361,1179,2370,0.49746835443037973,0,0
+identity,open Q pairs,HOG,2188,552,510,2230,0.22869955156950672,0,0
+identity,open Q pairs,local Q,2188,253,236,2205,0.10702947845804989,0,0
+identity,open Q pairs,open Q pairs,2188,2188,2188,2188,1.0,0,0
+identity,open Q pairs,open Q triplets,2188,1767,1537,2418,0.6356492969396195,0,0
+identity,open Q pairs,DCT power,2188,898,836,2250,0.37155555555555553,0,0
+identity,open Q pairs,aligned pixels,2188,104,98,2194,0.044667274384685506,0,0
+identity,open Q pairs,aligned local Q,2188,58,54,2192,0.024635036496350366,0,0
+identity,open Q pairs,aligned Q magnitude,2188,94,87,2195,0.03963553530751709,0,0
+identity,open Q pairs,aligned gradient strength,2188,742,697,2233,0.3121361397223466,0,0
+identity,open Q triplets,pixels,1767,617,413,1971,0.20953830542871638,0,0
+identity,open Q triplets,polar m1,1767,1239,895,2111,0.42396968261487444,0,1155
+identity,open Q triplets,global Q,1767,1121,950,1938,0.49019607843137253,0,0
+identity,open Q triplets,angular m4,1767,1361,1076,2052,0.5243664717348928,0,0
+identity,open Q triplets,HOG,1767,552,463,1856,0.2494612068965517,0,0
+identity,open Q triplets,local Q,1767,253,177,1843,0.09603906673901248,0,0
+identity,open Q triplets,open Q pairs,1767,2188,1537,2418,0.6356492969396195,0,0
+identity,open Q triplets,open Q triplets,1767,1767,1767,1767,1.0,0,0
+identity,open Q triplets,DCT power,1767,898,644,2021,0.31865413161801087,0,0
+identity,open Q triplets,aligned pixels,1767,104,96,1775,0.054084507042253524,0,0
+identity,open Q triplets,aligned local Q,1767,58,57,1768,0.03223981900452489,0,0
+identity,open Q triplets,aligned Q magnitude,1767,94,88,1773,0.049633389734912575,0,0
+identity,open Q triplets,aligned gradient strength,1767,742,658,1851,0.35548352242031334,0,0
+identity,DCT power,pixels,898,617,386,1129,0.34189548272807796,0,0
+identity,DCT power,polar m1,898,1239,348,1789,0.19452207937395194,0,1155
+identity,DCT power,global Q,898,1121,346,1673,0.20681410639569636,0,0
+identity,DCT power,angular m4,898,1361,415,1844,0.22505422993492408,0,0
+identity,DCT power,HOG,898,552,260,1190,0.2184873949579832,0,0
+identity,DCT power,local Q,898,253,176,975,0.18051282051282053,0,0
+identity,DCT power,open Q pairs,898,2188,836,2250,0.37155555555555553,0,0
+identity,DCT power,open Q triplets,898,1767,644,2021,0.31865413161801087,0,0
+identity,DCT power,DCT power,898,898,898,898,1.0,0,0
+identity,DCT power,aligned pixels,898,104,42,960,0.04375,0,0
+identity,DCT power,aligned local Q,898,58,29,927,0.03128371089536138,0,0
+identity,DCT power,aligned Q magnitude,898,94,36,956,0.03765690376569038,0,0
+identity,DCT power,aligned gradient strength,898,742,308,1332,0.23123123123123124,0,0
+identity,aligned pixels,pixels,104,617,59,662,0.0891238670694864,0,0
+identity,aligned pixels,polar m1,104,1239,42,1301,0.03228285933897002,0,1155
+identity,aligned pixels,global Q,104,1121,89,1136,0.07834507042253522,0,0
+identity,aligned pixels,angular m4,104,1361,99,1366,0.07247437774524158,0,0
+identity,aligned pixels,HOG,104,552,67,589,0.11375212224108659,0,0
+identity,aligned pixels,local Q,104,253,23,334,0.0688622754491018,0,0
+identity,aligned pixels,open Q pairs,104,2188,98,2194,0.044667274384685506,0,0
+identity,aligned pixels,open Q triplets,104,1767,96,1775,0.054084507042253524,0,0
+identity,aligned pixels,DCT power,104,898,42,960,0.04375,0,0
+identity,aligned pixels,aligned pixels,104,104,104,104,1.0,0,0
+identity,aligned pixels,aligned local Q,104,58,44,118,0.3728813559322034,0,0
+identity,aligned pixels,aligned Q magnitude,104,94,49,149,0.3288590604026846,0,0
+identity,aligned pixels,aligned gradient strength,104,742,77,769,0.10013003901170352,0,0
+identity,aligned local Q,pixels,58,617,30,645,0.046511627906976744,0,0
+identity,aligned local Q,polar m1,58,1239,20,1277,0.015661707126076743,0,1155
+identity,aligned local Q,global Q,58,1121,54,1125,0.048,0,0
+identity,aligned local Q,angular m4,58,1361,58,1361,0.0426157237325496,0,0
+identity,aligned local Q,HOG,58,552,44,566,0.07773851590106007,0,0
+identity,aligned local Q,local Q,58,253,28,283,0.0989399293286219,0,0
+identity,aligned local Q,open Q pairs,58,2188,54,2192,0.024635036496350366,0,0
+identity,aligned local Q,open Q triplets,58,1767,57,1768,0.03223981900452489,0,0
+identity,aligned local Q,DCT power,58,898,29,927,0.03128371089536138,0,0
+identity,aligned local Q,aligned pixels,58,104,44,118,0.3728813559322034,0,0
+identity,aligned local Q,aligned local Q,58,58,58,58,1.0,0,0
+identity,aligned local Q,aligned Q magnitude,58,94,43,109,0.3944954128440367,0,0
+identity,aligned local Q,aligned gradient strength,58,742,49,751,0.06524633821571238,0,0
+identity,aligned Q magnitude,pixels,94,617,41,670,0.06119402985074627,0,0
+identity,aligned Q magnitude,polar m1,94,1239,43,1290,0.03333333333333333,0,1155
+identity,aligned Q magnitude,global Q,94,1121,76,1139,0.06672519754170325,0,0
+identity,aligned Q magnitude,angular m4,94,1361,88,1367,0.06437454279444038,0,0
+identity,aligned Q magnitude,HOG,94,552,63,583,0.10806174957118353,0,0
+identity,aligned Q magnitude,local Q,94,253,28,319,0.0877742946708464,0,0
+identity,aligned Q magnitude,open Q pairs,94,2188,87,2195,0.03963553530751709,0,0
+identity,aligned Q magnitude,open Q triplets,94,1767,88,1773,0.049633389734912575,0,0
+identity,aligned Q magnitude,DCT power,94,898,36,956,0.03765690376569038,0,0
+identity,aligned Q magnitude,aligned pixels,94,104,49,149,0.3288590604026846,0,0
+identity,aligned Q magnitude,aligned local Q,94,58,43,109,0.3944954128440367,0,0
+identity,aligned Q magnitude,aligned Q magnitude,94,94,94,94,1.0,0,0
+identity,aligned Q magnitude,aligned gradient strength,94,742,85,751,0.11318242343541944,0,0
+identity,aligned gradient strength,pixels,742,617,311,1048,0.2967557251908397,0,0
+identity,aligned gradient strength,polar m1,742,1239,556,1425,0.39017543859649123,0,1155
+identity,aligned gradient strength,global Q,742,1121,587,1276,0.46003134796238243,0,0
+identity,aligned gradient strength,angular m4,742,1361,680,1423,0.47786366830639493,0,0
+identity,aligned gradient strength,HOG,742,552,428,866,0.4942263279445728,0,0
+identity,aligned gradient strength,local Q,742,253,136,859,0.15832363213038417,0,0
+identity,aligned gradient strength,open Q pairs,742,2188,697,2233,0.3121361397223466,0,0
+identity,aligned gradient strength,open Q triplets,742,1767,658,1851,0.35548352242031334,0,0
+identity,aligned gradient strength,DCT power,742,898,308,1332,0.23123123123123124,0,0
+identity,aligned gradient strength,aligned pixels,742,104,77,769,0.10013003901170352,0,0
+identity,aligned gradient strength,aligned local Q,742,58,49,751,0.06524633821571238,0,0
+identity,aligned gradient strength,aligned Q magnitude,742,94,85,751,0.11318242343541944,0,0
+identity,aligned gradient strength,aligned gradient strength,742,742,742,742,1.0,0,0
+class,pixels,pixels,1784,1784,1784,1784,1.0,0,0
+class,pixels,polar m1,1784,1318,929,2173,0.4275195582144501,0,1109
+class,pixels,global Q,1784,2167,1586,2365,0.6706131078224101,0,0
+class,pixels,angular m4,1784,2300,1631,2453,0.6649001222992255,0,0
+class,pixels,HOG,1784,1817,1471,2130,0.6906103286384977,0,0
+class,pixels,local Q,1784,1367,1230,1921,0.6402915148360229,0,0
+class,pixels,open Q pairs,1784,2253,1605,2432,0.6599506578947368,0,0
+class,pixels,open Q triplets,1784,2281,1604,2461,0.6517675741568468,0,0
+class,pixels,DCT power,1784,2130,1567,2347,0.6676608436301662,0,0
+class,pixels,aligned pixels,1784,1600,1424,1960,0.726530612244898,0,0
+class,pixels,aligned local Q,1784,1401,1187,1998,0.5940940940940941,0,0
+class,pixels,aligned Q magnitude,1784,1681,1390,2075,0.6698795180722892,0,0
+class,pixels,aligned gradient strength,1784,2006,1595,2195,0.7266514806378133,0,0
+class,polar m1,pixels,1318,1784,929,2173,0.4275195582144501,1109,0
+class,polar m1,polar m1,1318,1318,1318,1318,1.0,1109,1109
+class,polar m1,global Q,1318,2167,1142,2343,0.4874093043107128,1109,0
+class,polar m1,angular m4,1318,2300,1201,2417,0.4968969797269342,1109,0
+class,polar m1,HOG,1318,1817,975,2160,0.4513888888888889,1109,0
+class,polar m1,local Q,1318,1367,729,1956,0.3726993865030675,1109,0
+class,polar m1,open Q pairs,1318,2253,1164,2407,0.48358953053593684,1109,0
+class,polar m1,open Q triplets,1318,2281,1174,2425,0.4841237113402062,1109,0
+class,polar m1,DCT power,1318,2130,1125,2323,0.48428755919070166,1109,0
+class,polar m1,aligned pixels,1318,1600,809,2109,0.3835941204362257,1109,0
+class,polar m1,aligned local Q,1318,1401,722,1997,0.3615423134702053,1109,0
+class,polar m1,aligned Q magnitude,1318,1681,864,2135,0.40468384074941455,1109,0
+class,polar m1,aligned gradient strength,1318,2006,1065,2259,0.4714475431606906,1109,0
+class,global Q,pixels,2167,1784,1586,2365,0.6706131078224101,0,0
+class,global Q,polar m1,2167,1318,1142,2343,0.4874093043107128,0,1109
+class,global Q,global Q,2167,2167,2167,2167,1.0,0,0
+class,global Q,angular m4,2167,2300,1988,2479,0.8019362646228317,0,0
+class,global Q,HOG,2167,1817,1641,2343,0.7003841229193342,0,0
+class,global Q,local Q,2167,1367,1253,2281,0.5493204734765453,0,0
+class,global Q,open Q pairs,2167,2253,1920,2500,0.768,0,0
+class,global Q,open Q triplets,2167,2281,2008,2440,0.8229508196721311,0,0
+class,global Q,DCT power,2167,2130,1825,2472,0.7382686084142395,0,0
+class,global Q,aligned pixels,2167,1600,1449,2318,0.6251078515962036,0,0
+class,global Q,aligned local Q,2167,1401,1302,2266,0.5745807590467784,0,0
+class,global Q,aligned Q magnitude,2167,1681,1519,2329,0.652211249463289,0,0
+class,global Q,aligned gradient strength,2167,2006,1796,2377,0.7555742532604123,0,0
+class,angular m4,pixels,2300,1784,1631,2453,0.6649001222992255,0,0
+class,angular m4,polar m1,2300,1318,1201,2417,0.4968969797269342,0,1109
+class,angular m4,global Q,2300,2167,1988,2479,0.8019362646228317,0,0
+class,angular m4,angular m4,2300,2300,2300,2300,1.0,0,0
+class,angular m4,HOG,2300,1817,1679,2438,0.6886792452830188,0,0
+class,angular m4,local Q,2300,1367,1257,2410,0.5215767634854772,0,0
+class,angular m4,open Q pairs,2300,2253,2032,2521,0.8060293534311781,0,0
+class,angular m4,open Q triplets,2300,2281,2062,2519,0.8185788011115522,0,0
+class,angular m4,DCT power,2300,2130,1917,2513,0.76283326701154,0,0
+class,angular m4,aligned pixels,2300,1600,1478,2422,0.6102394715111478,0,0
+class,angular m4,aligned local Q,2300,1401,1300,2401,0.5414410662224073,0,0
+class,angular m4,aligned Q magnitude,2300,1681,1540,2441,0.6308889799262597,0,0
+class,angular m4,aligned gradient strength,2300,2006,1847,2459,0.7511183407889386,0,0
+class,HOG,pixels,1817,1784,1471,2130,0.6906103286384977,0,0
+class,HOG,polar m1,1817,1318,975,2160,0.4513888888888889,0,1109
+class,HOG,global Q,1817,2167,1641,2343,0.7003841229193342,0,0
+class,HOG,angular m4,1817,2300,1679,2438,0.6886792452830188,0,0
+class,HOG,HOG,1817,1817,1817,1817,1.0,0,0
+class,HOG,local Q,1817,1367,1265,1919,0.6591974986972381,0,0
+class,HOG,open Q pairs,1817,2253,1640,2430,0.6748971193415638,0,0
+class,HOG,open Q triplets,1817,2281,1662,2436,0.6822660098522167,0,0
+class,HOG,DCT power,1817,2130,1555,2392,0.6500836120401338,0,0
+class,HOG,aligned pixels,1817,1600,1349,2068,0.652321083172147,0,0
+class,HOG,aligned local Q,1817,1401,1256,1962,0.6401630988786952,0,0
+class,HOG,aligned Q magnitude,1817,1681,1410,2088,0.6752873563218391,0,0
+class,HOG,aligned gradient strength,1817,2006,1647,2176,0.7568933823529411,0,0
+class,local Q,pixels,1367,1784,1230,1921,0.6402915148360229,0,0
+class,local Q,polar m1,1367,1318,729,1956,0.3726993865030675,0,1109
+class,local Q,global Q,1367,2167,1253,2281,0.5493204734765453,0,0
+class,local Q,angular m4,1367,2300,1257,2410,0.5215767634854772,0,0
+class,local Q,HOG,1367,1817,1265,1919,0.6591974986972381,0,0
+class,local Q,local Q,1367,1367,1367,1367,1.0,0,0
+class,local Q,open Q pairs,1367,2253,1242,2378,0.5222876366694701,0,0
+class,local Q,open Q triplets,1367,2281,1253,2395,0.5231732776617954,0,0
+class,local Q,DCT power,1367,2130,1205,2292,0.5257417102966842,0,0
+class,local Q,aligned pixels,1367,1600,1116,1851,0.6029173419773096,0,0
+class,local Q,aligned local Q,1367,1401,1145,1623,0.7054836722119532,0,0
+class,local Q,aligned Q magnitude,1367,1681,1189,1859,0.6395911780527165,0,0
+class,local Q,aligned gradient strength,1367,2006,1268,2105,0.602375296912114,0,0
+class,open Q pairs,pixels,2253,1784,1605,2432,0.6599506578947368,0,0
+class,open Q pairs,polar m1,2253,1318,1164,2407,0.48358953053593684,0,1109
+class,open Q pairs,global Q,2253,2167,1920,2500,0.768,0,0
+class,open Q pairs,angular m4,2253,2300,2032,2521,0.8060293534311781,0,0
+class,open Q pairs,HOG,2253,1817,1640,2430,0.6748971193415638,0,0
+class,open Q pairs,local Q,2253,1367,1242,2378,0.5222876366694701,0,0
+class,open Q pairs,open Q pairs,2253,2253,2253,2253,1.0,0,0
+class,open Q pairs,open Q triplets,2253,2281,2021,2513,0.8042180660565061,0,0
+class,open Q pairs,DCT power,2253,2130,1902,2481,0.7666263603385731,0,0
+class,open Q pairs,aligned pixels,2253,1600,1464,2389,0.6128087065717873,0,0
+class,open Q pairs,aligned local Q,2253,1401,1269,2385,0.5320754716981132,0,0
+class,open Q pairs,aligned Q magnitude,2253,1681,1551,2383,0.6508602601762484,0,0
+class,open Q pairs,aligned gradient strength,2253,2006,1812,2447,0.7404985696771557,0,0
+class,open Q triplets,pixels,2281,1784,1604,2461,0.6517675741568468,0,0
+class,open Q triplets,polar m1,2281,1318,1174,2425,0.4841237113402062,0,1109
+class,open Q triplets,global Q,2281,2167,2008,2440,0.8229508196721311,0,0
+class,open Q triplets,angular m4,2281,2300,2062,2519,0.8185788011115522,0,0
+class,open Q triplets,HOG,2281,1817,1662,2436,0.6822660098522167,0,0
+class,open Q triplets,local Q,2281,1367,1253,2395,0.5231732776617954,0,0
+class,open Q triplets,open Q pairs,2281,2253,2021,2513,0.8042180660565061,0,0
+class,open Q triplets,open Q triplets,2281,2281,2281,2281,1.0,0,0
+class,open Q triplets,DCT power,2281,2130,1916,2495,0.767935871743487,0,0
+class,open Q triplets,aligned pixels,2281,1600,1464,2417,0.605709557302441,0,0
+class,open Q triplets,aligned local Q,2281,1401,1290,2392,0.5392976588628763,0,0
+class,open Q triplets,aligned Q magnitude,2281,1681,1542,2420,0.6371900826446281,0,0
+class,open Q triplets,aligned gradient strength,2281,2006,1829,2458,0.7441008950366151,0,0
+class,DCT power,pixels,2130,1784,1567,2347,0.6676608436301662,0,0
+class,DCT power,polar m1,2130,1318,1125,2323,0.48428755919070166,0,1109
+class,DCT power,global Q,2130,2167,1825,2472,0.7382686084142395,0,0
+class,DCT power,angular m4,2130,2300,1917,2513,0.76283326701154,0,0
+class,DCT power,HOG,2130,1817,1555,2392,0.6500836120401338,0,0
+class,DCT power,local Q,2130,1367,1205,2292,0.5257417102966842,0,0
+class,DCT power,open Q pairs,2130,2253,1902,2481,0.7666263603385731,0,0
+class,DCT power,open Q triplets,2130,2281,1916,2495,0.767935871743487,0,0
+class,DCT power,DCT power,2130,2130,2130,2130,1.0,0,0
+class,DCT power,aligned pixels,2130,1600,1424,2306,0.6175195143104943,0,0
+class,DCT power,aligned local Q,2130,1401,1228,2303,0.5332175423360833,0,0
+class,DCT power,aligned Q magnitude,2130,1681,1461,2350,0.6217021276595744,0,0
+class,DCT power,aligned gradient strength,2130,2006,1722,2414,0.7133388566694283,0,0
+class,aligned pixels,pixels,1600,1784,1424,1960,0.726530612244898,0,0
+class,aligned pixels,polar m1,1600,1318,809,2109,0.3835941204362257,0,1109
+class,aligned pixels,global Q,1600,2167,1449,2318,0.6251078515962036,0,0
+class,aligned pixels,angular m4,1600,2300,1478,2422,0.6102394715111478,0,0
+class,aligned pixels,HOG,1600,1817,1349,2068,0.652321083172147,0,0
+class,aligned pixels,local Q,1600,1367,1116,1851,0.6029173419773096,0,0
+class,aligned pixels,open Q pairs,1600,2253,1464,2389,0.6128087065717873,0,0
+class,aligned pixels,open Q triplets,1600,2281,1464,2417,0.605709557302441,0,0
+class,aligned pixels,DCT power,1600,2130,1424,2306,0.6175195143104943,0,0
+class,aligned pixels,aligned pixels,1600,1600,1600,1600,1.0,0,0
+class,aligned pixels,aligned local Q,1600,1401,1214,1787,0.6793508673754897,0,0
+class,aligned pixels,aligned Q magnitude,1600,1681,1342,1939,0.6921093347086127,0,0
+class,aligned pixels,aligned gradient strength,1600,2006,1492,2114,0.7057710501419111,0,0
+class,aligned local Q,pixels,1401,1784,1187,1998,0.5940940940940941,0,0
+class,aligned local Q,polar m1,1401,1318,722,1997,0.3615423134702053,0,1109
+class,aligned local Q,global Q,1401,2167,1302,2266,0.5745807590467784,0,0
+class,aligned local Q,angular m4,1401,2300,1300,2401,0.5414410662224073,0,0
+class,aligned local Q,HOG,1401,1817,1256,1962,0.6401630988786952,0,0
+class,aligned local Q,local Q,1401,1367,1145,1623,0.7054836722119532,0,0
+class,aligned local Q,open Q pairs,1401,2253,1269,2385,0.5320754716981132,0,0
+class,aligned local Q,open Q triplets,1401,2281,1290,2392,0.5392976588628763,0,0
+class,aligned local Q,DCT power,1401,2130,1228,2303,0.5332175423360833,0,0
+class,aligned local Q,aligned pixels,1401,1600,1214,1787,0.6793508673754897,0,0
+class,aligned local Q,aligned local Q,1401,1401,1401,1401,1.0,0,0
+class,aligned local Q,aligned Q magnitude,1401,1681,1256,1826,0.687842278203724,0,0
+class,aligned local Q,aligned gradient strength,1401,2006,1327,2080,0.6379807692307692,0,0
+class,aligned Q magnitude,pixels,1681,1784,1390,2075,0.6698795180722892,0,0
+class,aligned Q magnitude,polar m1,1681,1318,864,2135,0.40468384074941455,0,1109
+class,aligned Q magnitude,global Q,1681,2167,1519,2329,0.652211249463289,0,0
+class,aligned Q magnitude,angular m4,1681,2300,1540,2441,0.6308889799262597,0,0
+class,aligned Q magnitude,HOG,1681,1817,1410,2088,0.6752873563218391,0,0
+class,aligned Q magnitude,local Q,1681,1367,1189,1859,0.6395911780527165,0,0
+class,aligned Q magnitude,open Q pairs,1681,2253,1551,2383,0.6508602601762484,0,0
+class,aligned Q magnitude,open Q triplets,1681,2281,1542,2420,0.6371900826446281,0,0
+class,aligned Q magnitude,DCT power,1681,2130,1461,2350,0.6217021276595744,0,0
+class,aligned Q magnitude,aligned pixels,1681,1600,1342,1939,0.6921093347086127,0,0
+class,aligned Q magnitude,aligned local Q,1681,1401,1256,1826,0.687842278203724,0,0
+class,aligned Q magnitude,aligned Q magnitude,1681,1681,1681,1681,1.0,0,0
+class,aligned Q magnitude,aligned gradient strength,1681,2006,1604,2083,0.7700432069131061,0,0
+class,aligned gradient strength,pixels,2006,1784,1595,2195,0.7266514806378133,0,0
+class,aligned gradient strength,polar m1,2006,1318,1065,2259,0.4714475431606906,0,1109
+class,aligned gradient strength,global Q,2006,2167,1796,2377,0.7555742532604123,0,0
+class,aligned gradient strength,angular m4,2006,2300,1847,2459,0.7511183407889386,0,0
+class,aligned gradient strength,HOG,2006,1817,1647,2176,0.7568933823529411,0,0
+class,aligned gradient strength,local Q,2006,1367,1268,2105,0.602375296912114,0,0
+class,aligned gradient strength,open Q pairs,2006,2253,1812,2447,0.7404985696771557,0,0
+class,aligned gradient strength,open Q triplets,2006,2281,1829,2458,0.7441008950366151,0,0
+class,aligned gradient strength,DCT power,2006,2130,1722,2414,0.7133388566694283,0,0
+class,aligned gradient strength,aligned pixels,2006,1600,1492,2114,0.7057710501419111,0,0
+class,aligned gradient strength,aligned local Q,2006,1401,1327,2080,0.6379807692307692,0,0
+class,aligned gradient strength,aligned Q magnitude,2006,1681,1604,2083,0.7700432069131061,0,0
+class,aligned gradient strength,aligned gradient strength,2006,2006,2006,2006,1.0,0,0

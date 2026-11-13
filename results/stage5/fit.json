@@ -1,0 +1,45 @@
+{
+  "seed": 5109,
+  "groups_per_family": 32,
+  "splits": {
+    "train": [
+      "independent",
+      "compact"
+    ],
+    "development": [
+      "diagonal"
+    ],
+    "test": [
+      "elongated",
+      "checker-biased",
+      "separable"
+    ]
+  },
+  "selected_single": "aligned sign-free pixels",
+  "temperature": 0.05,
+  "penalty": 0.02,
+  "weights": {
+    "orientation histogram": 2.647722587714604e-17,
+    "orientation pairs": 0.0,
+    "orientation triplets": 3.469446951953614e-17,
+    "aligned orientation": 1.0,
+    "intensity power": 1.240319641023854e-17,
+    "aligned sign-free pixels": 0.0
+  },
+  "training_scales": {
+    "orientation histogram": 0.0,
+    "orientation pairs": 0.23447094598171983,
+    "orientation triplets": 0.306902553000132,
+    "aligned orientation": 0.3530548122599033,
+    "intensity power": 0.0027354865660777494,
+    "aligned sign-free pixels": 0.08930770857432557
+  },
+  "scaled_weights": {
+    "orientation histogram": 2.3636351244638292e-17,
+    "orientation pairs": 0.0,
+    "orientation triplets": 0.0,
+    "aligned orientation": 1.0,
+    "intensity power": 1.4763032685285688e-17,
+    "aligned sign-free pixels": 4.889856777043831e-19
+  }
+}

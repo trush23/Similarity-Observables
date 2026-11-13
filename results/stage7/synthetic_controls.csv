@@ -1,0 +1,67 @@
+intervention,method,distance
+add brightness offset,pixels,0.0993065196819547
+add brightness offset,polar m1,1.1102230246251565e-16
+add brightness offset,global Q,1.1102230246251565e-16
+add brightness offset,angular m4,1.1102230246251565e-16
+add brightness offset,HOG,0.0
+add brightness offset,local Q,4.440892098500626e-16
+add brightness offset,open Q pairs,1.1102230246251565e-16
+add brightness offset,open Q triplets,1.1102230246251565e-16
+add brightness offset,DCT power,4.440892098500626e-16
+add brightness offset,aligned pixels,0.07165426378962758
+add brightness offset,aligned local Q,4.440892098500626e-16
+gain 0.55,pixels,0.29032258064516125
+gain 0.55,polar m1,0.0
+gain 0.55,global Q,1.1102230246251565e-16
+gain 0.55,angular m4,1.1102230246251565e-16
+gain 0.55,HOG,0.010571938862219188
+gain 0.55,local Q,0.2631245275832783
+gain 0.55,open Q pairs,0.49217365020654236
+gain 0.55,open Q triplets,0.6686996006855016
+gain 0.55,DCT power,0.5355086372360843
+gain 0.55,aligned pixels,0.26301648836531144
+gain 0.55,aligned local Q,0.2631245275832781
+reverse contrast,pixels,0.2884031665660527
+reverse contrast,polar m1,1.0
+reverse contrast,global Q,1.1102230246251565e-16
+reverse contrast,angular m4,0.0
+reverse contrast,HOG,0.0
+reverse contrast,local Q,5.551115123125783e-16
+reverse contrast,open Q pairs,0.0
+reverse contrast,open Q triplets,1.1102230246251565e-16
+reverse contrast,DCT power,2.220446049250313e-16
+reverse contrast,aligned pixels,0.27122230179404627
+reverse contrast,aligned local Q,5.551115123125783e-16
+shift compact pattern,pixels,0.342111728324888
+shift compact pattern,polar m1,0.0
+shift compact pattern,global Q,1.1102230246251565e-16
+shift compact pattern,angular m4,0.0
+shift compact pattern,HOG,0.09284266209553582
+shift compact pattern,local Q,0.5080512920814427
+shift compact pattern,open Q pairs,0.040485250016819574
+shift compact pattern,open Q triplets,0.0412223804488957
+shift compact pattern,DCT power,0.10859338302458854
+shift compact pattern,aligned pixels,0.0
+shift compact pattern,aligned local Q,0.0
+rotate gradient axis 90°,pixels,0.20892120389333124
+rotate gradient axis 90°,polar m1,0.7071067811865476
+rotate gradient axis 90°,global Q,1.0
+rotate gradient axis 90°,angular m4,0.0
+rotate gradient axis 90°,HOG,0.7071067811865476
+rotate gradient axis 90°,local Q,1.0
+rotate gradient axis 90°,open Q pairs,1.1102230246251565e-16
+rotate gradient axis 90°,open Q triplets,1.0000000000000002
+rotate gradient axis 90°,DCT power,0.6034491801898823
+rotate gradient axis 90°,aligned pixels,0.19585710595284778
+rotate gradient axis 90°,aligned local Q,0.9999999999999998
+rearrange identical motifs,pixels,0.48591265790377514
+rearrange identical motifs,polar m1,0.9999999999999792
+rearrange identical motifs,global Q,0.0
+rearrange identical motifs,angular m4,0.0
+rearrange identical motifs,HOG,0.2510545961143533
+rearrange identical motifs,local Q,0.6129204105813738
+rearrange identical motifs,open Q pairs,0.19556162672322086
+rearrange identical motifs,open Q triplets,0.2971530892987806
+rearrange identical motifs,DCT power,0.3362557151425778
+rearrange identical motifs,aligned pixels,0.48591265790377514
+rearrange identical motifs,aligned local Q,0.6129204105813738
